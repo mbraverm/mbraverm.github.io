@@ -2,8 +2,8 @@
 # for more information on how to configure this file
 
 ---
-baseURL: https://jlumbroso.github.io/hugo-geekdoc-github-example
-title: Hugo Geekdoc Example
+baseURL: https://mbraverm.github.io
+title: Mark Braverman's Home Page
 theme: hugo-geekdoc
 pygmentsUseClasses: true
 pygmentsCodeFences: true
@@ -26,7 +26,7 @@ params:
 #  geekdocMenuBundle: true
   geekdocToC: 3
 
-  geekdocRepo: https://github.com/jlumbroso/hugo-geekdoc-github-example
+  geekdocRepo: https://github.com/mbraverm/mbraverm.github.io
   geekdocEditPath: edit/main/content
 
   geekdocSearch: true
