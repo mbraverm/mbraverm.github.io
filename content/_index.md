@@ -9,8 +9,11 @@ title: Mark Braverman
 
 {{< columns >}} <!-- begin columns block -->
 
+{{% center %}}
+
 ![Mark Braverman professional headshot, 2019](/media/Braverman-2019-small.png)
 
+{{% /center %}}
 <---> <!-- magic sparator, between columns -->
 
 
