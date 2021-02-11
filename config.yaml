@@ -11,7 +11,7 @@ timeout: 180000
 
 # Geekdoc configuration
 disablePathToLower: true
-enableGitInfo: true
+enableGitInfo: false
 
 # Needed for mermaid shortcodes
 markup:
