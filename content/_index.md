@@ -13,15 +13,18 @@ title: Mark Braverman
 
 <---> <!-- magic sparator, between columns -->
 
-{{< /columns >}}
 
 I am a professor at the [Department of Computer Science](https://www.cs.princeton.edu/)
 at [Princeton University](https://www.princeton.edu/).
 
-My office is *231* in *194 Nassau Street* (see campus map
-[here](https://m.princeton.edu/default/map/map?filter=194%20Nassau&_recenter=true)).
+My office is *304 in CS Building* (see campus map
+[here](https://etcweb.princeton.edu/pumap/#167)).
 
 My brief bio can be found [here](/about/brief-bio/).
+
+{{< /columns >}}
+
+
 
 Other contact information.
 
@@ -48,7 +51,7 @@ at [ISIT'15](https://www.isit2015.org/) in Hong Kong.
 [FOCS'12](http://ieee-focs.org/focs2012/).
 
 ## Papers
-All papers
+[All papers](/research/all-papers/)
 
 ## Teaching
 - Fall 2015: COS 340 Reasoning about computation.
