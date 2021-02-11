@@ -5,9 +5,9 @@ weight: 20
 
 This page is under construction.
 
-#### Talks on information complexity:
+#### Talks on complexity theory:
 
-A 15 minutes high level overview: [\[pdf\]](/files/NSB-Braverman-2019.pdf)
+A 15 minutes high level overview on theoretical computer science and information complexity: [\[pdf\]](/files/NSB-Braverman-2019.pdf)
 
 #### New bounds on the Grothendieck constant
 
