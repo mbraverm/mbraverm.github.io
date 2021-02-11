@@ -11,7 +11,7 @@ title: Mark Braverman
 
 {{% center %}}
 
-![Mark Braverman professional headshot, 2019](/media/Braverman-2019-small.png)
+[![Mark Braverman professional headshot, 2019](/media/Braverman-2019-small.png)](/media/Braverman-2019.jpg)
 
 {{% /center %}}
 <---> <!-- magic sparator, between columns -->
