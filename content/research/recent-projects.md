@@ -5,6 +5,10 @@ weight: 20
 
 This page is under construction.
 
+#### Talks on information complexity:
+
+A 15 minutes high level overview: [\[pdf\]](/files/NSB-Braverman-2019.pdf)
+
 #### New bounds on the Grothendieck constant
 
 Let ![A](https://chart.googleapis.com/chart?cht=tx&chl=A "A") be an ![n\times n](https://chart.googleapis.com/chart?cht=tx&chl=n%5Ctimes+n "n\times n") matrix. It gives rise to the quadratic form ![\sum_{i,j} A_{ij} x_i y_j](https://chart.googleapis.com/chart?cht=tx&chl=%5Csum_%7Bi%2Cj%7DA_%7Bij%7Dx_i+y_j "\sum_{i,j} A_{ij} x_i y_j"). The [Grothendieck constant](https://en.wikipedia.org/wiki/Grothendieck_inequality) ![k](https://chart.googleapis.com/chart?cht=tx&chl=k "k") bounds the ratio between the maximum of this form when ![x_i,y_j](https://chart.googleapis.com/chart?cht=tx&chl=x_i%2Cy_j "x_i,y_j") are unit vectors in a Hilbert space and the maximum of this form when ![x_i,y_j\in \{-1,1\}](https://chart.googleapis.com/chart?cht=tx&chl=x_i%2Cy_j%5Cin+%5C%7B-1%2C1%5C%7D "x_i,y_j\in \{-1,1\}") are just real numbers. In other words, ![k](https://chart.googleapis.com/chart?cht=tx&chl=k "k") is the smallest number such that for all ![A](https://chart.googleapis.com/chart?cht=tx&chl=A "A"),
