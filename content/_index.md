@@ -21,7 +21,7 @@ at [Princeton University](https://www.princeton.edu/).
 My office is *231* in *194 Nassau Street* (see campus map
 [here](https://m.princeton.edu/default/map/map?filter=194%20Nassau&_recenter=true)).
 
-My brief bio can be found here.
+My brief bio can be found [here](/about/brief-bio/).
 
 Other contact information.
 
