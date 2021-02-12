@@ -43,7 +43,7 @@ With first place of employment/study:
 * [Klim Efremenko](https://www.cs.tau.ac.il/~klim/), 2012-13, IAS; Postdoc at the University of Chicago.
 * [Ankur Moitra](https://people.csail.mit.edu/moitra/), 2011-13, IAS; Faculty at MIT.
 * [Jing Chen](https://www.cs.stonybrook.edu/~jingchen/), 2012-13, IAS; Faculty in Stony Brook University.
-* [Eden Chlamtac](https://www.cs.princeton.edu/~chlamtac/), 2010, Toronto; Faculty in Ben Gurion University, Be'er Sheva, Israel.
+* [Eden Chlamtac](https://www.cs.princeton.edu/~chlamtac/), 2010, Toronto; Faculty in Ben Gurion University, Be'er Sheva, Israel.
 * [Per Austrin](https://www.csc.kth.se/~austrin/), 2010-11, Toronto; Faculty in KTH, Stockholm, Sweden.
 * [Cristobal Rojas](https://www.math.toronto.edu/crojas/), 2010-11, Toronto; Faculty in Universidad Andres Bello, Santiago, Chile.
 
