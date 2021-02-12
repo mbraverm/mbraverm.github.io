@@ -7,6 +7,8 @@ weight: 50
 
 ### Graduate students:
 
+* [Antonio Molina Lovett](https://amolina.ca/)
+
 ### Postdocs:
 
 * [Vijay Bhattiprolu](http://vspvijay.com/)
