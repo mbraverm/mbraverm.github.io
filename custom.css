@@ -1,1 +1,15 @@
-/* You can add custom styles here. */
+img[src$='#float-right']{
+	max-width: 30%;
+    padding-left: 1%;
+	width: auto\9*0.3; /* ie8 */
+	height: auto;
+	float: right;
+}
+
+img[src$='#float-left'] {
+	max-width: 30%;
+    padding-right: 1%;
+	width: auto\9*0.3; /* ie8 */
+	height: auto;
+	float: left;
+}
