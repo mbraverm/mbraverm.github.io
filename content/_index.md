@@ -7,14 +7,7 @@ title: Mark Braverman
 
 <!-- markdownlint-restore -->
 
-{{< columns >}} <!-- begin columns block -->
-
-
-
-[![Mark Braverman professional headshot, 2019](/media/Braverman-2019-small.png)](/media/Braverman-2019.jpg)
-
-<---> <!-- magic sparator, between columns -->
-
+[![Mark Braverman professional headshot, 2019](/media/Braverman-2019-small.png#float-left)](/media/Braverman-2019.jpg)
 
 I am a professor at the [Department of Computer Science](https://www.cs.princeton.edu/)
 at [Princeton University](https://www.princeton.edu/).
@@ -24,15 +17,13 @@ My office is *304 in CS Building* (see campus map
 
 My brief bio can be found [here](/about/brief-bio/).
 
-{{< /columns >}}
-
-
-
-Other contact information.
-
 I am interested in complexity theory, the theory of real computation, machine learning, algorithms, game theory, and applications of computer science in healthcare and medicine.
 
 My e-mail address: `#######@cs.princeton.edu`, replacing `#######` with `mbraverm`.
+
+
+<br/>
+
 
 ## Activities
 I co-organized a semester on the **Nexus of Information and Computation Theories**
