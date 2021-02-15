@@ -32,3 +32,5 @@ params:
   geekdocSearch: true
   geekdocSearchShowParent: true
 
+  geekdocLogo: /media/princeton-shield-square.png
+
