@@ -1,6 +1,6 @@
 ---
 title: Joining the group
-weight: 50
+weight: 20
 ---
 
 **Thank you for you interest in joining the group!**

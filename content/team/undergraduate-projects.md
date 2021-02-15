@@ -1,5 +1,5 @@
 ---
-title: Undergraduate Projects
+title: Undergraduate projects
 weight: 100
 ---
 

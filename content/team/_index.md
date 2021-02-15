@@ -1,5 +1,5 @@
 ---
-title: Team
+title: Group
 weight: 100
 ---
 

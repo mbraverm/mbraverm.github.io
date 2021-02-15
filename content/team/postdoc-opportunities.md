@@ -1,6 +1,6 @@
 ---
-title: Postdoc Opportunities
-weight: 50
+title: Postdoc opportunities
+weight: 30
 ---
 
 **We have several exciting postdoctoral opportunities in Princeton and the area.**

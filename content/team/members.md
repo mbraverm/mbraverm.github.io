@@ -1,6 +1,6 @@
 ---
 title: Members
-weight: 50
+weight: 10
 ---
 
 ## Current Group Members
