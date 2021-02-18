@@ -7,7 +7,7 @@ title: Mark Braverman
 
 <!-- markdownlint-restore -->
 
-[![Mark Braverman professional headshot, 2019](/media/Braverman-2019-small.png#float-left)](/media/Braverman-2019.jpg)
+[![Mark Braverman professional headshot, 2019](/media/Braverman-2019-small.jpg#float-left)](/media/Braverman-2019.jpg)
 
 I am a professor at the [Department of Computer Science](https://www.cs.princeton.edu/)
 at [Princeton University](https://www.princeton.edu/).
@@ -47,15 +47,7 @@ at [ISIT'15](https://www.isit2015.org/) in Hong Kong.
 [All papers](/research/all-papers/)
 
 ## Teaching
-- Fall 2015: COS 340 Reasoning about computation.
-- Fall 2014: COS 597A AdTopCS: Algorithmic mechanism design
-- Fall 2014: COS 340 Reasoning about computation.
-- Spring 2014: COS 445 Networks, economics and computing.
-- Fall 2013: COS 597F AdTopCS: Topics in Information Theory in Computer Science.
-- Spring 2013: COS 340 Reasoning about computation.
-- Fall 2012: COS 445 Networks, economics and computing.
-- Spring 2012: COS 340 Reasoning about computation.
-- Fall 2011: COS 597D AdTopCS: Information Theory in CS.
+- Fall 2021: COS521 Advanced algorithm design
 
 ## Collaborators, present and past
 
