@@ -17,7 +17,7 @@ My office is *304 in CS Building* (see campus map
 
 My brief bio can be found [here](/about/brief-bio/).
 
-I am interested in complexity theory, the theory of real computation, machine learning, algorithms, game theory, and applications of computer science in healthcare and medicine.
+I am interested in complexity theory, information theory, the theory of real computation, machine learning, algorithms, algorithmic mechanism design, and its applications. 
 
 My e-mail address: `#######@cs.princeton.edu`, replacing `#######` with `mbraverm`.
 
@@ -49,10 +49,9 @@ at [ISIT'15](https://www.isit2015.org/) in Hong Kong.
 ## Teaching
 - Fall 2021: COS521 Advanced algorithm design
 
-## Collaborators, present and past
-
+<!--
+## Collaborators, present and past 
 I have been very fortunate to work with many collaborators:
-
 [Misha Alekhnovich](https://www.math.ias.edu/~misha/);
 [Noga Alon](https://www.tau.ac.il/~nogaa/);
 [Alex Andoni](https://www.mit.edu/~andoni/);
@@ -123,4 +122,5 @@ Dave Touchette;
 [Dustin Wehr](https://www.cs.utoronto.ca/~wehr/);
 [David Woodruff](https://researcher.watson.ibm.com/researcher/view.php?person=us-dpwoodru);
 [Michael Yampolsky](https://www.math.toronto.edu/yampol/);
-[Amir Yehudayoff](https://www.technion.ac.il/~yehuday/).
+[Amir Yehudayoff](https://www.technion.ac.il/~yehuday/). 
+-->
