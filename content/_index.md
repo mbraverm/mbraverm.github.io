@@ -7,7 +7,7 @@ title: Mark Braverman
 
 <!-- markdownlint-restore -->
 
-[![Mark Braverman professional headshot, 2019](/media/Braverman-2019-small.png#float-left)](/media/Braverman-2019.jpg)
+[![Mark Braverman professional headshot, 2019](/media/Braverman-2019-small.jpg#float-left)](/media/Braverman-2019.jpg)
 
 I am a professor at the [Department of Computer Science](https://www.cs.princeton.edu/)
 at [Princeton University](https://www.princeton.edu/).
@@ -17,7 +17,7 @@ My office is *304 in CS Building* (see campus map
 
 My brief bio can be found [here](/about/brief-bio/).
 
-I am interested in complexity theory, the theory of real computation, machine learning, algorithms, game theory, and applications of computer science in healthcare and medicine.
+I am interested in complexity theory, information theory, the theory of real computation, machine learning, algorithms, algorithmic mechanism design, and its applications. 
 
 My e-mail address: `#######@cs.princeton.edu`, replacing `#######` with `mbraverm`.
 
@@ -47,20 +47,11 @@ at [ISIT'15](https://www.isit2015.org/) in Hong Kong.
 [All papers](/research/all-papers/)
 
 ## Teaching
-- Fall 2015: COS 340 Reasoning about computation.
-- Fall 2014: COS 597A AdTopCS: Algorithmic mechanism design
-- Fall 2014: COS 340 Reasoning about computation.
-- Spring 2014: COS 445 Networks, economics and computing.
-- Fall 2013: COS 597F AdTopCS: Topics in Information Theory in Computer Science.
-- Spring 2013: COS 340 Reasoning about computation.
-- Fall 2012: COS 445 Networks, economics and computing.
-- Spring 2012: COS 340 Reasoning about computation.
-- Fall 2011: COS 597D AdTopCS: Information Theory in CS.
+- Fall 2021: COS521 Advanced algorithm design
 
-## Collaborators, present and past
-
+<!--
+## Collaborators, present and past 
 I have been very fortunate to work with many collaborators:
-
 [Misha Alekhnovich](https://www.math.ias.edu/~misha/);
 [Noga Alon](https://www.tau.ac.il/~nogaa/);
 [Alex Andoni](https://www.mit.edu/~andoni/);
@@ -131,4 +122,5 @@ Dave Touchette;
 [Dustin Wehr](https://www.cs.utoronto.ca/~wehr/);
 [David Woodruff](https://researcher.watson.ibm.com/researcher/view.php?person=us-dpwoodru);
 [Michael Yampolsky](https://www.math.toronto.edu/yampol/);
-[Amir Yehudayoff](https://www.technion.ac.il/~yehuday/).
+[Amir Yehudayoff](https://www.technion.ac.il/~yehuday/). 
+-->

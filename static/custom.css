@@ -2,7 +2,7 @@
 /* Site header */
 
 .gdoc-header { background: #fdcf7e; border-color: #404040; }
-.gdoc-header__link, .gdoc-header__link:visited { color: #ffffff; }
+.gdoc-header__link, .gdoc-header__link:visited { color: #000000; }
 
 /* Styling hacks to have floating images */
 
