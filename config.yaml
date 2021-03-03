@@ -23,6 +23,8 @@ markup:
     endLevel: 9
 
 params:
+  math: true
+  
 #  geekdocMenuBundle: true
   geekdocToC: 3
 
