@@ -1,5 +1,5 @@
 ---
-title: Books
+title: Book
 weight: 50
 ---
 
