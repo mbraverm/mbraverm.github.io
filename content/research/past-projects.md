@@ -11,7 +11,7 @@ A 15 minutes high level overview on theoretical computer science and information
 
 #### New bounds on the Grothendieck constant
 
-Let $$A$$ be an $$n\times n$$matrix. It gives rise to the quadratic form $$\sum_{i,j} A_{ij} x_i y_j$$. The [Grothendieck constant](https://en.wikipedia.org/wiki/Grothendieck_inequality) $$k$$ bounds the ratio between the maximum of this form when $$x_i,y_j$$ are unit vectors in a Hilbert space and the maximum of this form when $$x_i,y_j\in \{-1,1\}$$ are just real numbers. In other words, $$k$$ is the smallest number such that for all $$A$$,
+Let $$A$$ be an $$n\times n$$matrix. It gives rise to the quadratic form \(\sum_{i,j} A_{ij} x_i y_j\). The [Grothendieck constant](https://en.wikipedia.org/wiki/Grothendieck_inequality) $$k$$ bounds the ratio between the maximum of this form when $$x_i,y_j$$ are unit vectors in a Hilbert space and the maximum of this form when $$x_i,y_j\in \{-1,1\}$$ are just real numbers. In other words, $$k$$ is the smallest number such that for all $$A$$,
 
 $$\left|\max_{||X_i||,||Y_j||\leq 1} A_{ij} \langle X_i, Y_j \rangle\right| \leq k\cdot \left|\max_{x_i,y_j\in \{-1,1\}} A_{ij} x_i y_j\right|.$$
 
