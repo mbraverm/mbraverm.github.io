@@ -1,5 +1,5 @@
 ---
-title: Recent projects
+title: Past projects
 weight: 20
 ---
 
