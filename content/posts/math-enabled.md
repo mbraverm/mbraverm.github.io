@@ -7,11 +7,11 @@ draft: false
 
 Math is now enabled:
 
-Inline math: $ \varphi = \dfrac{1+\sqrt5}{2}= 1.6180339887… $; or 
+Inline math: $\varphi = \dfrac{1+\sqrt5}{2}= 1.6180339887…$; or 
 
 Block math:
 
 $$
- \varphi = 1+\frac{1} {1+\frac{1} {1+\frac{1} {1+\cdots} } } 
+\varphi = 1+\frac{1} {1+\frac{1} {1+\frac{1} {1+\cdots} } } 
 $$
 
