@@ -24,6 +24,6 @@ The goal of information complexity is to learn to apply information-theoretic fo
 
 #### Two party communication 
 
-[A randomized two-party protocol](/media/Braverman-2019-small.jpg#float-right)
+In the two-party setting, two players (Alice and Bob) are given inputs ![A randomized two-party protocol](/media/Protocol1.PNG#float-right)
 
 *Further reading*: a survey can be found here. 
