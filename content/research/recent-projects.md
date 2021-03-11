@@ -1,7 +1,7 @@
 ---
 title: Recent projects
 weight: 20
-draft: false
+draft: true
 ---
 
 ## Information complexity
