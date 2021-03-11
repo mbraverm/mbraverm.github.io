@@ -24,6 +24,7 @@ The goal of information complexity is to learn to apply information-theoretic fo
 
 #### Two party communication 
 
-In the two-party setting, two players (Alice and Bob) are given inputs ![A randomized two-party protocol](/media/Protocol1.PNG#float-right)
+In the two-party [communication complexity]() setting, two players (Alice and Bob) are given inputs $X$ and $Y$. They are also allowed to use a randomness source $R$. 
+A *protocol* $\pi$ is just a formalization of a conversation: each message in $\pi$ is allowed to depend on the speaker's input, on the conversation so far, and on the public randomness. ![A randomized two-party protocol](/media/Protocol1.PNG#float-right)
 
 *Further reading*: a survey can be found here. 
