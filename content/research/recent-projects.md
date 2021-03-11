@@ -14,7 +14,7 @@ The *chain rule*
 $$
 I(M_1 M_2; X) = I(M_1; X) + I(M_2; X|M_1)
 $$
-is just a precise way to formalize the intuitive fact that what one lears from two messages $M_1 M_2$ about $X$ can be decomposed into what we learned from the first message plus what we learned from the second message when we already knew the first one. The *data processing inequality*
+is just a precise way to formalize the intuitive fact that what one learns from two messages $M_1 M_2$ about $X$ can be decomposed into what we learned from the first message plus what we learned from the second message when we already knew the first one. The *data processing inequality*
 $$
 I(X;F(Y)) \le I(X;Y)
 $$
@@ -24,6 +24,6 @@ The goal of information complexity is to learn to apply information-theoretic fo
 
 #### Two party communication 
 
-
+[A randomized two-party protocol](/media/Braverman-2019-small.jpg#float-right)
 
 *Further reading*: a survey can be found here. 
