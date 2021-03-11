@@ -26,12 +26,25 @@ The goal of information complexity is to learn to apply information-theoretic fo
 
 ![A randomized two-party protocol](/media/Protocol1.PNG#float-right)
 
-In the two-party [communication complexity](https://en.wikipedia.org/wiki/Communication_complexity) setting, two players (Alice and Bob) are given inputs $X$ and $Y$. They are also allowed to use a randomness source $R$. A *protocol* $\pi$ is just a formalization of a conversation: each message in $\pi$ is allowed to depend on the speaker's input, on the conversation so far, and on the public randomness. The *communication cost* of a protocol is the number of bits communicated during its execution. The *communication complexity* of a task $T$ is the smallest communication cost of a protocol $\pi$ solving $T$. In the context of communication complexity, $T$ is typically the task of "computing a given function $F(X,Y)$ with error probability $<\varepsilon$". 
+In the two-party [communication complexity](https://en.wikipedia.org/wiki/Communication_complexity) setting, two players (Alice and Bob) are given inputs $X$ and $Y$. They are also allowed to use a randomness source $R$. A *protocol* $\pi$ is just a formalization of a conversation: each message in $\pi$ is allowed to depend on the speaker's input, on the conversation so far, and on the public randomness. The *communication cost* of a protocol is the number of bits communicated during its execution. The *communication complexity* $CC(T)$ of a task $T$ is the smallest communication cost of a protocol $\pi$ solving $T$. In the context of communication complexity, $T$ is typically the task of "computing a given function $F(X,Y)$ with error probability $<\varepsilon$". 
 
 An instructive example is the *Equality* problem. Alice is given an $n$-bit string $X$, Bob is given an $n$-bit string $Y$, and they would like to determine whether $X=Y$. It can be shown that this can be accomplished with error $<\varepsilon$ using $k \sim \log (1/\varepsilon)$ bits of communication. Alice will compute a random hash $h(X)$ of lenght $k$ on her input $X$ and send the value to Bob. Bob will compare $h(X)$ to $h(Y)$, and will return 'equal' if they match. There is a $2^{-k}$ probability of hash collision, which means that 'equal' is returned with probability $\approx 2^{-k}$ even when $X\neq Y$. Interestingly, a zero-error protocol for equality requires $n+1$ bits of communication. 
 
 Another function with many applications in lower bounds is *Disjointness*. Alice and Bob are given subsets $X,Y\subset \lbrace 1,\ldots,n\rbrace$ (wich can be represented as length-$n$ bit-strings), and need to determine whether they have an element in common. $Disj_n(X,Y)=1$ if the sets are disjoint, and $0$ if they intersect. 
 
 The *direct sum* problem (in any model of computation) asks whether it costs $k$ times as much to perform $k$ independent copies of a task $T$ as it costs to perform one copy, or whether one gets a "volume discount". When direct sum holds, one gets a powerful lower bounds tool --- a lower bound $L$ on $T$ gets amplified into a lower bound of $k\cdot L$ on the task $T^k$ of performing $k$ copies of $T$. When direct sum fails, new interesting algorithms follow. A famous example of such a failure is matrix-vector multiplication. A counting argument shows that one needs $>n^2$ operations to mutiply an $n\times n$ matrix $A$ by a vector $v$. At the same time, multiplying $A$ by $n$ different vectors $v_1,\ldots,v_n$ is just the problem of multiplying two $n\times n$ matrices, which can be done faster than $n\cdot n^2=n^3$ via [fast matrix multiplication](https://en.wikipedia.org/wiki/Matrix_multiplication_algorithm#Sub-cubic_algorithms). 
+
+The *Direct Sum Problem* for randomized communication complexity asked whether the direct sum property holds for randomized communication complexity. That is, whether $CC(T^k)\gtrsim k\cdot CC(T)$? It turns out that trying to answer this question is closely related to understanding the *information complexity* of $F$. 
+
+Information complexity is defined similarly to communication complexity, with information cost replacing communication cost. The (two-party) *information cost* of a protocol $\Pi$ on inputs $(X,Y)$ is defined to be the amount of information the participants learn about each other's inputs during the execution of the protocol. Fortunately, the information-theoretic notation makes this quantity easy to formalize:
+$$
+IC(\Pi):= I(X;\Pi|Y) + I(Y;\Pi|X). 
+$$
+The first term corresponds to what Bob (who knows $Y$) learns about Alice's input ($X$) from the protocol $\Pi$. The second term corresponds to what Alice learns. 
+The information complexity of a task $T$ over inputs $(X,Y)$ is defined as the smallest possible information cost of a protocol solving $T$. 
+$$
+IC(T):= \inf_{\text{$\Pi$ solves $T$}} IC(\Pi). 
+$$
+The infimum here is necessary, since it is possible that there is a sequence of successful protocols $\Pi_1,\Pi_2,\ldots$ that get ever longer while revealing an ever smaller amount of information (in fact, this happens for the simple task of computing the two-bit AND function). 
 
 *Further reading*: a survey can be found here. 
