@@ -24,7 +24,7 @@ The goal of information complexity is to learn to apply information-theoretic fo
 
 #### Two party communication 
 
-![A randomized two-party protocol](/media/Protocol1.PNG#float-right)
+![A randomized two-party protocol](/media/information-complexity/Protocol1.PNG#float-right)
 
 In the two-party [communication complexity](https://en.wikipedia.org/wiki/Communication_complexity) setting, two players (Alice and Bob) are given inputs $X$ and $Y$. They are also allowed to use a randomness source $R$. A *protocol* $\pi$ is just a formalization of a conversation: each message in $\pi$ is allowed to depend on the speaker's input, on the conversation so far, and on the public randomness. The *communication cost* of a protocol is the number of bits communicated during its execution. The *communication complexity* $CC(T)$ of a task $T$ is the smallest communication cost of a protocol $\pi$ solving $T$. In the context of communication complexity, $T$ is typically the task of "computing a given function $F(X,Y)$ with error probability $<\varepsilon$". 
 
@@ -87,7 +87,11 @@ Generally speaking, we do not know an efficient procedure for computing the info
 
 Generally speaking, the optimal protocol depends not only on the function $f$ being computed but also on the prior distribution $\mu$ of inputs - this is because the amount of information revealed by a protocol $\pi$ depends on the prior distribution $\mu$. 
 
+![Optimal protocol for the two-bit-AND-1](/media/information-complexity/Slide1.PNG#float-left)
 Let $f(x,y)=x\wedge y$ be the two-bit AND function, and assume, for simplicity, that the prior distribution $\mu$ is symmetric: $\mu(0,1)=\mu(1,0)$. 
+
+![Optimal protocol for the two-bit-AND-1](/media/information-complexity/Slide1.PNG#float-right)
+dd
 
 #### Does one need memory to approximately count?
 
