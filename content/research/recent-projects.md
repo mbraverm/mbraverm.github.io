@@ -105,8 +105,9 @@ Note that the ascending clock "protocol" is not really a protocol, since it runs
 
 Based on the optimality of the ascending clock protocol, one can get exact bounds on several two-party communication problems that are based on $n$ copies of the two-bit AND function:
 
-1. The randomized communication complexity of finding the *intersection* of two subsets of $\lbrace 1,\ldots,n\rbrace$ (which amounts to $n$ copies of AND) is $C_\wedge \cdot n \pm o(1)$, where $C_\wedge\approx 1.4923$ is a constant obtained by maximizing an explicit function. 
-2. The randomized communication complexity of deciding whether two subsets of $\lbrace 1,\ldots,n\rbrace$ intersect (which amounts 
+1. **Intersection.** The randomized communication complexity of finding the *intersection* of two subsets of $\lbrace 1,\ldots,n\rbrace$ (which amounts to $n$ copies of AND) is $C_\wedge \cdot n \pm o(n)$, where $C_\wedge\approx 1.4923$ is a constant obtained by maximizing an explicit function. 
+2. **Disjointness.** The randomized communication complexity of deciding whether two subsets of $\lbrace 1,\ldots,n\rbrace$ intersect (which amounts to $n$ copies of AND where the prior $\mu$ puts zero weight on $(1,1)$) is $C_{DISJ} \cdot n \pm o(n)$, where $C_{DISJ}\approx 0.4827$.
+3. **Small set Disjointness**  The randomized communication complexity of deciding whether two subsets of $\lbrace 1,\ldots,n\rbrace$ of size $k$ intersect (which amounts to $n$ copies of AND where the prior $\mu$ puts zero weight on $(1,1)$ and $\frac{k}{n}$ weight on the $(0,1)$ and $(1,0$ entries) is $\frac{2}{\ln 2} \cdot k \pm o(k)$, where $C_{DISJ}\approx 0.4827$.
 
 #### Does one need memory to approximately count?
 
