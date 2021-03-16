@@ -32,6 +32,8 @@ An instructive example is the *Equality* problem. Alice is given an $n$-bit stri
 
 Another function with many applications in lower bounds is *Disjointness*. Alice and Bob are given subsets $X,Y\subset \lbrace 1,\ldots,n\rbrace$ (wich can be represented as length-$n$ bit-strings), and need to determine whether they have an element in common. $Disj_n(X,Y)=1$ if the sets are disjoint, and $0$ if they intersect. 
 
+#### Direct sum and information complexity
+
 The *direct sum* problem (in any model of computation) asks whether it costs $k$ times as much to perform $k$ independent copies of a task $T$ as it costs to perform one copy, or whether one gets a "volume discount". When direct sum holds, one gets a powerful lower bounds tool --- a lower bound $L$ on $T$ gets amplified into a lower bound of $k\cdot L$ on the task $T^k$ of performing $k$ copies of $T$. When direct sum fails, new interesting algorithms follow. A famous example of such a failure is matrix-vector multiplication. A counting argument shows that one needs $>n^2$ operations to mutiply an $n\times n$ matrix $A$ by a vector $v$. At the same time, multiplying $A$ by $n$ different vectors $v_1,\ldots,v_n$ is just the problem of multiplying two $n\times n$ matrices, which can be done faster than $n\cdot n^2=n^3$ via [fast matrix multiplication](https://en.wikipedia.org/wiki/Matrix_multiplication_algorithm#Sub-cubic_algorithms). 
 
 The *Direct Sum Problem* for randomized communication complexity asked whether the direct sum property holds for randomized communication complexity. That is, whether $CC(T^k)\gtrsim k\cdot CC(T)$? It turns out that trying to answer this question is closely related to understanding the *information complexity* of $F$. 
@@ -51,4 +53,16 @@ It turns out that the amortized (per-copy) communication complexity of a task $T
 
 **Theorem [[BR'11]](https://arxiv.org/abs/1106.3595):** $\displaystyle{\lim_{k\rightarrow\infty} \frac{CC(T^k)}{k} = IC(T)}$. 
 
+#### Interactive compression
+
+This theorem gives an immediate blueprint for proving direct sum theorems for (randomized) communication complexity. To show (for example) that $CC(T^k) \gtrsim k\cdot CC(T^k)$, one can show that $IC(T)\gtrsim CC(T)$. This inequality, more commonly written as $CC(T)\lesssim IC(T)$ is known as the [*interactive compression*](https://arxiv.org/abs/1504.06830) question. It asks whether a protocol $\pi$ that solves $T$ while revealing little information can be "compressed" into a protocol $\pi'$ that uses little communication. 
+
+In the context of one-way communication near-perfect compression is generally possibly. For example [Huffman coding](https://en.wikipedia.org/wiki/Huffman_coding) allows one to encode a message with entropy $H(M)$ using at most $H(M)+1$ bits in expectation. It is generally the case that a protocol with $r$ rounds of communication can be compressed into $O(IC(\Pi)+r)$ bits of communication. Unfortunately, the protocol achieving $IC(T)$ may have an unbounded number of rounds, making such a compression useless in the general interactive setting. 
+
+It turns out that it is possible to compress a general protocol $\pi$ whose information cost is $I$ and whose communication cost is $C$ into a protocol $\pi'$ whose communication cost is $\tilde{O}(\sqrt{I\cdot C})$. This leads to a partial direct sum theorem for randomized communication:
+
+**Theorem [[BBCR'10]](/files/directsum.pdf):** $\displaystyle{CC(T^k)}=\tilde{\Omega}(\sqrt{k}\cdot CC(T))$. 
+
 *Further reading*: a survey can be found here. 
+Quantum information complexity. 
+Parallel repetition. 
