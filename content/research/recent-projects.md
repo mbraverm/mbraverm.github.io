@@ -90,7 +90,7 @@ Generally speaking, the optimal protocol depends not only on the function $f$ be
 ![Optimal protocol for the two-bit-AND-1](/media/information-complexity/Slide1.PNG#float-left)
 Let $f(x,y)=x\wedge y$ be the two-bit AND function, and assume, for simplicity, that the prior distribution $\mu$ is symmetric: $\mu(0,1)=\mu(1,0)$. 
 
-###### The ascending clock protocol [[BGPW'13](https://eccc.weizmann.ac.il//report/2012/171/)]:
+**The ascending clock protocol [[BGPW'13](https://eccc.weizmann.ac.il//report/2012/171/)]**:
 
 1. If $x=1$, Alice sets $A:=1$, otherwise picks a uniformly random $A\in_U [0,1]$; 
 2. If $y=1$, Bob sets $B:=1$, otherwise picks a uniformly random $B\in_U [0,1]$; 
