@@ -63,6 +63,12 @@ It turns out that it is possible to compress a general protocol $\pi$ whose info
 
 **Theorem [[BBCR'10]](/files/directsum.pdf):** $\displaystyle{CC(T^k)}=\tilde{\Omega}(\sqrt{k}\cdot CC(T))$. 
 
+At the same time, Ganor, Kol, and Raz showed a separation between information and communication complexity:
+
+**Theorem [[GKR'15]](https://eccc.weizmann.ac.il/report/2014/113/):** There is a family of functions whose information complexity is $n$ and whose communication complexity is $2^{\Omega(n)}$. 
+
+Moreover, it can be shown that this separation is tight - communication complexity is always at most exponential in information complexity. The *GKR'15* theorem rules out a tight direct sum.  
+
 *Further reading*: a survey can be found here. 
 Quantum information complexity. 
 Parallel repetition. 
