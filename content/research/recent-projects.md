@@ -67,7 +67,13 @@ At the same time, Ganor, Kol, and Raz showed a separation between information an
 
 **Theorem [[GKR'15]](https://eccc.weizmann.ac.il/report/2014/113/):** There is a family of functions whose information complexity is $n$ and whose communication complexity is $2^{\Omega(n)}$. 
 
-Moreover, it can be shown that this separation is tight - communication complexity is always at most exponential in information complexity. The *GKR'15* theorem rules out a tight direct sum.  
+Moreover, it can be shown that this separation is tight - communication complexity is always at most exponential in information complexity. The *GKR'15* theorem rules out a tight direct sum theorem for communication complexity. It still remains open whether the $\sqrt{k}$ in *BBCR'10* can be improved, e.g. to $k^{1-\varepsilon}$. 
+
+#### Direct product and parallel repetition: using information formalism
+
+#### The two-bit AND function and Disjointness
+
+#### Does one need memory to approximately count?
 
 *Further reading*: a survey can be found here. 
 Quantum information complexity. 
