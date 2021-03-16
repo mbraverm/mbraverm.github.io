@@ -101,7 +101,12 @@ Let $f(x,y)=x\wedge y$ be the two-bit AND function, and assume, for simplicity, 
 7. If the protocol terminates at time $t=1$ output $AND(x,y)=1$. 
 
 ![Optimal protocol for the two-bit-AND-1](/media/information-complexity/Slide2.PNG#float-right)
-dd
+Note that the ascending clock "protocol" is not really a protocol, since it runs in continuous time. It can be approximated by an $r$-round protocol $\pi_r$ with each step representing the clock running for $\frac{1}{r}$ time units. The information cost of such $\pi_r$ is $\sim \frac{1}{r^2}$ bits higher than optimal, which is only attained at the limit. Thus even for the two-bit AND function, optimal information complexity is only attained in the limit!
+
+Based on the optimality of the ascending clock protocol, one can get exact bounds on several two-party communication problems that are based on $n$ copies of the two-bit AND function:
+
+1. The randomized communication complexity of finding the *intersection* of two subsets of $\lbrace 1,\ldots,n\rbrace$ (which amounts to $n$ copies of AND) is $C_\wedge \cdot n \pm o(1)$, where $C_\wedge\approx 1.4923$ is a constant obtained by maximizing an explicit function. 
+2. The randomized communication complexity of deciding whether two subsets of $\lbrace 1,\ldots,n\rbrace$ intersect (which amounts 
 
 #### Does one need memory to approximately count?
 
