@@ -81,6 +81,12 @@ Previously, such reasoning has been used successfully to prove the parallel repe
 
 #### The two-bit AND function and Disjointness
 
+Turning from abstract complexity-theoretic results to concrete ones, let us consider the information complexity of specific functions. The simplest functions are ones are of the form $f:\lbrace 0,1\rbrace\times\lbrace 0,1\rbrace \rightarrow \lbrace 0,1\rbrace$, where Alice and Bob are each given a single bit of input. Of those, only the AND function (and equivalent transformations) is interesting from the information complexity perspective. Other functions are either constant, amount to one-way data transmission  (projection functions), or to a two-way data-exchange (the XOR function).
+
+Generally speaking, we do not know an efficient procedure for computing the information complexity of a function from its truth table. In fact, even proving that information complexity is computable appears to be non-trivial [[BS'16](https://eccc.weizmann.ac.il//report/2015/023/)]. Fortunately, in the case of the two-bit AND, it is possible to describe the information-theoretically optimal protocol. 
+
+Generally speaking, the optimal protocol depends not only on the function $f$ being computed but also on the prior distribution $\mu$ of inputs - this is because the amount of information revealed by a protocol $\pi$ depends on the prior distribution $\mu$. 
+
 #### Does one need memory to approximately count?
 
 #### Beyond two party communication?
