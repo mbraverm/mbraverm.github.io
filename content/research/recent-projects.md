@@ -1,7 +1,7 @@
 ---
 title: Recent projects
 weight: 20
-draft: true
+draft: false
 ---
 
 ## Information complexity
@@ -46,5 +46,9 @@ $$
 IC(T):= \inf_{\text{$\Pi$ solves $T$}} IC(\Pi). 
 $$
 The infimum here is necessary, since it is possible that there is a sequence of successful protocols $\Pi_1,\Pi_2,\ldots$ that get ever longer while revealing an ever smaller amount of information (in fact, this happens for the simple task of computing the two-bit AND function). 
+
+It turns out that the amortized (per-copy) communication complexity of a task $T$ is equal to its information complexity, at least when a vanishing amount of error is allowed. Let $T(X,Y)$ be a task that allows for a small amount of error $\ve=o(1)$. Let $CC(T^k)$ be the communication complexity of $k$ copies of $T$, and let $IC(T)$ be its information complexity. Then information is equal to amortized communication:
+
+**Theorem [[BR'11]](https://arxiv.org/abs/1106.3595):** $\displaystyle{\lim_{k\rightarrow\infty} \frac{CC(T^k)}{k} = IC(T)}$. 
 
 *Further reading*: a survey can be found here. 
