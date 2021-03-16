@@ -1,7 +1,7 @@
 ---
 title: Recent projects
 weight: 20
-draft: false
+draft: true
 ---
 
 ## Information complexity
@@ -14,7 +14,7 @@ The *chain rule*
 $$
 I(M_1 M_2; X) = I(M_1; X) + I(M_2; X|M_1)
 $$
-is just a precise way to formalize the intuitive fact that what one learns from two messages $M_1 M_2$ about $X$ can be decomposed into what we learned from the first message plus what we learned from the second message when we already knew the first one. The *data processing inequality*
+is just a precise way to formalize the intuitive fact that what one learned from two messages $M_1 M_2$ about $X$ can be decomposed into what one learned from the first message plus what one learned from the second message when we already knew the first one. The *data processing inequality*
 $$
 I(X;F(Y)) \le I(X;Y)
 $$
