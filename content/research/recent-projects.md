@@ -1,7 +1,7 @@
 ---
 title: Recent projects
 weight: 20
-draft: false
+draft: true
 ---
 
 ## Information complexity
@@ -87,7 +87,7 @@ Generally speaking, we do not know an efficient procedure for computing the info
 
 Generally speaking, the optimal protocol depends not only on the function $f$ being computed but also on the prior distribution $\mu$ of inputs - this is because the amount of information revealed by a protocol $\pi$ depends on the prior distribution $\mu$. 
 
-![Optimal protocol for the two-bit-AND-1](/media/information-complexity/Slide1.PNG#float-left)
+![Optimal protocol for the two-bit-AND-1](/media/information-complexity/Slide1.PNG#float-right)
 Let $f(x,y)=x\wedge y$ be the two-bit AND function, and assume, for simplicity, that the prior distribution $\mu$ is symmetric: $\mu(0,1)=\mu(1,0)$. 
 
 **The ascending clock protocol [[BGPW'13](https://eccc.weizmann.ac.il//report/2012/171/)]**:
