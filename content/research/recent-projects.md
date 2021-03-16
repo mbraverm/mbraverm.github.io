@@ -75,7 +75,9 @@ In light of the *BR'11* and *GKR'15* results, information complexity becomes the
 
 **Theorem [[BRWY'13](https://eccc.hpi-web.de/report/2012/143/),[BW'14](https://eccc.weizmann.ac.il/report/2014/047/)]:** If $I$ bits of information are required to compute a single copy of a function $f(x,y)$ under an input distribution $\mu$, then any communication protocol that attempts to solve $k$ copies of $f$ with input distributed according to $\mu^k$ using $o(k\cdot I)$ bits of communication will fail except with an exponentially small probabiliy $2^{-\Omega(k)}$. 
 
-At the heart of the proof of the direct product theorem is applying 
+At the heart of the proof of the direct product theorem is applying information-theoretic formalism which treats the "success event" as just another piece of information. Formalism such as the chain rule allows to make statements of the form "succeeding on the first copy does not reveal too much about inputs to the second copy" formal. 
+
+Previously, such reasoning has been used successfully to prove the parallel repetition theorem for two-prover games. Two-prover games warrant a separate discussion, but it should be mentioned that formalism from the direct product theorem from communication complexity can be lifted to re-prove the parallel repetition theorem, and give the only known proof of the parallel repetition theorem in the low-success-probability regime [[BG'15](https://eccc.weizmann.ac.il/report/2014/095/)]. 
 
 #### The two-bit AND function and Disjointness
 
