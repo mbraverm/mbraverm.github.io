@@ -87,6 +87,8 @@ Generally speaking, we do not know an efficient procedure for computing the info
 
 Generally speaking, the optimal protocol depends not only on the function $f$ being computed but also on the prior distribution $\mu$ of inputs - this is because the amount of information revealed by a protocol $\pi$ depends on the prior distribution $\mu$. 
 
+Let $f(x,y)=x\wedge y$ be the two-bit AND function, and assume, for simplicity, that the prior distribution $\mu$ is symmetric: $\mu(0,1)=\mu(1,0)$. 
+
 #### Does one need memory to approximately count?
 
 #### Beyond two party communication?
