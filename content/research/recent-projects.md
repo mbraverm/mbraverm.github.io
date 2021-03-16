@@ -1,7 +1,7 @@
 ---
 title: Recent projects
 weight: 20
-draft: true
+draft: false
 ---
 
 ## Information complexity
@@ -71,9 +71,17 @@ Moreover, it can be shown that this separation is tight - communication complexi
 
 #### Direct product and parallel repetition: using information formalism
 
+In light of the *BR'11* and *GKR'15* results, information complexity becomes the "correct" measure for studying amortized cost of two-player randomized communication complexity. The connection from *BR'11* between information and amortized communication can be further deepened by a *direct product* theorem. A direct sum theorem gives a lower bound on the amount of resources required to accomplish $k$ copies of a task. A direct product theorem further says that trying to solve $k$ copies of the task with fewere resources will fail except with an exponentially small probability. 
+
+**Theorem [[BRWY'13](https://eccc.hpi-web.de/report/2012/143/),[BW'14](https://eccc.weizmann.ac.il/report/2014/047/)]:** If $I$ bits of information are required to compute a single copy of a function $f(x,y)$ under an input distribution $\mu$, then any communication protocol that attempts to solve $k$ copies of $f$ with input distributed according to $\mu^k$ using $o(k\cdot I)$ bits of communication will fail except with an exponentially small probabiliy $2^{-\Omega(k)}$. 
+
+At the heart of the proof of the direct product theorem is applying 
+
 #### The two-bit AND function and Disjointness
 
 #### Does one need memory to approximately count?
+
+#### Beyond two party communication?
 
 *Further reading*: a survey can be found here. 
 Quantum information complexity. 
