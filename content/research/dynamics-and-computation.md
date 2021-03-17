@@ -9,8 +9,7 @@ A *[dynamical system](https://en.wikipedia.org/wiki/Dynamical_system)* is a stat
 
 #### Further reading 
 
-![Book Cover for "Computability of Julia Sets"](/media/BookCover.jpg)
-
+![Book Cover for "Computability of Julia Sets"](/media/BookCover.jpg#float-right)
 Book: Computability of Julia Sets  
 Mark Braverman, Michael Yampolsky  
 Springer, 2009  
