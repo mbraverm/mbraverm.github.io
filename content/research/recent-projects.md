@@ -145,4 +145,4 @@ A survey can be found [here](https://locus.siam.org/doi/pdf/10.1137/130938517).
 
 Quantum information complexity is a very interesting topic not covered above. Some pointers can be found [here](https://arxiv.org/abs/1404.3733) and [here](https://arxiv.org/abs/1505.03110). 
 
-The [papers section](/content/research/all-papers) on this page. 
+The [papers section](/research/all-papers/) on this page. 
