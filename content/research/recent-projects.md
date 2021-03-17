@@ -135,8 +135,14 @@ Once this quantity is correctly identified, the proof follows relatively standar
 
 It is very interesting to consider the kinds of problems where information-theoretic reasoning *has not* been successful so far. It is natural to try the same approach for more than two parties. In a three-party setting one can define the information complexity of problems based on the amount of information the participants need to reveal to each other in order to solve the problem. It is not difficult to prove a direct sum theorem showing that the (3-party) information complexity of $k$ copies of a task $T$ are $k$ times the information complexity of a single copy. Unfortunately, such a statement turns out to be vacuous! Communication amoung 3 or more "honest-but-curious" parties supports [information-theoretically secure multi-party computation](https://en.wikipedia.org/wiki/Secure_multi-party_computation), which means that *any* function can be computed by 3 or more parties without revealing anything to each other (except for the answer in the end). Thus the "direct sum" theorem in this case turns out to be of the form "$k\times 0 = 0$". 
 
-This pattern appears to repeat itself in any computational model that is rich enough to support information-theoretically secure computation. For example, consider communication over a channel where Alice and Bob each submit a bit $x_i$ and $y_i$, and learn the value $x_i\wedge y_i$ of the AND of the two bits. Information-theoretic lower bounds over such a channel would have had interesting complexity-theoretic implications. Once again, one can redo information complexity over such a channel and obtain direct sum results. Once again, the result is vacuous, since such a channel is powerful enough to be able to implement information-theoretically secure two party computation [[K'91](https://dl.acm.org/doi/10.1145/103418.103475)]. The same is true in the context of Arthur-Merlin games [[GPW'16](https://link.springer.com/article/10.1007/s00453-015-0104-9)]. 
+This pattern appears to repeat itself in any computational model that is rich enough to support information-theoretically secure computation. For example, consider communication over a channel where Alice and Bob each submit a bit $x_i$ and $y_i$, and learn the value $x_i\wedge y_i$ of the AND of the two bits. Information-theoretic lower bounds over such a channel would have had interesting complexity-theoretic implications. Once again, one can redo information complexity over such a channel and obtain direct sum results. Once again, the result is vacuous, since such a channel is powerful enough to be able to implement information-theoretically secure two party computation [[K'91](https://dl.acm.org/doi/10.1145/103418.103475)]. The same is true in the context of Arthur-Merlin games [[GPW'16](https://link.springer.com/article/10.1007/s00453-015-0104-9)].
 
-*Further reading*: a survey can be found here. 
-Quantum information complexity. 
-Parallel repetition. 
+Understanding whether this is a surmountable technical barrier, or a true conceptual one (that requires new tools or even new conjectures) is a topic which I hope to work on in the future. 
+
+#### Further reading 
+
+A survey can be found [here](https://locus.siam.org/doi/pdf/10.1137/130938517). 
+
+Quantum information complexity is a very interesting topic not covered above. Some pointers can be found [here](https://arxiv.org/abs/1404.3733) and [here](https://arxiv.org/abs/1505.03110). 
+
+The [papers section](/content/research/all-papers) on this page. 
