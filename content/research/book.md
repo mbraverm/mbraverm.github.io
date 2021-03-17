@@ -1,6 +1,7 @@
 ---
 title: Book
 weight: 50
+draft: true
 ---
 
 ![Book Cover for "Computability of Julia Sets"](/media/BookCover.jpg)
