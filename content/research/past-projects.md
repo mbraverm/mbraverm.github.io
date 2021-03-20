@@ -3,7 +3,7 @@ title: Misc projects
 weight: 20
 ---
 
-### Contents
+#### Contents
 
 1. [New bounds on the Grothendieck constant]({{< ref "#Grothendieck" >}})
 2. [Monotonicity and implementability]({{<ref "#Mon">}})
