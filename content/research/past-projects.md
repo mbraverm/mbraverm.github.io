@@ -6,7 +6,7 @@ weight: 20
 ### Contents
 
 1. [New bounds on the Grothendieck constant]({{< ref "#Grothendieck" >}})
-2. [Monotonicity and implementability]({{ref "#Mon"}})
+2. [Monotonicity and implementability]({{<ref "#Mon">}})
 
 #### New bounds on the Grothendieck constant {#Grothendieck}
 
