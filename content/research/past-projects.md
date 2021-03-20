@@ -3,8 +3,12 @@ title: Misc projects
 weight: 20
 ---
 
+### Contents
 
-#### New bounds on the Grothendieck constant
+1. [New bounds on the Grothendieck constants]({{< ref "#Grothendieck" >}})
+2. 
+
+#### New bounds on the Grothendieck constant {#Grothendieck}
 
 Let $A$ be an $n\times n$ matrix. It gives rise to the quadratic form $$\sum_{i,j} A_{ij} x_i y_j.$$ The [Grothendieck constant](https://en.wikipedia.org/wiki/Grothendieck_inequality) $k$ bounds the ratio between the maximum of this form when $x_i,y_j$ are unit vectors in a Hilbert space and the maximum of this form when $x_i,y_j\in \{-1,1\}$ are just real numbers. In other words, $k$ is the smallest number such that for all $A$,
 
@@ -26,7 +30,6 @@ The diagram on the right gives an educated guess on what the partition of the pl
 
 **Links**: [paper on arXiv](https://arxiv.org/abs/1103.6161); [FOCS'11 version from IEEE](https://ieee-focs.org/FOCS-2011-Papers/The%20Grothendieck%20constant%20is%20strictly%20smaller%20than%20Krivine%27s%20bound.pdf); open access version from [Forum of Mathematics, Pi](https://dx.doi.org/10.1017/fmp.2013.4).
 
-#### Computability and complexity of Julia sets
 
 #### Monotonicity and implementability
 
