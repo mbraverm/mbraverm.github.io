@@ -5,8 +5,8 @@ weight: 20
 
 ### Contents
 
-1. [New bounds on the Grothendieck constants]({{< ref "#Grothendieck" >}})
-2. 
+1. [New bounds on the Grothendieck constant]({{< ref "#Grothendieck" >}})
+2. [Monotonicity and implementability]({{ref "#Mon"}})
 
 #### New bounds on the Grothendieck constant {#Grothendieck}
 
@@ -31,7 +31,7 @@ The diagram on the right gives an educated guess on what the partition of the pl
 **Links**: [paper on arXiv](https://arxiv.org/abs/1103.6161); [FOCS'11 version from IEEE](https://ieee-focs.org/FOCS-2011-Papers/The%20Grothendieck%20constant%20is%20strictly%20smaller%20than%20Krivine%27s%20bound.pdf); open access version from [Forum of Mathematics, Pi](https://dx.doi.org/10.1017/fmp.2013.4).
 
 
-#### Monotonicity and implementability
+#### Monotonicity and implementability {#Mon}
 
 Consider an environment with a finite set of alternatives $A_1,\ldots,A_k$ and agents who have quasi-linear preferences. That is, each agent $i$ has utility $u_{ij}$ for alternative $A_j$, and if she has to pay an amount $p_i$ her utility becomes $u_{ij}-p_i$. A direct mechanism consists of an allocation rule $f$ and payment rule $p$. The allocation rule maps each profile of valuations to a probability vector over the set of possible alternatives. For example, the [second price auction](https://en.wikipedia.org/wiki/Vickrey_auction) on one item amounts to the allocation rule being “the highest bidder gets the item”, and the payment collected from the winner equals the second-highest bid (and no payment collected from other players).
 
