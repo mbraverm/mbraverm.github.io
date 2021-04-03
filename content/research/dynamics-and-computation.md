@@ -21,7 +21,7 @@ For any initial point $z_0$, the mapping $f_c$ induces a (discrete-time) traject
 
 If $|z_0|$ is sufficiently large, e.g. $|z_0|>|c|+1$, then we will have $|z_1|>|z_0$, and the trajectory will rapidly escape to $\infty$. On the other hand, if $z_0$ is a root of the polynomial $z^2+c=z$, then it will be a *fixed point* of the dynamical system, and its trajectory will not escape to $\infty$. The *filled Julia set* in this case is the set of initial conditions for which the dynamics does not escape to $\infty$:
 $$
-K_c:=\{z_0: z_t\nrightarrow\infty\}. 
+K_c:=\lbrace z_0: z_t\nrightarrow\infty\rbrace. 
 $$
 The *Julia set* is the boundary of $K_c$: $J_c:=\partial K_c$. It is the set of points around which the long-term behavior is unstable: if $z\in J_c$, then any neighborhood of $z$ contains both points whose trajectories escape to $\infty$ and those whose trajectories stay bounded. 
 
