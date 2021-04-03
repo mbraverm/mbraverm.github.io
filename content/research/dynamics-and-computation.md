@@ -14,7 +14,16 @@ There are at least two natural connections between dynamics and computation. In 
 
 #### Which properties of dynamical systems can be computed? The case of Julia sets {#Julia}
 
-[Julia sets](https://en.wikipedia.org/wiki/Julia_set) are some of the most visualized objects in Mathematics. They arise in the study of [complex dynamics](https://en.wikipedia.org/wiki/Complex_dynamics) (that is, the state space if the set $\mathbb{C}$ of complex numbers, visualized on the plane), along with the [Mandelbrot set](https://en.wikipedia.org/wiki/Mandelbrot_set). From the scientific perspective, the family of Julia sets and the complex dynamics that gives rise to them, are sufficiently rich to exhibit phenomena one sees in the "wild". At the same time, after 100+ years of deep study, we know a lot about them, making them good "lab models" for more general dynamical systems. Computer programs had been written to visualize Julia sets (by both amateurs and serious mathematicians). Thus questions about computational properties of Julia sets are natural to consider, and may shed light on the broader set of phenomena we should expect in "computablility of dynamical systems". 
+[Julia sets](https://en.wikipedia.org/wiki/Julia_set) are some of the most visualized objects in Mathematics. They arise in the study of [complex dynamics](https://en.wikipedia.org/wiki/Complex_dynamics) (that is, the state space if the set $\mathbb{C}$ of complex numbers, visualized on the plane), along with the [Mandelbrot set](https://en.wikipedia.org/wiki/Mandelbrot_set). From the scientific perspective, the family of Julia sets and the complex dynamics that gives rise to them, are sufficiently rich to exhibit phenomena one sees in the "wild". At the same time, after 100+ years of deep study, we know a lot about them, making them good "lab models" for more general dynamical systems. Computer programs had been written to visualize Julia sets (by amateur programmers and professional mathematicians alike). Thus questions about computational properties of Julia sets are natural to consider, and may shed light on the broader set of phenomena we should expect in "computablility of dynamical systems". 
+
+Consider the quadratic function $f_c:\mathbb{C}\rightarrow \mathbb{C}$ given by $f_c(z):=z^2+c$. 
+For any initial point $z_0$, the mapping $f_c$ induces a (discrete-time) trajectory of the evolution of $z$ under $f_c$: $z_1=f_c(z_0)=z_0^2+c$, $z_2=f_c(z_1)=(z_0^2+c)^2+c$, and more generally $z_{t+1}=f_c(z_t)$. This evolution, viewed as a dynamical system, raises quesitons of the form *"what will happen to the trajectory eventually?"* and *"what can be said about the set of trajectories as a whole?"*. 
+
+If $|z_0|$ is sufficiently large, e.g. $|z_0|>|c|+1$, then we will have $|z_1|>|z_0$, and the trajectory will rapidly escape to $\infty$. On the other hand, if $z_0$ is a root of the polynomial $z^2+c=z$, then it will be a *fixed point* of the dynamical system, and its trajectory will not escape to $\infty$. The *filled Julia set* in this case is the set of initial conditions for which the dynamics does not escape to $\infty$:
+$$
+K_c:=\{z_0: z_t\nrightarrow\infty\}. 
+$$
+The *Julia set* is the boundary of $K_c$: $J_c:=\partial K_c$. It is the set of points around which the long-term behavior is unstable: if $z\in J_c$, then any neighborhood of $z$ contains both points whose trajectories escape to $\infty$ and those whose trajectories stay bounded. 
 
 #### Dynamical systems as computational devices and the Space-Bounded Church-Turing Thesis {#SBCT}
 
