@@ -19,7 +19,7 @@ There are at least two natural connections between dynamics and computation. In 
 Consider the quadratic function $f_c:\mathbb{C}\rightarrow \mathbb{C}$ given by $f_c(z):=z^2+c$. 
 For any initial point $z_0$, the mapping $f_c$ induces a (discrete-time) trajectory of the evolution of $z$ under $f_c$: $z_1=f_c(z_0)=z_0^2+c$, $z_2=f_c(z_1)=(z_0^2+c)^2+c$, and more generally $z_{t+1}=f_c(z_t)$. 
 
-This evolution, viewed as a dynamical system, raises quesitons of the form _"what will happen to the trajectory eventually?"_ and _"what can be said about the set of trajectories as a whole?"_. 
+This evolution, viewed as a dynamical system, raises quesitons of the form *"what will happen to the trajectory eventually?"* and *"what can be said about the set of trajectories as a whole?"*. 
 
 If $|z_0|$ is sufficiently large, e.g. $|z_0|>|c|+1$, then we will have $|z_1|>|z_0$, and the trajectory will rapidly escape to $\infty$. On the other hand, if $z_0$ is a root of the polynomial $z^2+c=z$, then it will be a *fixed point* of the dynamical system, and its trajectory will not escape to $\infty$. The *filled Julia set* in this case is the set of initial conditions for which the dynamics does not escape to $\infty$:
 $$
