@@ -27,6 +27,8 @@ K_c:=\lbrace z_0: z_t\nrightarrow\infty\rbrace.
 $$
 The *Julia set* is the boundary of $K_c$: $J_c:=\partial K_c$. It is the set of points around which the long-term behavior is unstable: if $z\in J_c$, then any neighborhood of $z$ contains both points whose trajectories escape to $\infty$ and those whose trajectories stay bounded. 
 
+![A Julia set with a Siegel disc and a trajectory](/media/Dynamical-Systems/Julia-J3A1B.gif#float-right)
+
 #### Dynamical systems as computational devices and the Space-Bounded Church-Turing Thesis {#SBCT}
 
 
