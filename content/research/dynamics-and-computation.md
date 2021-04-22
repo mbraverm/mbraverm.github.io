@@ -41,7 +41,13 @@ In fact, by several measures, we either know that "most" quadratic Julia sets ar
 
 #### Dynamical systems as computational devices and the Space-Bounded Church-Turing Thesis {#SBCT}
 
+Returning to the broader question of "which properties of dynamical systems can be computed?", one can loosely calssify computational hardness results into two categories: "systems that can simulate generic computation" and "problems into which hard-to-compute functions can be carefully woven". 
 
+If a dynamical system is rich enough to simulate a Turing Machine (and thus generic computation), then diagonalization results starting with the intractability of the [Halting Problem](https://en.wikipedia.org/wiki/Halting_problem) and the [time hierarchy theorems](https://en.wikipedia.org/wiki/Time_hierarchy_theorem) imply that the only way to answer questions about their long-term behavior is through simulation. [Cellular automata](https://en.wikipedia.org/wiki/Cellular_automaton) generally belong to this category.
+
+Even if a dynamical system is not rich enough to simulate generic computation, one can still carefully reduce some non-computable function to some long-term property of the dynamical system. It is very unlikely that all computation can be encoded into iterations of a fixed quadratic polynomial over $\mathbb{C}$), but we can carefully construct a $c$ such that computing arbitrarily high precision images of $J_c$ is as hard as solving the Halting Problem. 
+
+A closely related question is that of *robustness*. If we perturb the dynamical system a little bit, will the non-computability phenomenon disappear? One would expect the answer to be 'yes' in the second case, and 'depends' in the first case. If the non-computable example had to be carefully constructed, then noise is likely to destroy it (as it does in the case of quadratic Julia sets). 
 
 #### Further reading 
 
