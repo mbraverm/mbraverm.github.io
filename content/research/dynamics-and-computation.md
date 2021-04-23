@@ -47,7 +47,10 @@ If a dynamical system is rich enough to simulate a Turing Machine (and thus gene
 
 Even if a dynamical system is not rich enough to simulate generic computation, one can still carefully reduce some non-computable function to some long-term property of the dynamical system. It is very unlikely that all computation can be encoded into iterations of a fixed quadratic polynomial over $\mathbb{C}$), but we can carefully construct a $c$ such that computing arbitrarily high precision images of $J_c$ is as hard as solving the Halting Problem. 
 
-A closely related question is that of *robustness*. If we perturb the dynamical system a little bit, will the non-computability phenomenon disappear? One would expect the answer to be 'yes' in the second case, and 'depends' in the first case. If the non-computable example had to be carefully constructed, then noise is likely to destroy it (as it does in the case of quadratic Julia sets). 
+A closely related question is that of *robustness*. If we perturb the dynamical system a little bit, will the non-computability phenomenon disappear? One would expect the answer to be 'yes' in the second case, and 'depends' in the first case. If the non-computable example had to be carefully constructed, then noise is likely to destroy it (as it does in the case of quadratic Julia sets). More generally, what can be said about the computational complexity of noisy dynamical systems?
+
+In full generality, this question is too philosophical to be precisely formulated mathematically. It is similar in flavor to the [Church-Turing Thesis](https://en.wikipedia.org/wiki/Church%E2%80%93Turing_thesis) that asserts that all physically relevant dynamical systems are at most as powerful as a Turing Machine (or any other general-purpose computing device) for the purposes of computability. The best-known quantitative refinement of the CT Thesis, sometimes called the Extended Church-Turing Thesis (probably falsly -- see [quantum computing](https://en.wikipedia.org/wiki/Quantum_computing)) extends the connection to *time* complexity: any computation by a dynamical system can be efficiently simulated in time polynomial in the size of the system and its original runtime. 
+
 
 #### Further reading 
 
