@@ -63,7 +63,9 @@ The system's dimension plays a critical role in the amount of memory it retains.
 
 With a "definition" of memory at hand, we can postulated a space complexity version of the Church-Turing thesis. We call it the Space-Bounded Church-Turing thesis (SBCT):
 
-**Space-Bounded Church-Turing thesis [[BRS'15](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.115.098701)]:** A dynamical system with memory capacity $M$ is at most as powerful as a Turing Machine with $poly(M)$ bits of memory. 
+**Space-Bounded Church-Turing thesis [[BRS'15]](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.115.098701):** A dynamical system with memory capacity $M$ is at most as powerful as a Turing Machine with $poly(M)$ bits of memory. 
+
+Unlike the extended-CT (which talks about time complexity), SBCT does not appear to contradict our current understanding of the limits of quantum computing. A stronger (and mathematically more formalizable) assertion is that whenever the noise itself is computationally simple (and thus is not a source of more computational complexity), long-term properties of a system with $M$ bits of memory can be computed by a Turing Machine with $poly(M)$ space. This indeed can be shown in some interesting special cases [[BRS'17]](http://www.mathnet.ru/php/archive.phtml?wshow=paper&jrnid=sm&paperid=8884&option_lang=eng). 
 
 
 #### Further reading 
