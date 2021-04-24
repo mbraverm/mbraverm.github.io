@@ -5,7 +5,7 @@ draft: false
 ---
 
 A *[dynamical system](https://en.wikipedia.org/wiki/Dynamical_system)* is a stateful system (often with a continuous state space) evolving over time. Thus, dynamical systems can be (and are being) used to capture the behavior of both natural and articifical systems over time. 
-The state space of dynamical systems is typically continuous, which means that one has to look at continuous models of computation. [Here](https://cacm.acm.org/magazines/2013/9/167157-computing-with-real-numbers-from-archimedes-to-turing-and-beyond/fulltext) is a Communications of the ACM article I wrote on computation over the reals in 2013. [There](https://www.ams.org/notices/200603/fea-cook.pdf) is also an older 2006 article with Stephen Cook in the Notices of the AMS. 
+The state space of dynamical systems is typically continuous, which means that one has to look at continuous models of computation. [Here](https://cacm.acm.org/magazines/2013/9/167157-computing-with-real-numbers-from-archimedes-to-turing-and-beyond/fulltext) is a short 2013 Communications of the ACM article I wrote explaining computation over the reals. [There](https://www.ams.org/notices/200603/fea-cook.pdf) is also an older 2006 article with Stephen Cook in the Notices of the AMS. 
 
 There are at least two natural connections between dynamics and computation. In one direction, the question *"which properties of which dynamical systems can be computed and how efficiently?"* is foundational to mapping the limits of applied mathematics. In the opposite direction, *"how powerful a computation can a given dynamical system simulate robustly?"* touches upon the [Church-Turing thesis](https://en.wikipedia.org/wiki/Church%E2%80%93Turing_thesis) and questions of [hypercomputation](https://en.wikipedia.org/wiki/Hypercomputation). 
 
@@ -59,11 +59,17 @@ M:= I(X_{t+1};X_t),
 $$
 the amount of information the next step retains about the previous one. 
 
+The system's dimension plays a critical role in the amount of memory it retains. If the state space of $X_t$ is bounded and has $d$ dimensions, then under random noise of magnitude $\varepsilon$ we should expect the memory to be $M\sim d\cdot \log (1/\varepsilon)$: memory scales liniarly in dimension but only logarithmically in the noise. 
+
+With a "definition" of memory at hand, we can postulated a space complexity version of the Church-Turing thesis. We call it the Space-Bounded Church-Turing thesis (SBCT):
+
+**Space-Bounded Church-Turing thesis [[BRS'15](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.115.098701)]:** A dynamical system with memory capacity $M$ is at most as powerful as a Turing Machine with $poly(M)$ bits of memory. 
+
 
 #### Further reading 
 
-![Book Cover for "Computability of Julia Sets"](/media/BookCover.jpg#float-right)
 Book: Computability of Julia Sets  
 Mark Braverman, Michael Yampolsky  
 Springer, 2009  
 [\[Amazon\]](https://www.amazon.com/dp/3540685464) [\[Springer\]](https://www.springer.com/mathematics/computational+science+%26+engineering/book/978-3-540-68546-3)
+![Book Cover for "Computability of Julia Sets"](/media/BookCover.jpg#float-right)
