@@ -12,6 +12,8 @@ There are at least two natural connections between dynamics and computation. In 
 1. [Which properties of dynamical systems can be computed? The case of Julia sets]({{< ref "#Julia" >}})
 2. [Dynamical systems as computational devices and the Space-Bounded Church-Turing Thesis]({{<ref "#SBCT">}})
 
+![A collage of Julia sets](/media/Dynamical-Systems/Julia-Collage.png)
+
 #### Which properties of dynamical systems can be computed? The case of Julia sets {#Julia}
 
 [Julia sets](https://en.wikipedia.org/wiki/Julia_set) are some of the most visualized objects in Mathematics. They arise in the study of [complex dynamics](https://en.wikipedia.org/wiki/Complex_dynamics) (that is, the state space if the set $\mathbb{C}$ of complex numbers, visualized on the plane), along with the [Mandelbrot set](https://en.wikipedia.org/wiki/Mandelbrot_set). From the scientific perspective, the family of Julia sets and the complex dynamics that gives rise to them, are sufficiently rich to exhibit phenomena one sees in the "wild". At the same time, after 100+ years of deep study, we know a lot about them, making them good "lab models" for more general dynamical systems. Computer programs had been written to visualize Julia sets (by amateur programmers and professional mathematicians alike). Thus questions about computational properties of Julia sets are natural to consider, and may shed light on the broader set of phenomena we should expect in "computablility of dynamical systems". 
@@ -67,11 +69,25 @@ With a "definition" of memory at hand, we can postulated a space complexity vers
 
 Unlike the extended-CT (which talks about time complexity), SBCT does not appear to contradict our current understanding of the limits of quantum computing. A stronger (and mathematically more formalizable) assertion is that whenever the noise itself is computationally simple (and thus is not a source of more computational complexity), long-term properties of a system with $M$ bits of memory can be computed by a Turing Machine with $poly(M)$ space. This indeed can be shown in some interesting special cases [[BRS'17]](http://www.mathnet.ru/php/archive.phtml?wshow=paper&jrnid=sm&paperid=8884&option_lang=eng). 
 
+The SBCT is consistent with the fact that non-computability in the context of Julia sets is not robust to noise. The state space over which the dynamics defining the Julia sets operates is $\mathbb{C}$, with error $\varepsilon$ such a system only has $\sim\log (1/\varepsilon)$ memory. On the other hand, the memory of a cellular automaton (even with noise) scales with the size of its board (each cell can "remember" $\sim 1$ bit of information), which is typically infinite. Therefore, their long-term properties are potentially undecidable even in the presense of noise, again, consistently with SBCT. 
+
 
 #### Further reading 
+
+**Surveys on computing over the reals:**
+
+* [Notices of the AMS, 2006](https://www.ams.org/notices/200603/fea-cook.pdf)
+* [Communications of the ACM, 2013](https://cacm.acm.org/magazines/2013/9/167157-computing-with-real-numbers-from-archimedes-to-turing-and-beyond/fulltex)
+
+**On Julia sets:**
 
 Book: Computability of Julia Sets  
 Mark Braverman, Michael Yampolsky  
 Springer, 2009  
 [\[Amazon\]](https://www.amazon.com/dp/3540685464) [\[Springer\]](https://www.springer.com/mathematics/computational+science+%26+engineering/book/978-3-540-68546-3)
 ![Book Cover for "Computability of Julia Sets"](/media/BookCover.jpg#float-right)
+
+**On computability in dynamics more generally and the Space-Bounded Church-Turing thesis:**
+
+* [A 2012 talk](http://videolectures.net/turing100_braverman_computational_universality/) I gave at the [2012 Turing Centenary conference in Manchester](http://curation.cs.manchester.ac.uk/Turing100/www.turing100.manchester.ac.uk/?man=true&man=true).
+* [A phys.org article](https://phys.org/news/2015-09-limit-church-turing-thesis-accounts-noisy.html) about the SBCT. 
