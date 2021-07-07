@@ -35,6 +35,14 @@ weight: 40
 
 ### Other publications
 
+*   Interactive compression to external information  
+    Mark Braverman, Gillat Kol  
+    [\[STOC'18\]](https://dl.acm.org/doi/abs/10.1145/3188745.3188956); 
+
+*   Selling to a no-regret buyer  
+    Mark Braverman, Jieming Mao, Jon Schneider, Matt Weinberg  
+    EC'18; [\[arXiv\]](https://arxiv.org/abs/1711.09176); *Best Full Paper award*
+
 *   Semi-direct sum theorem and nearest neighbor under $\ell_\infty$  
     Mark Braverman, Young Kun Ko  
     [\[APPROX'18\]](https://drops.dagstuhl.de/opus/volltexte/2018/9410/)
