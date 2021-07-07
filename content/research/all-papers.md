@@ -38,7 +38,7 @@ weight: 40
 
 *   A rounds vs. communication tradeoff for multi-party set disjointness
     Mark Braverman, Rotem Oshman
-    [\[FOCS'17\](https://ieeexplore.ieee.org/document/8104054); 
+    [\[FOCS'17\]](https://ieeexplore.ieee.org/document/8104054)
 
 
 *   Network coding in undirected graphs is either very helpful or not helpful at all  
