@@ -8,14 +8,14 @@ weight: 40
 
 *   Data-driven incentive alignment in capitation schemes  
     Mark Braverman, Sylvain Chassang  
-    Preprint; [\[pdf\]](/files/strategicCapitation.pdf)
+    Preprint; [\[NBER\]](https://www.nber.org/papers/w28429)
     
 *   Interactive information complexity  
     Mark Braverman  
     STOC'12; [\[ECCC\]](https://eccc.hpi-web.de/report/2011/123/)
     [\[SICOMP version\]](https://locus.siam.org/doi/abs/10.1137/130938517); 
     
-    *   Space-Bounded Church-Turing Thesis and computational tractability of closed systems  
+*   Space-Bounded Church-Turing Thesis and computational tractability of closed systems  
     Mark Braverman, Cristobal Rojas, Jon Schneider  
     Phys. Rev. Lett. **115**, 098701; [\[link\]](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.115.098701) [\[phys.org article\]](https://phys.org/news/2015-09-limit-church-turing-thesis-accounts-noisy.html)
 
@@ -32,10 +32,18 @@ weight: 40
 
 ### Other publications
 
+*   On simultaneous two-player combinatorial auctions
+    Mark Braverman, Jieming Mao, Matt Weinberg
+    SODA'18; [\[arXiv\]](https://arxiv.org/abs/1704.03547)
+
+*   A rounds vs. communication tradeoff for multi-party set disjointness
+    Mark Braverman, Rotem Oshman
+    [\[FOCS'17\](https://ieeexplore.ieee.org/document/8104054); 
+
 
 *   Network coding in undirected graphs is either very helpful or not helpful at all  
     Mark Braverman, Sumegha Garg, Ariel Schvartzman  
-    [\[arXiv\]](https://arxiv.org/abs/1608.06545)
+    ITCS'17; [\[arXiv\]](https://arxiv.org/abs/1608.06545)
     
 *   Parallel algorithms for select and partition with noisy comparisons  
     Mark Braverman, Jieming Mao, Matt Weinberg  
