@@ -32,20 +32,24 @@ weight: 40
 
 ### Other publications
 
-*   A candidate for a strong separation of information and communication
-    Mark Braverman, Anat Ganor, Gillat Kol, Ran Raz
+*   Semi-direct sum theorem and nearest neighbor under $\ell_\infty$  
+    Mark Braverman, Young Kun Ko  
+    [\[APPROX'18\]](https://drops.dagstuhl.de/opus/volltexte/2018/9410/)
+
+*   A candidate for a strong separation of information and communication  
+    Mark Braverman, Anat Ganor, Gillat Kol, Ran Raz  
     [\[ITCS'18\]](https://drops.dagstuhl.de/opus/volltexte/2018/8332/)
 
-*   Information value of two-prover games
-    Mark Braverman, Young Kun Ko
+*   Information value of two-prover games  
+    Mark Braverman, Young Kun Ko  
     [\[ITCS'18\]](https://doi.org/10.4230/LIPIcs.ITCS.2018.12)
 
-*   On simultaneous two-player combinatorial auctions
-    Mark Braverman, Jieming Mao, Matt Weinberg
+*   On simultaneous two-player combinatorial auctions  
+    Mark Braverman, Jieming Mao, Matt Weinberg  
     SODA'18; [\[arXiv\]](https://arxiv.org/abs/1704.03547)
 
-*   A rounds vs. communication tradeoff for multi-party set disjointness
-    Mark Braverman, Rotem Oshman
+*   A rounds vs. communication tradeoff for multi-party set disjointness  
+    Mark Braverman, Rotem Oshman  
     [\[FOCS'17\]](https://ieeexplore.ieee.org/document/8104054)
 
 
