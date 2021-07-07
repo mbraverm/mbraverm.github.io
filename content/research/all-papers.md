@@ -3,8 +3,11 @@ title: All Papers
 weight: 40
 ---
 
-### Selected recent publications
+### Selected recent publications and preprints
 
+*   Optimization-friendly generic mechanisms without money  
+    Mark Braverman  
+    [\[arXiv\]](https://arxiv.org/abs/2106.07752)
 
 *   Data-driven incentive alignment in capitation schemes  
     Mark Braverman, Sylvain Chassang  
