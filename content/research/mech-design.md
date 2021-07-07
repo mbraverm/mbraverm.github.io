@@ -16,11 +16,7 @@ When the inputs to an algorithm $A$ come from outside parties interested in the 
 
 Within theoretical computer science, there are several reasons to study algorithmic mechanism design now. Algorithmic mechanism design is becoming more important as algorithms enter more application domains. Even in areas where the "algorithms" involved are fairly simple, the availability of data and cheap compute means that it is easy for participants to be more strategic. This means that systems design needs to incorporate mechanism design thinking. Ideally, a set of transformations and heuristics would make this process automatic or at least routine. On the other hand, algorithms (along with data and hardware) are evolving at a rapid rate, giving rise to exciting new opportunities for making systems better using mechanims that incorporate these algorithmic advances. 
 
-Algorithms are entering more domains. 
-
-Implicit mechanisms become explicit. 
-
-Mechanisms: keeping up with algorithmic advances. 
+While both mechanism design and algorithm design and deployment are progressing rapidly, algorithms are being developed and deployed at a faster rate. This leads to a growing gap between areas and ways in which algorithms are used and mechanism design theory and craft. My overall goal is to develop generic tool for narrowing this gap. In technical terms it means developing tools, techniques, and concepts for [reductions](https://en.wikipedia.org/wiki/Reduction_(complexity)) from algorithms to mechanisms. 
 
 #### Black-box reductions from algorithms to mechanisms without money {#BlackBox}
 
