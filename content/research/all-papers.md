@@ -5,6 +5,34 @@ weight: 40
 
 ### Selected recent publications
 
+
+*   Data-driven incentive alignment in capitation schemes  
+    Mark Braverman, Sylvain Chassang  
+    Preprint; [\[pdf\]](/files/strategicCapitation.pdf)
+    
+*   Interactive information complexity  
+    Mark Braverman  
+    STOC'12; [\[ECCC\]](https://eccc.hpi-web.de/report/2011/123/)
+    [\[SICOMP version\]](https://locus.siam.org/doi/abs/10.1137/130938517); 
+    
+    *   Space-Bounded Church-Turing Thesis and computational tractability of closed systems  
+    Mark Braverman, Cristobal Rojas, Jon Schneider  
+    Phys. Rev. Lett. **115**, 098701; [\[link\]](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.115.098701) [\[phys.org article\]](https://phys.org/news/2015-09-limit-church-turing-thesis-accounts-noisy.html)
+
+*   Interactive information and coding theory  
+    Mark Braverman  
+    A survey accompanying an invited lecture at ICM'14 in Seoul [\[pdf\]](/files/ICM-2014-Braverman.pdf)  
+    Video of the talk [\[youtube\]](https://www.youtube.com/watch?v=FaZzm2bNdP0)
+    
+*   The Grothendieck constant is strictly smaller than Krivine's bound  
+    Mark Braverman, Konstantin Makarychev, Yury Makarychev, Assaf Naor  
+    FOCS'11; [\[arXiv\]](https://arxiv.org/abs/1103.6161)
+    [\[Forum of Mathematics, Pi version\]](https://www.cambridge.org/core/journals/forum-of-mathematics-pi/article/grothendieck-constant-is-strictly-smaller-than-krivines-bound/875137460BB05E1057B9282D539AC0B6)
+
+
+### Other publications
+
+
 *   Network coding in undirected graphs is either very helpful or not helpful at all  
     Mark Braverman, Sumegha Garg, Ariel Schvartzman  
     [\[arXiv\]](https://arxiv.org/abs/1608.06545)
@@ -20,14 +48,6 @@ weight: 40
 *   Constant-rate coding for multiparty interactive communication is impossible  
     Mark Braverman, Klim Efremenko, Ran Gelles, Bernhard Haeupler  
     STOC'16; [\[ECCC\]](https://eccc.hpi-web.de/report/2015/197/)
-    
-*   Data-driven incentive alignment in capitation schemes  
-    Mark Braverman, Sylvain Chassang  
-    Preprint; [\[pdf\]](/files/strategicCapitation.pdf)
-    
-*   Space-Bounded Church-Turing Thesis and computational tractability of closed systems  
-    Mark Braverman, Cristobal Rojas, Jon Schneider  
-    Phys. Rev. Lett. **115**, 098701; [\[link\]](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.115.098701) [\[phys.org article\]](https://phys.org/news/2015-09-limit-church-turing-thesis-accounts-noisy.html)
     
 *   Tight space-noise tradeoffs in computing the ergodic measure  
     Mark Braverman, Cristobal Rojas, Jon Schneider  
@@ -65,11 +85,6 @@ weight: 40
 *   Simulating noisy channel interaction  
     Mark Braverman, Jieming Mao  
     ITCS'15; [\[ECCC\]](https://eccc.hpi-web.de/report/2014/119/)
-    
-*   Interactive information and coding theory  
-    Mark Braverman  
-    A survey accompanying an invited lecture at ICM'14 in Seoul [\[pdf\]](/files/ICM-2014-Braverman.pdf)  
-    Video of the talk [\[youtube\]](https://www.youtube.com/watch?v=FaZzm2bNdP0)
     
 *   Small value parallel repetition for general games  
     Mark Braverman, Ankit Garg  
@@ -152,14 +167,6 @@ weight: 40
     Mark Braverman, Omri Weinstein  
     RANDOM'12; [\[arXiv\]](https://arxiv.org/abs/1112.2000)
     
-*   Interactive information complexity  
-    Mark Braverman  
-    STOC'12; [\[ECCC\]](https://eccc.hpi-web.de/report/2011/123/)
-    
-*   The Grothendieck constant is strictly smaller than Krivine's bound  
-    Mark Braverman, Konstantin Makarychev, Yury Makarychev, Assaf Naor  
-    FOCS'11; [\[arXiv\]](https://arxiv.org/abs/1103.6161)
-    
 *   Towards coding for maximum errors in interactive communication  
     Mark Braverman, Anup Rao  
     STOC'11; [\[ECCC\]](https://www.eccc.uni-trier.de/report/2010/166/) [\[video by Anup\]](https://research.microsoft.com/apps/video/default.aspx?id=147644)
@@ -167,8 +174,6 @@ weight: 40
 *   Information equals amortized communication  
     Mark Braverman, Anup Rao  
     FOCS'11; [\[ECCC\]](https://www.eccc.uni-trier.de/report/2010/083/)
-
-### Other publications
 
 *   Leaky pseudo-entropy functions  
     Mark Braverman, Avinatan Hassidim, Yael Tauman Kalai  
