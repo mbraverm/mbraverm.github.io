@@ -8,11 +8,19 @@ weight: 40
 *   Optimization-friendly generic mechanisms without money  
     Mark Braverman  
     [\[arXiv\]](https://arxiv.org/abs/2106.07752)
+    
+    
+*   Tight space complexity of the coin problem  
+    Mark Braverman, Sumegha Garg, Or Zamir  
+    [\[ECCC\]](https://eccc.weizmann.ac.il/report/2021/083/)
 
 *   Data-driven incentive alignment in capitation schemes  
     Mark Braverman, Sylvain Chassang  
     Preprint; [\[NBER\]](https://www.nber.org/papers/w28429)
     
+*   The role of randomness and noise in strategic classification  
+    Mark Braverman, Sumegha Garg  
+    [FORC'20](https://responsiblecomputing.org/forc-2020/); [\[arXiv\]](https://arxiv.org/abs/2005.08377); [\[youtube talk\]](https://www.youtube.com/watch?v=i__RTkZ2RXs)
     
 *   Space-Bounded Church-Turing Thesis and computational tractability of closed systems  
     Mark Braverman, Cristobal Rojas, Jon Schneider  
@@ -35,6 +43,31 @@ weight: 40
 
 
 ### Other publications
+
+
+*   New separations results for external information  
+    Mark Braverman, Dor Minzer 
+    STOC'21; [\[arXiv\]](https://arxiv.org/abs/2103.04049)
+
+*   Optimal tiling of the Euclidean space using permutation-symmetric bodies  
+    Mark Braverman, Dor Minzer  
+    [\[Complexity'21\]](https://drops.dagstuhl.de/opus/volltexte/2021/14279/); [\[public talk related to this paper\]](https://www.youtube.com/watch?v=ey0ujtTKYnY)
+
+*   Tiered random matching markets: rank is proportional to popularity  
+    Itai Ashlagi, Mark Braverman, Amin Saberi, Clayton Thomas, Geng Zhao
+    [\[ITCS'21\]](https://drops.dagstuhl.de/opus/volltexte/2021/13585/)
+
+*   On rich $2$-to-$1$ games  
+    Mark Braverman, Subhash Khot, Dor Minzer  
+    [\[ITCS'21\]](https://drops.dagstuhl.de/opus/volltexte/2021/13566/)
+
+*   The coin problem with applications to data streams  
+    Mark Braverman, Sumegha Garg, David Woodruff  
+    FOCS'20; [\[ECCC\]](https://eccc.weizmann.ac.il/report/2020/139/); [\[youtube talk\]](https://www.youtube.com/watch?v=nfhqE-4WGOo)
+
+*    Calibration, entropy rates, and memory in language models  
+     Mark Braverman, Xinyi Chen, Sham Kakade, Karthik Narasimhan, Cyril Zhang, Yi Zhang    
+     [\[ICML'20\]](http://proceedings.mlr.press/v119/braverman20a)
 
 *   BeauCoup: Answering many network traffic queries, one memory update at a time  
     Xiaoqi Chen, Shir Landau-Feibish, Mark Braverman, Jennifer Rexford  
