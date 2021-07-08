@@ -36,6 +36,26 @@ weight: 40
 
 ### Other publications
 
+*   BeauCoup: Answering many network traffic queries, one memory update at a time  
+    Xiaoqi Chen, Shir Landau-Feibish, Mark Braverman, Jennifer Rexford  
+    [\[SIGCOMM'20\]](https://dl.acm.org/doi/10.1145/3387514.3405865)
+
+*   The gradient complexity of linear regression  
+    Mark Braverman, Elad Hazan, Max Simchowitz, Blake Woodworth  
+    [\[COLT'20\]](http://proceedings.mlr.press/v125/braverman20a.html)
+
+*   Optimal short-circuit resilient formulas  
+    Mark Braverman, Klim Efremenko, Ran Gelles, Michael A. Yitayew  
+    [\[Complexity'19\]](https://drops.dagstuhl.de/opus/volltexte/2019/10832/)
+
+*   On the computational power of radio channels  
+    Mark Braverman, Gillat Kol, Rotem Oshman, Avishay Tal  
+    [\[DISC'19\]](https://drops.dagstuhl.de/opus/volltexte/2019/11315/)
+
+*   Multi-armed bandit problems with strategic arms  
+    Mark Braverman, Jieming Mao, Jon Schneider, S. Matthew Weinberg  
+    [\[COLT'19\]](http://proceedings.mlr.press/v99/braverman19b.html)
+
 *   Sorted Top-k in rounds  
     Mark Braverman, Jieming Mao, Yuval Peres  
     [\[COLT'19\]](http://proceedings.mlr.press/v99/braverman19a.html)
