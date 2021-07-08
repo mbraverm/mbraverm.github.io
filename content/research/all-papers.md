@@ -18,6 +18,10 @@ weight: 40
     Mark Braverman, Sylvain Chassang  
     Preprint; [\[NBER\]](https://www.nber.org/papers/w28429)
     
+*   BeauCoup: Answering many network traffic queries, one memory update at a time  
+    Xiaoqi Chen, Shir Landau-Feibish, Mark Braverman, Jennifer Rexford  
+    [\[SIGCOMM'20\]](https://dl.acm.org/doi/10.1145/3387514.3405865); [\[APNIC post\]](https://blog.apnic.net/2021/01/07/beaucoup-answering-many-network-traffic-queries-one-memory-update-at-a-time/)
+    
 *   The role of randomness and noise in strategic classification  
     Mark Braverman, Sumegha Garg  
     [FORC'20](https://responsiblecomputing.org/forc-2020/); [\[arXiv\]](https://arxiv.org/abs/2005.08377); [\[youtube talk\]](https://www.youtube.com/watch?v=i__RTkZ2RXs)
@@ -46,8 +50,8 @@ weight: 40
 
 
 *   New separations results for external information  
-    Mark Braverman, Dor Minzer 
-    STOC'21; [\[arXiv\]](https://arxiv.org/abs/2103.04049)
+    Mark Braverman, Dor Minzer  
+    STOC'21; [\[arXiv\]](https://arxiv.org/abs/2103.04049); [\[youtube talk\]](https://www.youtube.com/watch?v=rdXdCLCoShg)
 
 *   Optimal tiling of the Euclidean space using permutation-symmetric bodies  
     Mark Braverman, Dor Minzer  
@@ -55,11 +59,11 @@ weight: 40
 
 *   Tiered random matching markets: rank is proportional to popularity  
     Itai Ashlagi, Mark Braverman, Amin Saberi, Clayton Thomas, Geng Zhao
-    [\[ITCS'21\]](https://drops.dagstuhl.de/opus/volltexte/2021/13585/)
+    [\[ITCS'21\]](https://drops.dagstuhl.de/opus/volltexte/2021/13585/); [\[youtube talk\]](https://www.youtube.com/watch?v=J_3A2NwsGTE)
 
 *   On rich $2$-to-$1$ games  
     Mark Braverman, Subhash Khot, Dor Minzer  
-    [\[ITCS'21\]](https://drops.dagstuhl.de/opus/volltexte/2021/13566/)
+    [\[ITCS'21\]](https://drops.dagstuhl.de/opus/volltexte/2021/13566/); [\[youtube talk\]](https://www.youtube.com/watch?v=8Friby1bVms)
 
 *   The coin problem with applications to data streams  
     Mark Braverman, Sumegha Garg, David Woodruff  
@@ -69,9 +73,6 @@ weight: 40
      Mark Braverman, Xinyi Chen, Sham Kakade, Karthik Narasimhan, Cyril Zhang, Yi Zhang    
      [\[ICML'20\]](http://proceedings.mlr.press/v119/braverman20a)
 
-*   BeauCoup: Answering many network traffic queries, one memory update at a time  
-    Xiaoqi Chen, Shir Landau-Feibish, Mark Braverman, Jennifer Rexford  
-    [\[SIGCOMM'20\]](https://dl.acm.org/doi/10.1145/3387514.3405865)
 
 *   The gradient complexity of linear regression  
     Mark Braverman, Elad Hazan, Max Simchowitz, Blake Woodworth  
