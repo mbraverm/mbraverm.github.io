@@ -13,10 +13,6 @@ weight: 40
     Mark Braverman, Sylvain Chassang  
     Preprint; [\[NBER\]](https://www.nber.org/papers/w28429)
     
-*   Interactive information complexity  
-    Mark Braverman  
-    STOC'12; [\[ECCC\]](https://eccc.hpi-web.de/report/2011/123/)
-    [\[SICOMP version\]](https://locus.siam.org/doi/abs/10.1137/130938517); 
     
 *   Space-Bounded Church-Turing Thesis and computational tractability of closed systems  
     Mark Braverman, Cristobal Rojas, Jon Schneider  
@@ -27,6 +23,11 @@ weight: 40
     A survey accompanying an invited lecture at ICM'14 in Seoul [\[pdf\]](/files/ICM-2014-Braverman.pdf)  
     Video of the talk [\[youtube\]](https://www.youtube.com/watch?v=FaZzm2bNdP0)
     
+*   Interactive information complexity  
+    Mark Braverman  
+    STOC'12; [\[ECCC\]](https://eccc.hpi-web.de/report/2011/123/)
+    [\[SICOMP version\]](https://locus.siam.org/doi/abs/10.1137/130938517);     
+    
 *   The Grothendieck constant is strictly smaller than Krivine's bound  
     Mark Braverman, Konstantin Makarychev, Yury Makarychev, Assaf Naor  
     FOCS'11; [\[arXiv\]](https://arxiv.org/abs/1103.6161)
@@ -34,6 +35,15 @@ weight: 40
 
 
 ### Other publications
+
+*   Sorted Top-k in rounds  
+    Mark Braverman, Jieming Mao, Yuval Peres  
+    [\[COLT'19\]](http://proceedings.mlr.press/v99/braverman19a.html)
+
+*   Hitting sets with near-optimal error for read-once branching programs  
+    Mark Braverman, Gil Cohen, Sumegha Garg  
+    STOC'18, [\[ECCC\]](https://eccc.weizmann.ac.il/report/2017/161/), [\[SICOMP version\]](https://epubs.siam.org/doi/abs/10.1137/18M1197734)
+
 
 *   Interactive compression to external information  
     Mark Braverman, Gillat Kol  
