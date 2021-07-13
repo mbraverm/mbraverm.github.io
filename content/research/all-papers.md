@@ -64,6 +64,13 @@ weight: 40
 *   On rich $2$-to-$1$ games  
     Mark Braverman, Subhash Khot, Dor Minzer  
     [\[ITCS'21\]](https://drops.dagstuhl.de/opus/volltexte/2021/13566/); [\[youtube talk\]](https://www.youtube.com/watch?v=8Friby1bVms)
+    
+*   Clearing matching markets efficiently: informative signals and match recommendations  
+    Itai Ashlagi, Mark Braverman, Yash Kanoria, Peng Shi  
+    *Management Science* **66**(5), 2020 (earlier version in EC'17)  
+    [\[Management Science\]](https://pubsonline.informs.org/doi/10.1287/mnsc.2018.3265); [\[SSRN\]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2965135); 
+    [\[youtube talk\]](https://www.youtube.com/watch?v=laWpgNhEcUQ)
+  
 
 *   The coin problem with applications to data streams  
     Mark Braverman, Sumegha Garg, David Woodruff  
