@@ -39,7 +39,7 @@ weight: 40
     Mark Braverman  
     STOC'12; [\[ECCC\]](https://eccc.hpi-web.de/report/2011/123/);
     [\[SICOMP **64**(6)\]](https://locus.siam.org/doi/abs/10.1137/130938517);
-    [\[SIAM Review **59**(4)\](https://dl.acm.org/doi/10.1137/17M1139254)
+    [\[SIAM Review **59**(4)\]](https://dl.acm.org/doi/10.1137/17M1139254)
     
 *   The Grothendieck constant is strictly smaller than Krivine's bound  
     Mark Braverman, Konstantin Makarychev, Yury Makarychev, Assaf Naor  
@@ -59,7 +59,7 @@ weight: 40
     [\[Complexity'21\]](https://drops.dagstuhl.de/opus/volltexte/2021/14279/); [\[public talk related to this paper\]](https://www.youtube.com/watch?v=ey0ujtTKYnY)
 
 *   Tiered random matching markets: rank is proportional to popularity  
-    Itai Ashlagi, Mark Braverman, Amin Saberi, Clayton Thomas, Geng Zhao
+    Itai Ashlagi, Mark Braverman, Amin Saberi, Clayton Thomas, Geng Zhao  
     [\[ITCS'21\]](https://drops.dagstuhl.de/opus/volltexte/2021/13585/); [\[youtube talk\]](https://www.youtube.com/watch?v=J_3A2NwsGTE)
 
 *   On rich $2$-to-$1$ games  
@@ -109,7 +109,7 @@ weight: 40
     
 *   The price of uncertain priors in source coding  
     Mark Braverman, Brendan Juba  
-    *IEEE Transactions on Information Theory*, **65**(2), 2019. 
+    *IEEE Transactions on Information Theory*, **65**(2), 2019  
     [\[Transactions on Information Theory\]](https://ieeexplore.ieee.org/document/8581454);  [\[arXiv\]](https://arxiv.org/abs/1811.08976)
     
 
@@ -156,7 +156,7 @@ weight: 40
         
 *   Nash equilibria in perturbation-stable games  
     Maria-Florina Balcan, Mark Braverman  
-    *Theory of Computing*, **13**(13), 2017. 
+    *Theory of Computing*, **13**(13), 2017   
     [\[ToC\]](https://theoryofcomputing.org/articles/v013a013/)
 
 *   A rounds vs. communication tradeoff for multi-party set disjointness  
@@ -175,7 +175,7 @@ weight: 40
     
 *   Tight space-noise tradeoffs in computing the ergodic measure  
     Mark Braverman, Cristobal Rojas, Jon Schneider  
-    *Matematicheskii Sbornik*, **208**(12), 2017 (Special 150th anniversary issue)  
+    *Matematicheskii Sbornik*, **208**(12), 2017 *(Special 150th anniversary issue)*  
     [\[Sbornik\]](https://iopscience.iop.org/article/10.1070/SM8884/meta)  [\[arXiv\]](https://arxiv.org/abs/1508.05372)
     
 *   Parallel algorithms for select and partition with noisy comparisons  
