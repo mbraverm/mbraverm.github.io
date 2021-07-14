@@ -37,8 +37,9 @@ weight: 40
     
 *   Interactive information complexity  
     Mark Braverman  
-    STOC'12; [\[ECCC\]](https://eccc.hpi-web.de/report/2011/123/)
-    [\[SICOMP version\]](https://locus.siam.org/doi/abs/10.1137/130938517);     
+    STOC'12; [\[ECCC\]](https://eccc.hpi-web.de/report/2011/123/);
+    [\[SICOMP **64**(6)\]](https://locus.siam.org/doi/abs/10.1137/130938517);
+    [\[SIAM Review **59**(4)\](https://dl.acm.org/doi/10.1137/17M1139254)
     
 *   The Grothendieck constant is strictly smaller than Krivine's bound  
     Mark Braverman, Konstantin Makarychev, Yury Makarychev, Assaf Naor  
@@ -100,6 +101,24 @@ weight: 40
 *   Sorted Top-k in rounds  
     Mark Braverman, Jieming Mao, Yuval Peres  
     [\[COLT'19\]](http://proceedings.mlr.press/v99/braverman19a.html)
+    
+*   Reliable communication over highly connected noisy networks  
+    Noga Alon, Mark Braverman, Klim Efremenko, Ran Gelles, Bernhard Haeupler  
+    *Distributed Computing*, **32**(6), 2019; also PODC'16  
+    [\[ECCC\]](https://eccc.hpi-web.de/report/2015/014/); [\[Distributed Computing\]](https://link.springer.com/article/10.1007/s00446-017-0303-5)
+    
+*   The price of uncertain priors in source coding  
+    Mark Braverman, Brendan Juba  
+    *IEEE Transactions on Information Theory*, **65**(2), 2019. 
+    [\[Transactions on Information Theory\]](https://ieeexplore.ieee.org/document/8581454);  [\[arXiv\]](https://arxiv.org/abs/1811.08976)
+    
+
+*   Information complexity and applications  
+    Mark Braverman
+    *Japanese Journal of Mathematics* **1**(14), 2019  
+    [\[JJM\]](https://link.springer.com/article/10.1007/s11537-018-1727-9)
+
+
 
 *   Hitting sets with near-optimal error for read-once branching programs  
     Mark Braverman, Gil Cohen, Sumegha Garg  
@@ -129,6 +148,16 @@ weight: 40
 *   On simultaneous two-player combinatorial auctions  
     Mark Braverman, Jieming Mao, Matt Weinberg  
     SODA'18; [\[arXiv\]](https://arxiv.org/abs/1704.03547)
+    
+*   Constant-rate coding for multiparty interactive communication is impossible  
+    Mark Braverman, Klim Efremenko, Ran Gelles, Bernhard Haeupler  
+    *Journal of the ACM* **65**(1):4, 2018; (also STOC'16)  
+    [\[ECCC\]](https://eccc.hpi-web.de/report/2015/197/); [\[JACM\]](https://dl.acm.org/doi/10.1145/3050218)
+        
+*   Nash equilibria in perturbation-stable games  
+    Maria-Florina Balcan, Mark Braverman  
+    *Theory of Computing*, **13**(13), 2017. 
+    [\[ToC\]](https://theoryofcomputing.org/articles/v013a013/)
 
 *   A rounds vs. communication tradeoff for multi-party set disjointness  
     Mark Braverman, Rotem Oshman  
@@ -139,6 +168,16 @@ weight: 40
     Mark Braverman, Sumegha Garg, Ariel Schvartzman  
     ITCS'17; [\[arXiv\]](https://arxiv.org/abs/1608.06545)
     
+*   List and unique coding for interactive communication in the presence of adversarial noise  
+    Mark Braverman, Klim Efremenko  
+    *SICOMP* **46**(1) (special issue for FOCS'14)  
+    [\[SICOMP\]](https://epubs.siam.org/doi/abs/10.1137/141002001) [\[ECCC\]](https://eccc.hpi-web.de/report/2014/007/)
+    
+*   Tight space-noise tradeoffs in computing the ergodic measure  
+    Mark Braverman, Cristobal Rojas, Jon Schneider  
+    *Matematicheskii Sbornik*, **208**(12), 2017 (Special 150th anniversary issue)  
+    [\[Sbornik\]](https://iopscience.iop.org/article/10.1070/SM8884/meta)  [\[arXiv\]](https://arxiv.org/abs/1508.05372)
+    
 *   Parallel algorithms for select and partition with noisy comparisons  
     Mark Braverman, Jieming Mao, Matt Weinberg  
     STOC'16; [\[arXiv\]](https://arxiv.org/abs/1603.04941)
@@ -147,13 +186,7 @@ weight: 40
     Mark Braverman, Jieming Mao, Matt Weinberg  
     SODA'16; [\[arXiv\]](https://arxiv.org/abs/1511.02831)
     
-*   Constant-rate coding for multiparty interactive communication is impossible  
-    Mark Braverman, Klim Efremenko, Ran Gelles, Bernhard Haeupler  
-    STOC'16; [\[ECCC\]](https://eccc.hpi-web.de/report/2015/197/)
-    
-*   Tight space-noise tradeoffs in computing the ergodic measure  
-    Mark Braverman, Cristobal Rojas, Jon Schneider  
-    [\[arXiv\]](https://arxiv.org/abs/1508.05372)
+
     
 *   Coding for interactive communication correcting insertions and deletions  
     Mark Braverman, Ran Gelles, Jieming Mao, Rafail Ostrovsky  
@@ -165,7 +198,8 @@ weight: 40
     
 *   Near-optimal bounds on bounded-round quantum communication complexity of disjointness  
     Mark Braverman, Ankit Garg, Young Kun Ko, Jieming Mao, Dave Touchette  
-    FOCS'15; [\[ECCC\]](https://eccc.hpi-web.de/report/2015/081/)
+    *SIAM Journal on Computing* **47**(6), 2018 (special issue for FOCS'15)  
+    [\[ECCC\]](https://eccc.hpi-web.de/report/2015/081/); [\[SICOMP\]](https://epubs.siam.org/doi/abs/10.1137/16M1061400)
     
 *   ETH hardness for Densest-k-Subgraph with perfect completeness  
     Mark Braverman, Young Kun Ko, Aviad Rubinstein, Omri Weinstein  
@@ -175,10 +209,6 @@ weight: 40
     Mark Braverman, Jon Schneider  
     ICALP'16; [\[ECCC\]](https://eccc.hpi-web.de/report/2015/023/)  
     Video of talk given at the Simons Institute [\[youtube\]](https://www.youtube.com/watch?v=-HOasEzgchs)
-    
-*   Reliable communication over highly connected noisy networks  
-    Noga Alon, Mark Braverman, Klim Efremenko, Ran Gelles, Bernhard Haeupler  
-    PODC'16; [\[ECCC\]](https://eccc.hpi-web.de/report/2015/014/)
     
 *   The communication complexity of Number-In-Hand Set Disjointness with no promise  
     Mark Braverman, Rotem Oshman  
@@ -199,10 +229,6 @@ weight: 40
 *   An interactive information odometer with applications  
     Mark Braverman, Omri Weinstein  
     STOC'15; [\[ECCC\]](https://eccc.hpi-web.de/report/2014/047/)
-    
-*   List and unique coding for interactive communication in the presence of adversarial noise  
-    Mark Braverman, Klim Efremenko  
-    FOCS'14; [\[ECCC\]](https://eccc.hpi-web.de/report/2014/007/)
     
 *   The computational hardness of pricing compound options  
     Mark Braverman, Kanika Pasricha  
@@ -293,10 +319,6 @@ weight: 40
     Per Austrin, Mark Braverman, Eden Chlamtac  
     in APPROX'11; [\[arXiv\]](https://arxiv.org/abs/1104.3760)  
     [_Theory of Computing_](https://theoryofcomputing.org/), [**9**(3)](https://theoryofcomputing.org/articles/v009a003/), 2013.
-    
-*   Approximate Nash equilibria in perturbation resilient games  
-    Nina Balcan, Mark Braverman  
-    Working paper; [\[arXiv](https://arxiv.org/abs/1008.1827)\]
     
 *   Pseudorandom Generators for Regular Branching Programs  
     Mark Braverman, Anup Rao, Ran Raz, Amir Yehudayoff  
