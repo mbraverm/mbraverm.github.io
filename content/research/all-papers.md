@@ -50,6 +50,10 @@ weight: 40
 ### Other publications
 
 
+*   Near-optimal distributed learning of halfspaces with two parties  
+    Mark Braverman , Gillat Kol , Shay Moran , Raghuvansh R. Saxena  
+    [\[COLT'21\]](http://proceedings.mlr.press/v134/braverman21a.html)
+
 *   New separations results for external information  
     Mark Braverman, Dor Minzer  
     STOC'21; [\[arXiv\]](https://arxiv.org/abs/2103.04049); [\[youtube talk\]](https://www.youtube.com/watch?v=rdXdCLCoShg)
@@ -191,6 +195,10 @@ weight: 40
     Mark Braverman, Jieming Mao, Matt Weinberg  
     SODA'16; [\[arXiv\]](https://arxiv.org/abs/1511.02831)
     
+    
+*   Optimal Provision-After-Wait in healthcare  
+    Mark Braverman, Jing Chen, Sampath Kannan  
+    *Mathematics of Operations Research* **41**(1), 2016; ITCS'14; [\[pdf\]](/files/BCKhealth_V1.pdf); [\[MOR\]](https://pubsonline.informs.org/doi/abs/10.1287/moor.2015.0731)
 
     
 *   Coding for interactive communication correcting insertions and deletions  
@@ -247,9 +255,6 @@ weight: 40
     Mark Braverman, Ankit Garg  
     ICALP'14; [\[ECCC\]](https://eccc.hpi-web.de/report/2013/130/)
     
-*   Optimal Provision-After-Wait in healthcare  
-    Mark Braverman, Jing Chen, Sampath Kannan  
-    _working paper_; ITCS'14; [\[pdf\]](/files/BCKhealth_V1.pdf)
     
 *   Tight bounds for set disjointness in the message passing model  
     Mark Braverman, Faith Ellen, Rotem Oshman, Toniann Pitassi, Vinod Vaikuntanathan  
@@ -303,7 +308,8 @@ weight: 40
     
 *   Information equals amortized communication  
     Mark Braverman, Anup Rao  
-    FOCS'11; [\[ECCC\]](https://www.eccc.uni-trier.de/report/2010/083/)
+    FOCS'11; [\[ECCC\]](https://www.eccc.uni-trier.de/report/2010/083/)  
+     *IEEE Transactions on Information Theory*, **60**(10), 2014 [\[IEEE\](https://ieeexplore.ieee.org/document/6877708)
 
 *   Leaky pseudo-entropy functions  
     Mark Braverman, Avinatan Hassidim, Yael Tauman Kalai  
@@ -324,7 +330,8 @@ weight: 40
     
 *   Pseudorandom Generators for Regular Branching Programs  
     Mark Braverman, Anup Rao, Ran Raz, Amir Yehudayoff  
-    FOCS'10; [\[ECCC](https://eccc.hpi-web.de/eccc-reports/2010/TR10-035/index.html)\] [\[video by Anup\]](https://research.microsoft.com/apps/video/default.aspx?id=132399)
+     [\[SICOMP **43**(3)\]](https://epubs.siam.org/doi/abs/10.1137/120875673?mobileUi=0), 2014;  
+    Earlier version in FOCS'10; [\[ECCC](https://eccc.hpi-web.de/eccc-reports/2010/TR10-035/index.html)\] [\[video by Anup\]](https://research.microsoft.com/apps/video/default.aspx?id=132399)
     
 *   Computability of Brolin-Lyubich measure  
     Ilia Binder, Mark Braverman, Cristobal Rojas, Michael Yampolsky  
@@ -332,20 +339,20 @@ weight: 40
     
 *   The rate of convergence of the Walk on Spheres Algorithm  
     Ilia Binder, Mark Braverman  
-    _Geometric and Functional Analysis_, to appear; [\[pdf\]](/files/AttachBBlocaldim.pdf)
+    *Geometric and Functional Analysis***22** (2012); [\[pdf\]](/files/AttachBBlocaldim.pdf); [\[GAFA\]](https://link.springer.com/article/10.1007/s00039-012-0161-z)
     
 *   Thurston equivalence to a rational map is decidable  
     Sylvain Bonnot, Mark Braverman, Michael Yampolsky  
-    _Moscow Math. Journal_, to appear; [\[arXiv\]](https://arxiv.org/abs/1009.5713)
+    *Moscow Math. Journal* **12**(4), 2012; [\[arXiv\]](https://arxiv.org/abs/1009.5713); [\[MMJ\]](http://www.mathnet.ru/php/archive.phtml?wshow=paper&jrnid=mmj&paperid=479&option_lang=eng)
     
 *   How to compress interactive communication  
     Boaz Barak, Mark Braverman, Xi Chen, Anup Rao  
-    STOC'10 [\[pdf\]](/files/directsum.pdf)  
-    Previous version [\[ECCC](https://eccc.hpi-web.de/eccc-reports/2009/TR09-044/index.html)\]
+     [\[SICOMP **42**(3)\]](https://epubs.siam.org/doi/abs/10.1137/100811969?mobileUi=0), 2013 (special issue for STOC'10);  
+    STOC'10 [\[pdf\]](/files/directsum.pdf); [\[ECCC](https://eccc.hpi-web.de/eccc-reports/2009/TR09-044/index.html)\]
     
 *   Stability in large matching markets with complementarities  
     Itai Ashalgi, Mark Braverman, Avinatan Hassidim  
-    Working paper; [\[pdf\]](/files/ABH-couples.pdf)
+    *Operations Research* **62**(4), 2014; [\[OR\]](https://pubsonline.informs.org/doi/abs/10.1287/opre.2014.1276); [\[pdf\]](/files/ABH-couples.pdf)
     
 *   Phylogenetic Reconstruction with Insertions and Deletions  
     Alex Andoni, Mark Braverman, Avinatan Hassidim  
@@ -357,7 +364,7 @@ weight: 40
     
 *   Sorting from Noisy Information  
     Mark Braverman, Elchanan Mossel  
-    _Submitted_; [\[arXiv\]](https://arxiv.org/abs/0910.1191)
+    [\[arXiv\]](https://arxiv.org/abs/0910.1191)
     
 *   Ascending unit demand auctions with budget limits  
     Itai Ashalgi, Mark Braverman, Avinatan Hassidim  
