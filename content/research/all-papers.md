@@ -168,6 +168,11 @@ weight: 40
     Mark Braverman, Sumegha Garg, Ariel Schvartzman  
     ITCS'17; [\[arXiv\]](https://arxiv.org/abs/1608.06545)
     
+    
+*   A discrepancy lower bound for information complexity  
+    Mark Braverman, Omri Weinstein  
+    *Algorithmica* **76**(3), 2016; RANDOM'12; [\[Algorithmica\]](https://link.springer.com/article/10.1007/s00453-015-0093-8); [\[arXiv\]](https://arxiv.org/abs/1112.2000)
+    
 *   List and unique coding for interactive communication in the presence of adversarial noise  
     Mark Braverman, Klim Efremenko  
     *SICOMP* **46**(1) (special issue for FOCS'14)  
@@ -190,7 +195,7 @@ weight: 40
     
 *   Coding for interactive communication correcting insertions and deletions  
     Mark Braverman, Ran Gelles, Jieming Mao, Rafail Ostrovsky  
-    ICALP'16; [\[arXiv\]](https://arxiv.org/abs/1508.00514)
+    *IEEE Transactions on Information Theory*, **63**(10), 2017 ; ICALP'16; [\[Transactions on Information Theory\]](https://ieeexplore.ieee.org/document/8000379); [\[arXiv\]](https://arxiv.org/abs/1508.00514)
     
 *   Communication lower bounds for statistical estimation problems via a distributed data processing inequality  
     Mark Braverman, Ankit Garg, Tengyu Ma, Huy Nguyen, David Woodruff  
@@ -203,7 +208,7 @@ weight: 40
     
 *   ETH hardness for Densest-k-Subgraph with perfect completeness  
     Mark Braverman, Young Kun Ko, Aviad Rubinstein, Omri Weinstein  
-    [\[ECCC\]](https://eccc.hpi-web.de/report/2015/074/)
+    SODA'17; [\[ECCC\]](https://eccc.hpi-web.de/report/2015/074/)
     
 *   Information complexity is computable  
     Mark Braverman, Jon Schneider  
@@ -291,9 +296,6 @@ weight: 40
     Mark Braverman, Alexander Grigo, Cristobal Rojas  
     ITCS'12; [\[arXiv\]](https://arxiv.org/abs/1201.0488)
     
-*   A discrepancy lower bound for information complexity  
-    Mark Braverman, Omri Weinstein  
-    RANDOM'12; [\[arXiv\]](https://arxiv.org/abs/1112.2000)
     
 *   Towards coding for maximum errors in interactive communication  
     Mark Braverman, Anup Rao  
