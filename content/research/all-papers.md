@@ -61,6 +61,10 @@ weight: 40
 *   Optimal tiling of the Euclidean space using permutation-symmetric bodies  
     Mark Braverman, Dor Minzer  
     [\[Complexity'21\]](https://drops.dagstuhl.de/opus/volltexte/2021/14279/); [\[public talk related to this paper\]](https://www.youtube.com/watch?v=ey0ujtTKYnY)
+    
+*   Prior-free dynamic mechanism design with limited liability  
+    Mark Braverman, Jon Schneider, Matt Weinberg  
+    EC'21; [\[arXiv\]](https://arxiv.org/abs/2103.01868) 
 
 *   Tiered random matching markets: rank is proportional to popularity  
     Itai Ashlagi, Mark Braverman, Amin Saberi, Clayton Thomas, Geng Zhao  
@@ -203,7 +207,8 @@ weight: 40
     
 *   Coding for interactive communication correcting insertions and deletions  
     Mark Braverman, Ran Gelles, Jieming Mao, Rafail Ostrovsky  
-    *IEEE Transactions on Information Theory*, **63**(10), 2017 ; ICALP'16; [\[Transactions on Information Theory\]](https://ieeexplore.ieee.org/document/8000379); [\[arXiv\]](https://arxiv.org/abs/1508.00514)
+    *IEEE Transactions on Information Theory*, **63**(10), 2017 ; ICALP'16;  
+    [\[Transactions on Information Theory\]](https://ieeexplore.ieee.org/document/8000379); [\[arXiv\]](https://arxiv.org/abs/1508.00514)
     
 *   Communication lower bounds for statistical estimation problems via a distributed data processing inequality  
     Mark Braverman, Ankit Garg, Tengyu Ma, Huy Nguyen, David Woodruff  
