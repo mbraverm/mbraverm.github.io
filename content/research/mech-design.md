@@ -8,7 +8,7 @@ draft: false
 2. [Strategic capitation: mechanism design in the "big data" regime]({{< ref "#StrategicCapitation" >}})
 3. [Mechanism design for learning agents]({{<ref "#LearningAgents">}})
 
-#### Overview 
+## Overview 
 
 **Algorithm design vs. mechanism design.** The starting point of *Algorithm design* is a specified input-output behavior: $L$ is a list of numbers, and $SORT(L)$ is the same list sorted in ascending order; $f$ is boolean formula, and $SAT(f)$ is a satisfying assignment -- if one exists; $D$ is a list of labeled examples, and $Model(D)$ is a trained model for labeling previously unseed examples. Some of these tasks are incredibly complex. Much of computer science (and applied mathematics) is about finding new ways of performing these tasks. No matter how complex the algorithmic task at hand, it is normally assumed that the input $x$ does not depend on algorithm $A$. 
 
@@ -18,7 +18,7 @@ Within theoretical computer science, there are several reasons to study algorith
 
 While both mechanism design and algorithm design and deployment are progressing rapidly, algorithms are being developed and deployed at a faster rate. This leads to a growing gap between areas and ways in which algorithms are used and mechanism design theory and craft. My overall goal is to develop generic tool for narrowing this gap. In technical terms it means developing tools, techniques, and concepts for [reductions](https://en.wikipedia.org/wiki/Reduction_(complexity)) from algorithms to mechanisms. 
 
-#### Black-box reductions from algorithms to mechanisms without money {#BlackBox}
+## Black-box reductions from algorithms to mechanisms without money {#BlackBox}
 
 **Mechanism design without money.** Abstractly, [mechanism design]( https://en.wikipedia.org/wiki/Mechanism_design) addresses the problem of aggregating preferences of multiple parties into an outcome. Examples of mechanisms include the housing market, voting, college admissions, and the electricity market. Mechanisms can be (roughly) partitioned into mechanisms *with* and *without money*. Of the examples above, the housing and electricity markets explicitly involve money, while voting and college admissions do not. Mechanism design without money is generally very challenging. Even the relatively “simple” case of voting is rife with [impossibility results]( https://en.wikipedia.org/wiki/Gibbard%E2%80%93Satterthwaite_theorem).  
 
@@ -38,6 +38,6 @@ Further reading:
 
 * Preprint: [arXiv](https://arxiv.org/abs/2106.07752)
 
-#### Strategic capitation: mechanism design in the "big data" regime {#StrategicCapitation}
+## Strategic capitation: mechanism design in the "big data" regime {#StrategicCapitation}
 
-#### Mechanism design for learning agents {#LearningAgents}
+## Mechanism design for learning agents {#LearningAgents}
