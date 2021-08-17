@@ -11,9 +11,11 @@ weight: 10
 
 ### Postdocs:
 
+* [Mahsa Derakhshan](http://www.cs.umd.edu/~mahsa/)
 * [Vijay Bhattiprolu](http://vspvijay.com/)
 * John Peebles
-* [Sahil Singla](https://www.cs.princeton.edu/~singla/)
+* [Or Zamir](https://www.cs.tau.ac.il/~orzamir/)
+
 
 ## Alumni:
 
@@ -33,6 +35,7 @@ With first place of employment/study:
 
 ### Postdocs I supervised or worked with closely
 
+* [Sahil Singla](https://www.cs.princeton.edu/~singla/), 2018-2021, Princeton; Faculty at GA Tech. 
 * [Shay Moran](http://www.cs.technion.ac.il/~shaymrn/), 2017-2020, IAS, Princeton, and Google; Faculty at the Technion, Israel.
 * [Dor Mintzer](https://sites.google.com/view/dorminzer/home), 2018-2020, IAS; Faculty at MIT.
 * [Sepehr Assadi](https://www.cs.rutgers.edu/~sa1497/), 2018-2019, Princeton; Faculty at Rutgers University.
