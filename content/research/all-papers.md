@@ -9,10 +9,14 @@ weight: 40
     Mark Braverman  
     [\[arXiv\]](https://arxiv.org/abs/2106.07752)
     
+*   Statistically Near-Optimal Hypothesis Selection  
+    Olivier Bousquet, Mark Braverman, Klim Efremenko, Gillat Kol, Shay Moran  
+    FOCS'21; [\[arXiv\]](https://arxiv.org/abs/2108.07880)
+    
     
 *   Tight space complexity of the coin problem  
     Mark Braverman, Sumegha Garg, Or Zamir  
-    [\[ECCC\]](https://eccc.weizmann.ac.il/report/2021/083/)
+    FOCS'21; [\[ECCC\]](https://eccc.weizmann.ac.il/report/2021/083/)
 
 *   Data-driven incentive alignment in capitation schemes  
     Mark Braverman, Sylvain Chassang  
