@@ -36,8 +36,12 @@ By plugging in the one-sided allocation problem into the *APEX* framework, we ob
 
 Further reading: 
 
-* Preprint: [arXiv](https://arxiv.org/abs/2106.07752)
+* Preprint: [\[arXiv\]](https://arxiv.org/abs/2106.07752)
 
 ## Strategic capitation: mechanism design in the "big data" regime {#StrategicCapitation}
+
+Furhter reading:  
+
+* Preprint: [\[NBER\]](https://www.nber.org/papers/w28429)
 
 ## Mechanism design for learning agents {#LearningAgents}
