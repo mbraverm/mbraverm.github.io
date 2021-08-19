@@ -9,7 +9,7 @@ weight: 40
     Mark Braverman  
     [\[arXiv\]](https://arxiv.org/abs/2106.07752)
     
-*   Statistically Near-Optimal Hypothesis Selection  
+*   Statistically near-optimal hypothesis selection  
     Olivier Bousquet, Mark Braverman, Klim Efremenko, Gillat Kol, Shay Moran  
     FOCS'21; [\[arXiv\]](https://arxiv.org/abs/2108.07880)
     
