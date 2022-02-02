@@ -12,6 +12,6 @@ This page is under construction. It will cover current/near-future research dire
 
 ##### Computational complexity theory
 
-##### Algorithms and lower bounds for new models of computation
+##### Algorithms and lower bounds for new models of computation 
 
 Later I will add distant-future research directions. 
