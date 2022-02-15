@@ -43,5 +43,6 @@ Further reading:
 Furhter reading:  
 
 * Preprint: [\[NBER\]](https://www.nber.org/papers/w28429)
+* Journal of Public Economics [\[paper\]](https://authors.elsevier.com/c/1eayJAlw9lYxU)
 
 ## Mechanism design for learning agents {#LearningAgents}
