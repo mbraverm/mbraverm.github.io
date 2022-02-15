@@ -20,7 +20,7 @@ weight: 40
 
 *   Data-driven incentive alignment in capitation schemes  
     Mark Braverman, Sylvain Chassang  
-    Preprint; [\[NBER\]](https://www.nber.org/papers/w28429)
+    [\[NBER preprint\]](https://www.nber.org/papers/w28429) [\[Journal of Public Economics **207**, 2022\]](https://authors.elsevier.com/c/1eayJAlw9lYxU)
     
 *   BeauCoup: Answering many network traffic queries, one memory update at a time  
     Xiaoqi Chen, Shir Landau-Feibish, Mark Braverman, Jennifer Rexford  
