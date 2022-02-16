@@ -53,6 +53,14 @@ weight: 40
 
 ### Other publications
 
+*   Unbiased delay measurement in the data plane
+    Yufei Zheng, Xiaoqi Chen, Mark Braverman, Jennifer Rexford
+    [\[APOCS'22\]](https://epubs.siam.org/doi/abs/10.1137/1.9781611977059.2)
+
+
+*   An invariance principle for the multi-slice, with applications
+    Mark Braverman, Subhash Khot, Noam Lifshitz, Dor Minzer
+    FOCS'21; [\[arXiv\]](https://arxiv.org/abs/2110.10725); [\[youtube talk\]](https://www.youtube.com/watch?v=CibRfpowU4s)
 
 *   Near-optimal distributed learning of halfspaces with two parties  
     Mark Braverman , Gillat Kol , Shay Moran , Raghuvansh R. Saxena  
