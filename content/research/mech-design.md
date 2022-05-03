@@ -63,7 +63,7 @@ Furhter reading:
 ## Mechanism design for learning agents {#LearningAgents}
 
 
-Furhter reading:  
+Further reading:  
 
 *Note*: This is a very active research area, I will post a link to a survey sometime in the future. 
 
