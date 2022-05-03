@@ -61,3 +61,12 @@ Furhter reading:
 * Journal of Public Economics [\[paper\]](https://authors.elsevier.com/c/1eayJAlw9lYxU)
 
 ## Mechanism design for learning agents {#LearningAgents}
+
+
+Furhter reading:  
+
+*Note*: This is a very active research area, I will post a link to a survey sometime in the future. 
+
+*   "Multi-armed bandit problems with strategic arms" [\[COLT'19\]](http://proceedings.mlr.press/v99/braverman19b.html)
+*   "Selling to a no-regret buyer"  (EC'18); [\[arXiv\]](https://arxiv.org/abs/1711.09176)
+*   A 2019 survey on multi-arm bandits by Aleksandrs Slivkins: [\[arXiv\]](https://arxiv.org/abs/1904.07272)
