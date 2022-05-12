@@ -62,11 +62,29 @@ Furhter reading:
 
 ## Mechanism design for learning agents {#LearningAgents}
 
+The main challenge algorithmic mechanism design aims to address is implementing algorithmically-optimal solutions in environments with self-interested parties. Classic algorithm design assumes that players are truthful (i.e. always reveal their true preferences and participate in the algorithm in prescribed ways). Classic game theory assumes that players *best respond* in equilibrium: that is, they take actions/reveal information to maximize their own utility. In most cases, there is a significant gap between what is attainable in a game-theoretic equilibrium, and what is attainable algorithmically (this gap is known as [the price of anarchy](https://en.wikipedia.org/wiki/Price_of_anarchy)).  
+
+When the stakes are sufficiently high, ignoring incentives will lead to unraveling, and is not an option. On the other hand, without additional assumptions, it is often impossible to compute equilibria solutions of most games. The issue is not just computational complexity, but also the fact that information environments faced by individual players are often incomplete, and are hard to model.  
+
+In practice, this means that beyond designing mechanisms where non-strategic behavior always dominates strategic behavior, it is difficult to make use of equilibrium concepts to predict players’ behavior. In multi-round games (such as repeated auctions or procurement), a slightly weaker – but algorithmically much more friendly – model of players’ behavior is to assume that the players are learning to play. This is a realistic model of players’ behavior, especially since in many cases it is impossible to separate learning the environment from learning to strategically interact with it. For example, an algorithm optimizing an online ad campaign will use online learning to tweak “strategic” aspects of the campaign (such as how much to bid for ad placement) and “non-strategic” ones (such as optimizing ads to increase conversion).  
+
+Once we have an explicit model for players’ behavior based on online learning, we can obtain new insights in scenarios which would be out of reach for “standard” equilibrium analysis. We can also introduce new strategic scenarios (such as multi-arm bandits with strategic arms), which arise specifically when one side runs an online learning algorithm. 
+
+Preliminary results show that mechanism design with learning agents indeed falls somewhere between non-strategic algorithm design and standard mechanism design based on Nash equilibria. For example, in [“Selling to a no-regret buyer”](https://arxiv.org/abs/1711.09176) we revisit the classical scenario of a seller (repeatedly) selling a single item to buyers drawn from a distribution. A classical [theorem by Myerson](https://en.wikipedia.org/wiki/Bayesian-optimal_mechanism#The_Myerson_mechanism) characterizes the optimal revenue attainable with strategic buyers. Note that the maximum revenue attainable with non-strategic buyers is just the aggregate utility that the buyers get from the items. We show that if the buyers are learning to repeatedly bid in the auction using a low-regret algorithm (such as [multiplicative weight update](https://en.wikipedia.org/wiki/Multiplicative_weight_update_method)), the seller can extract significantly more revenue than Myerson’s mechanism (while also improving overall utility). At the same time, there is still a gap between what we can extract and the non-strategic optimal. 
+
+Perhaps the best-studied online-learning scenario is that of [multi-armed bandits](https://en.wikipedia.org/wiki/Multi-armed_bandit), where the learner has to repeatedly select one of $k$ options, and only learns the reward of the selected option after it has been irrevocably selected. Multi-armed bandits (and their extensions to contextual bandits) capture much of the issues involved in online decision making. Examples range from repeatedly selecting a service contractor, to choosing which ads to display based on a query, to selecting a caching policy on a server. Importantly, in the classical bandit setting it is assumed that none of the parties are strategic.  
+
+In “Multi-armed bandit problems with strategic arms” we revisit the bandits model in the case where the *arms* are strategic. Consider the scenario where the learner needs to repeatedly hire a contractor to do a job. In this case, the goal of the learner is to always pick the best contractor in terms of $utility_t-cost_t$: the difference between its utility and its cost. When the utilities and costs are fixed (even adversarially), it is known from online learning theory (and practice) that this goal is attainable. However, if the “arms” are contractors, they will behave strategically to maximize *their* reward in the game. For example, they might misrepresent the cost in order to collect rewards in later rounds; a contractor may charge a very low fee to steer the learner away from competition, and then raise the prices in later rounds. Additionally, tacit collusion may emerge between the arms.  
+
+Both projects above demonstrate that applying “learning” to strategic problems is fraught even when the underlying learning problem is well-understood: whenever one party is learning, other parties may exploit it by “teaching” it to behave in their interest. 
+
 
 Further reading:  
+
 
 *Note*: This is a very active research area, I will post a link to a survey sometime in the future. 
 
 *   "Multi-armed bandit problems with strategic arms" [\[COLT'19\]](http://proceedings.mlr.press/v99/braverman19b.html)
 *   "Selling to a no-regret buyer"  (EC'18); [\[arXiv\]](https://arxiv.org/abs/1711.09176)
 *   A 2019 survey on multi-arm bandits by Aleksandrs Slivkins: [\[arXiv\]](https://arxiv.org/abs/1904.07272)
+
