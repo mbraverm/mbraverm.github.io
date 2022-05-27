@@ -12,5 +12,5 @@ In 2010-11 I was an assistant professor jointly appointed at the Departments of 
 
 I have been a professor of computer science at Princeton University since 2015. I joined Princeton in 2011 as an assistant professor.
 
-With my [students and postdocs](/team/current-members/) I work on theoretical computer science, and its connections to other disciplines, especially in information theory, mathematical analysis, and economics. You can find my publications
+With my [students and postdocs](/team/members/) I work on theoretical computer science, and its connections to other disciplines, especially in information theory, mathematical analysis, and economics. You can find my publications
 [here](/research/all-papers/). My research is supported by a number of [awards](/about/funding/), including a 2013 Packard Fellowship and a 2019 NSF Waterman award.
