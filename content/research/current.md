@@ -1,7 +1,7 @@
 ---
 title: Current
 weight: 20
-draft: false
+draft: true
 ---
 
 This page is under construction. It will cover current/near-future research direction (mainly for prospective students). 
