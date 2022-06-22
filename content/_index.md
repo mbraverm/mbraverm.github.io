@@ -25,7 +25,7 @@ My e-mail address: `#######@cs.princeton.edu`, replacing `#######` with `mbraver
 <br/>
 <br/>
 
-
+<!--
 ## Activities
 I co-organized a semester on the **Nexus of Information and Computation Theories**
 at the [Institut Henri Poincaré](https://www.ihp.fr/en) in Paris, January–April 2016.
@@ -34,21 +34,17 @@ For more information see [here](https://csnexus.info/).
 I co-hosted a [tutorial](https://www.isit2015.org/program/tutorials.html) on
 [information and communication complexity](https://www.isit2015.org/resources/tutorials/T-AM-1.pdf)
 at [ISIT'15](https://www.isit2015.org/) in Hong Kong.
+-->
 
-**Recent and current program committees (since 2012):**
-[ITCS'17](http://itcs-conf.org/itcs17/itcs17-info.html),
-[FOCS'16](http://archive.dimacs.rutgers.edu/FOCS16/),
-[STOC'14](http://www.columbia.edu/~cs2035/stoc/stoc2014/),
-[CCR'13](http://ccr2013.mccme.ru/),
-[ITCS'13](http://itcs2013.cs.berkeley.edu/),
-[RANDOM'12](http://cui.unige.ch/tcs/random-approx/2012/),
-[FOCS'12](http://ieee-focs.org/focs2012/).
+**Recent and current program committees (since 2021):**
+[ITCS'22](http://itcs-conf.org/itcs22/itcs22-cfp.html) (program committee chair)
 
 ## Papers
 [All papers](/research/all-papers/)
 
 ## Teaching
-- Fall 2021: COS521 Advanced algorithm design
+- Spring 2022: [COS445](https://www.cs.princeton.edu/~smattw/Teaching/cos445sp22) Economics and computation  
+- Fall 2021: [COS521](https://www.cs.princeton.edu/~smattw/Teaching/cos521fa21.htm) Advanced algorithm design
 
 <!--
 ## Collaborators, present and past 
