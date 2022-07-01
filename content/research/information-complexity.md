@@ -54,7 +54,7 @@ It turns out that the amortized (per-copy) communication complexity of a task $T
 
 #### Interactive compression
 
-This theorem gives an immediate blueprint for proving direct sum theorems for (randomized) communication complexity. To show (for example) that $CC(T^k) \gtrsim k\cdot CC(T^k)$, one can show that $IC(T)\gtrsim CC(T)$. This inequality, more commonly written as $CC(T)\lesssim IC(T)$ is known as the [*interactive compression*](https://arxiv.org/abs/1504.06830) question. It asks whether a protocol $\pi$ that solves $T$ while revealing little information can be "compressed" into a protocol $\pi'$ that uses little communication. 
+This theorem gives an immediate blueprint for proving direct sum theorems for (randomized) communication complexity. To show (for example) that $CC(T^k) \gtrsim k\cdot CC(T)$, one can show that $IC(T)\gtrsim CC(T)$. This inequality, more commonly written as $CC(T)\lesssim IC(T)$ is known as the [*interactive compression*](https://arxiv.org/abs/1504.06830) question. It asks whether a protocol $\pi$ that solves $T$ while revealing little information can be "compressed" into a protocol $\pi'$ that uses little communication. 
 
 In the context of one-way communication near-perfect compression is generally possibly. For example [Huffman coding](https://en.wikipedia.org/wiki/Huffman_coding) allows one to encode a message with entropy $H(M)$ using at most $H(M)+1$ bits in expectation. It is generally the case that a protocol with $r$ rounds of communication can be compressed into $O(IC(\Pi)+r)$ bits of communication. Unfortunately, the protocol achieving $IC(T)$ may have an unbounded number of rounds, making such a compression useless in the general interactive setting. 
 
