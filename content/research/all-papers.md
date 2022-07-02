@@ -7,7 +7,7 @@ weight: 40
 
 *   Optimization-friendly generic mechanisms without money  
     Mark Braverman  
-    [\[arXiv\]](https://arxiv.org/abs/2106.07752)
+    [\[arXiv\]](https://arxiv.org/abs/2106.07752) [\[talk\]](https://www.youtube.com/watch?v=OBGPOJc7VvI)
     
 *   Statistically near-optimal hypothesis selection  
     Olivier Bousquet, Mark Braverman, Klim Efremenko, Gillat Kol, Shay Moran  
