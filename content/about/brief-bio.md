@@ -15,4 +15,4 @@ I have been a professor of computer science at Princeton University since 2015. 
 With my [students and postdocs](/team/members/) I work on theoretical computer science, and its connections to other disciplines, especially in information theory, mathematical analysis, and economics. You can find my publications
 [here](/research/all-papers/). My research is supported by a number of [awards](/about/funding/), including a 2013 Packard Fellowship and a 2019 NSF Waterman award.  
 
-I've been married to Anna since 2007. You can find her website is [\[here\]](https://soilforroots.com/).
+I've been married to Anna since 2007. You can find her website [\[here\]](https://soilforroots.com/).
