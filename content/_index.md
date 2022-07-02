@@ -44,7 +44,7 @@ at [ISIT'15](https://www.isit2015.org/) in Hong Kong.
 
 ##### Highlighted papers
 
-*   Optimization-friendly generic mechanisms without money [\[arXiv\]](https://arxiv.org/abs/2106.07752)
+*   Optimization-friendly generic mechanisms without money [\[arXiv\]](https://arxiv.org/abs/2106.07752) [\[talk\]](https://www.youtube.com/watch?v=OBGPOJc7VvI)
     
 
 
