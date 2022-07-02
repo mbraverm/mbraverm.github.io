@@ -42,6 +42,14 @@ at [ISIT'15](https://www.isit2015.org/) in Hong Kong.
 ## Papers
 [All papers](/research/all-papers/)
 
+##### Highlighted papers
+
+*   Optimization-friendly generic mechanisms without money  
+    Mark Braverman  
+    [\[arXiv\]](https://arxiv.org/abs/2106.07752)
+    
+
+
 ## Teaching
 - Spring 2022: [COS445](https://www.cs.princeton.edu/~smattw/Teaching/cos445sp22) Economics and computation  
 - Fall 2021: [COS521](https://www.cs.princeton.edu/~smattw/Teaching/cos521fa21.htm) Advanced algorithm design
