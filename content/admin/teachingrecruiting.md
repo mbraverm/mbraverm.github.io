@@ -1,5 +1,5 @@
 ---
-title: Teaching faculty position in the CS department
+title: Teaching faculty positions
 weight: 20
 ---
 
