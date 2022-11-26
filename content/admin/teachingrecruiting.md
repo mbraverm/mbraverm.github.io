@@ -3,7 +3,7 @@ title: Teaching faculty positions
 weight: 20
 ---
 
-We are hiring for multiple teaching positions in the department! Some additional informaiton is below:
+We are hiring for multiple teaching faculty positions in the department! Some additional information is below:
 
 **Job Responsibilities**
 
