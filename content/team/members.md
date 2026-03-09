@@ -7,14 +7,10 @@ weight: 10
 
 ### Graduate students:
 
-* [Antonio Molina Lovett](https://amolina.ca/)
 
 ### Postdocs:
 
-* [Mahsa Derakhshan](http://www.cs.umd.edu/~mahsa/)
-* [Vijay Bhattiprolu](http://vspvijay.com/)
-* John Peebles
-* [Or Zamir](https://www.cs.tau.ac.il/~orzamir/)
+
 
 
 ## Alumni:
@@ -23,6 +19,7 @@ With first place of employment/study:
 
 ### Graduate students
 
+* [Antonio Molina Lovett](https://amolina.ca/). _MSc_ in Computer Science, Princeton, 2021; Jane Street. 
 * [Sumegha Garg](https://sites.google.com/view/sumegha-garg/home) _PhD_ in Computer Science, Princeton, 2020; Rabin Postdoctoral Fellow at Harvard.
 * [Young Kun Ko](https://youngkunko.github.io/) _PhD_ in Computer Science, Princeton, 2018; Assistant Professor / Faculty Fellow at NYU.
 * [Jieming Mao](https://www.cs.princeton.edu/~jiemingm/) _PhD_ in Computer Science, Princeton, 2018; Google Research New York.
@@ -35,6 +32,10 @@ With first place of employment/study:
 
 ### Postdocs I supervised or worked with closely
 
+* [Mahsa Derakhshan](http://www.cs.umd.edu/~mahsa/); Faculty at Northeastern University.
+* [Vijay Bhattiprolu](http://vspvijay.com/); Facutly at University of Waterloo. 
+* John Peebles
+* [Or Zamir](https://www.cs.tau.ac.il/~orzamir/); Faculty at Tel-Aviv University. 
 * [Sahil Singla](https://www.cs.princeton.edu/~singla/), 2018-2021, Princeton; Faculty at GA Tech. 
 * [Shay Moran](http://www.cs.technion.ac.il/~shaymrn/), 2017-2020, IAS, Princeton, and Google; Faculty at the Technion, Israel.
 * [Dor Mintzer](https://sites.google.com/view/dorminzer/home), 2018-2020, IAS; Faculty at MIT.
