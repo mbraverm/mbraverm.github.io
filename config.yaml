@@ -36,3 +36,5 @@ params:
 
   geekdocLogo: /media/princeton-shield-square.png
 
+minify:
+  disableHTML: true
