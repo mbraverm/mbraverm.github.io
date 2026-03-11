@@ -42,6 +42,29 @@
  &lt;svg class="gdoc-icon gdoc_link"&gt;&lt;use xlink:href="#gdoc_link"&gt;&lt;/use&gt;&lt;/svg&gt;
  &lt;/a&gt;
 &lt;/div&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a
+ class="gdoc-markdown__link"
+ href="https://elijah-fullerton.github.io/"
+&gt;Elijah Journey Fullerton&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Amrit Daswaney&lt;/li&gt;
+&lt;li&gt;&lt;a
+ class="gdoc-markdown__link"
+ href="https://jingyirose.github.io/"
+&gt;Jingyi Liu&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a
+ class="gdoc-markdown__link"
+ href="https://ericrxue.com/"
+&gt;Eric Xue&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a
+ class="gdoc-markdown__link"
+ href="https://stephenharmonnewman.com/"
+&gt;Stephen Newman&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a
+ class="gdoc-markdown__link"
+ href="https://sites.google.com/view/zhongtianhe"
+&gt;Zhongtian He&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
 &lt;div class="flex align-center gdoc-page__anchorwrap"&gt;
  &lt;h3 id="postdocs"
  &gt;
