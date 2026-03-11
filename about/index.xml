@@ -1,3 +1,103 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>About on Mark Braverman's Home Page</title><link>https://mbraverm.github.io/about/</link><description>Recent content in About on Mark Braverman's Home Page</description><generator>Hugo -- gohugo.io</generator><atom:link href="https://mbraverm.github.io/about/index.xml" rel="self" type="application/rss+xml"/><item><title>Brief Bio</title><link>https://mbraverm.github.io/about/brief-bio/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://mbraverm.github.io/about/brief-bio/</guid><description>I received my BA in mathematics and computer science in 2001 from the Technion.
-I received my PhD in 2008 from the Department of Computer Science at the University of Toronto under the supervision of Stephen Cook. My thesis was on the computability and complexity of Julia sets, a topic on which I worked with Michael Yampolsky.
-Between 2008 and 2010 I spent two years as a postdoctoral researcher at the Microsoft Research New England lab, then run by Jennifer Chayes.</description></item><item><title>Affiliations and service</title><link>https://mbraverm.github.io/about/affiliations/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://mbraverm.github.io/about/affiliations/</guid><description> Princeton Computer Science Theory Group PACM (Program in Applied and Computational Mathematics) Simons Institute for the Theory of Computing Scientific Advisory Board Foundations of Computational Mathematics Board of Directors</description></item><item><title>Funding</title><link>https://mbraverm.github.io/about/funding/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://mbraverm.github.io/about/funding/</guid><description>I gratefully acknowledge the following funding sources: Present: NSF, through the Alan T. Waterman award CCF-1933331 The Simons Foundation, through the Simons Collaboration on Algorithms and Geometry The David and Lucile Packard Foundation, through a Packard Fellowship Past: NSF, through award CCF-1525342: &amp;ldquo;Noise across computational settings&amp;rdquo; Princeton University, through an Alfred Rheinstein Faculty Award NSF, through CAREER award CCF-1149888: &amp;ldquo;Coding and information theory for interactive computing&amp;rdquo; NSF, through award CCF-1215990: &amp;ldquo;Collaborative Research: Data-driven mechanisms in healthcare&amp;rdquo; (joint with Mohsen Bayati from Stanford) The John Templeton Foundation, through a Turing Fellowship, which was part of &amp;ldquo;The Turing Centenary Research Project - Mind, Mechanism and Mathematics&amp;rdquo; NSF, through the Center for Computational Intractability The Alfred P.</description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>About on Mark Braverman's Home Page</title><link>https://mbraverm.github.io/about/</link><description>Recent content in About on Mark Braverman's Home Page</description><generator>Hugo</generator><language>en</language><atom:link href="https://mbraverm.github.io/about/index.xml" rel="self" type="application/rss+xml"/><item><title>Brief Bio</title><link>https://mbraverm.github.io/about/brief-bio/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://mbraverm.github.io/about/brief-bio/</guid><description>&lt;p&gt;I received my BA in mathematics and computer science in 2001 from the &lt;a
+ class="gdoc-markdown__link"
+ href="https://www.technion.ac.il/"
+&gt;Technion&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;I received my PhD in 2008 from the &lt;a
+ class="gdoc-markdown__link"
+ href="https://www.cs.utoronto.ca/"
+&gt;Department of Computer Science&lt;/a&gt; at the &lt;a
+ class="gdoc-markdown__link"
+ href="https://www.utoronto.ca/"
+&gt;University of Toronto&lt;/a&gt; under the supervision of &lt;a
+ class="gdoc-markdown__link"
+ href="https://en.wikipedia.org/wiki/Stephen_Cook"
+&gt;Stephen Cook&lt;/a&gt;. My thesis was on the &lt;a
+ class="gdoc-markdown__link"
+ href="https://mbraverm.github.io/research/dynamics-and-computation/"
+&gt;computability and complexity of Julia sets&lt;/a&gt;, a topic on which I worked with &lt;a
+ class="gdoc-markdown__link"
+ href="https://www.math.toronto.edu/yampol/"
+&gt;Michael Yampolsky&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Between 2008 and 2010 I spent two years as a postdoctoral researcher at the &lt;a
+ class="gdoc-markdown__link"
+ href="https://research.microsoft.com/aboutmsr/labs/newengland/default.aspx"
+&gt;Microsoft Research New England&lt;/a&gt; lab, then run by &lt;a
+ class="gdoc-markdown__link"
+ href="https://en.wikipedia.org/wiki/Jennifer_Tour_Chayes"
+&gt;Jennifer Chayes&lt;/a&gt;.&lt;/p&gt;</description></item><item><title>Affiliations and service</title><link>https://mbraverm.github.io/about/affiliations/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://mbraverm.github.io/about/affiliations/</guid><description>&lt;ul&gt;
+&lt;li&gt;&lt;a
+ class="gdoc-markdown__link"
+ href="https://www.cs.princeton.edu/theory/"
+&gt;Princeton Computer Science Theory Group&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a
+ class="gdoc-markdown__link"
+ href="https://www.pacm.princeton.edu/"
+&gt;PACM&lt;/a&gt; (Program in Applied and Computational Mathematics)&lt;/li&gt;
+&lt;li&gt;Simons Institute for the Theory of Computing &lt;a
+ class="gdoc-markdown__link"
+ href="https://simons.berkeley.edu/people/advisory"
+&gt;Scientific Advisory Board&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Foundations of Computational Mathematics &lt;a
+ class="gdoc-markdown__link"
+ href="http://focm-society.org/governance.php"
+&gt;Board of Directors&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description></item><item><title>Funding</title><link>https://mbraverm.github.io/about/funding/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://mbraverm.github.io/about/funding/</guid><description>&lt;div class="flex align-center gdoc-page__anchorwrap"&gt;
+ &lt;h3 id="i-gratefully-acknowledge-the-following-funding-sources"
+ &gt;
+ I gratefully acknowledge the following funding sources:
+ &lt;/h3&gt;
+ &lt;a data-clipboard-text="https://mbraverm.github.io/about/funding/#i-gratefully-acknowledge-the-following-funding-sources" class="gdoc-page__anchor clip flex align-center" title="Anchor to: I gratefully acknowledge the following funding sources:" aria-label="Anchor to: I gratefully acknowledge the following funding sources:" href="#i-gratefully-acknowledge-the-following-funding-sources"&gt;
+ &lt;svg class="gdoc-icon gdoc_link"&gt;&lt;use xlink:href="#gdoc_link"&gt;&lt;/use&gt;&lt;/svg&gt;
+ &lt;/a&gt;
+&lt;/div&gt;
+&lt;div class="flex align-center gdoc-page__anchorwrap"&gt;
+ &lt;h4 id="present"
+ &gt;
+ Present:
+ &lt;/h4&gt;
+ &lt;a data-clipboard-text="https://mbraverm.github.io/about/funding/#present" class="gdoc-page__anchor clip flex align-center" title="Anchor to: Present:" aria-label="Anchor to: Present:" href="#present"&gt;
+ &lt;svg class="gdoc-icon gdoc_link"&gt;&lt;use xlink:href="#gdoc_link"&gt;&lt;/use&gt;&lt;/svg&gt;
+ &lt;/a&gt;
+&lt;/div&gt;
+&lt;ul&gt;
+&lt;li&gt;NSF, through the Alan T. Waterman award CCF-1933331&lt;/li&gt;
+&lt;li&gt;The Simons Foundation, through the &lt;a
+ class="gdoc-markdown__link"
+ href="https://www.simonsfoundation.org/mathematics-and-physical-science/simons-foundation-launches-simons-collaboration-on-algorithms-and-geometry/"
+&gt;Simons Collaboration on Algorithms and Geometry&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;The David and Lucile Packard Foundation, through a &lt;a
+ class="gdoc-markdown__link"
+ href="https://www.packard.org/what-we-fund/conservation-and-science/packard-fellowships-for-science-and-engineering/"
+&gt;Packard Fellowship&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;div class="flex align-center gdoc-page__anchorwrap"&gt;
+ &lt;h4 id="past"
+ &gt;
+ Past:
+ &lt;/h4&gt;
+ &lt;a data-clipboard-text="https://mbraverm.github.io/about/funding/#past" class="gdoc-page__anchor clip flex align-center" title="Anchor to: Past:" aria-label="Anchor to: Past:" href="#past"&gt;
+ &lt;svg class="gdoc-icon gdoc_link"&gt;&lt;use xlink:href="#gdoc_link"&gt;&lt;/use&gt;&lt;/svg&gt;
+ &lt;/a&gt;
+&lt;/div&gt;
+&lt;ul&gt;
+&lt;li&gt;NSF, through award CCF-1525342: &amp;ldquo;Noise across computational settings&amp;rdquo;&lt;/li&gt;
+&lt;li&gt;Princeton University, through an Alfred Rheinstein Faculty Award&lt;/li&gt;
+&lt;li&gt;NSF, through CAREER award CCF-1149888: &amp;ldquo;Coding and information theory for interactive computing&amp;rdquo;&lt;/li&gt;
+&lt;li&gt;NSF, through award CCF-1215990: &amp;ldquo;Collaborative Research: Data-driven mechanisms in healthcare&amp;rdquo; (joint with &lt;a
+ class="gdoc-markdown__link"
+ href="https://www.stanford.edu/~bayati/"
+&gt;Mohsen Bayati&lt;/a&gt; from Stanford)&lt;/li&gt;
+&lt;li&gt;The John Templeton Foundation, through a Turing Fellowship, which was part of &lt;a
+ class="gdoc-markdown__link"
+ href="https://www.mathcomp.leeds.ac.uk/turing2012/give-page.php?704"
+&gt;&amp;ldquo;The Turing Centenary Research Project - Mind, Mechanism and Mathematics&amp;rdquo;&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;NSF, through the &lt;a
+ class="gdoc-markdown__link"
+ href="https://intractability.princeton.edu/"
+&gt;Center for Computational Intractability&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;The Alfred P. Sloan Foundation, through a &lt;a
+ class="gdoc-markdown__link"
+ href="https://www.sloan.org/sloan-research-fellowships/"
+&gt;Sloan Research Fellowship&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;NSERC, through a Discovery Grant &amp;ldquo;Complexity theory, algorithms and applications&amp;rdquo; (while at the University of Toronto).&lt;/li&gt;
+&lt;/ul&gt;</description></item></channel></rss>

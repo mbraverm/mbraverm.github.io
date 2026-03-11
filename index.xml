@@ -1,29 +1,390 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Mark Braverman on Mark Braverman's Home Page</title><link>https://mbraverm.github.io/</link><description>Recent content in Mark Braverman on Mark Braverman's Home Page</description><generator>Hugo -- gohugo.io</generator><lastBuildDate>Tue, 02 Mar 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://mbraverm.github.io/index.xml" rel="self" type="application/rss+xml"/><item><title>Brief Bio</title><link>https://mbraverm.github.io/about/brief-bio/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://mbraverm.github.io/about/brief-bio/</guid><description>I received my BA in mathematics and computer science in 2001 from the Technion.
-I received my PhD in 2008 from the Department of Computer Science at the University of Toronto under the supervision of Stephen Cook. My thesis was on the computability and complexity of Julia sets, a topic on which I worked with Michael Yampolsky.
-Between 2008 and 2010 I spent two years as a postdoctoral researcher at the Microsoft Research New England lab, then run by Jennifer Chayes.</description></item><item><title>Members</title><link>https://mbraverm.github.io/team/members/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://mbraverm.github.io/team/members/</guid><description>Current Group Members Graduate students: Antonio Molina Lovett Postdocs: Mahsa Derakhshan Vijay Bhattiprolu John Peebles Or Zamir Alumni: With first place of employment/study:
-Graduate students Sumegha Garg PhD in Computer Science, Princeton, 2020; Rabin Postdoctoral Fellow at Harvard. Young Kun Ko PhD in Computer Science, Princeton, 2018; Assistant Professor / Faculty Fellow at NYU. Jieming Mao PhD in Computer Science, Princeton, 2018; Google Research New York. Jonathan Schneider, PhD in Computer Science, Princeton, 2018; Google Research New York.</description></item><item><title>Affiliations and service</title><link>https://mbraverm.github.io/about/affiliations/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://mbraverm.github.io/about/affiliations/</guid><description> Princeton Computer Science Theory Group PACM (Program in Applied and Computational Mathematics) Simons Institute for the Theory of Computing Scientific Advisory Board Foundations of Computational Mathematics Board of Directors</description></item><item><title>Dynamics and computation</title><link>https://mbraverm.github.io/research/dynamics-and-computation/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://mbraverm.github.io/research/dynamics-and-computation/</guid><description>A dynamical system is a stateful system (often with a continuous state space) evolving over time. Thus, dynamical systems can be (and are being) used to capture the behavior of both natural and articifical systems over time. The state space of dynamical systems is typically continuous, which means that one has to look at continuous models of computation. Here is a short 2013 Communications of the ACM article I wrote explaining computation over the reals.</description></item><item><title>Information complexity</title><link>https://mbraverm.github.io/research/information-complexity/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://mbraverm.github.io/research/information-complexity/</guid><description>Information theory is a vastly successful theory underpinning much of our communication technology. In many important communication scenarios it allows one to calculate the precise amount of resources needed to perform a cetrain task. For example, the number of bits Alice needs to communicate to send a string $x_1 x_2 \ldots x_n$ of $n$ random trits (elements from $\lbrace 1,2,3\rbrace$) to Bob is given by $(\log_2 3) \cdot n \pm o(n)$.</description></item><item><title>Joining the group</title><link>https://mbraverm.github.io/team/joining-the-group/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://mbraverm.github.io/team/joining-the-group/</guid><description>Thank you for you interest in joining the group!
-Unfortunately, due to large volumes of email, I am not able to respond to individual inquiries about joining Princeton or our group. Some general details can be found below.
-High school and undergraduate students If you are a Princeton undergrad, and are interested in the possibility of doing Junior/Senior independent work, please email me to make an appointment and discuss your interests.</description></item><item><title>Mechanism design</title><link>https://mbraverm.github.io/research/mech-design/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://mbraverm.github.io/research/mech-design/</guid><description>Black-box reductions from algorithms to mechanisms without money Strategic capitation: mechanism design in the &amp;ldquo;big data&amp;rdquo; regime Mechanism design for learning agents Overview Algorithm design vs. mechanism design. The starting point of Algorithm design is a specified input-output behavior: $L$ is a list of numbers, and $SORT(L)$ is the same list sorted in ascending order; $f$ is boolean formula, and $SAT(f)$ is a satisfying assignment &amp;ndash; if one exists; $D$ is a list of labeled examples, and $Model(D)$ is a trained model for labeling previously unseed examples.</description></item><item><title>Misc projects</title><link>https://mbraverm.github.io/research/past-projects/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://mbraverm.github.io/research/past-projects/</guid><description>Contents New bounds on the Grothendieck constant Monotonicity and implementability New bounds on the Grothendieck constant Let $A$ be an $n\times n$ matrix. It gives rise to the quadratic form $$\sum_{i,j} A_{ij} x_i y_j.$$ The Grothendieck constant $k$ bounds the ratio between the maximum of this form when $x_i,y_j$ are unit vectors in a Hilbert space and the maximum of this form when $x_i,y_j\in {-1,1}$ are just real numbers. In other words, $k$ is the smallest number such that for all $A$,</description></item><item><title>Teaching faculty positions</title><link>https://mbraverm.github.io/admin/teachingrecruiting/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://mbraverm.github.io/admin/teachingrecruiting/</guid><description>We are hiring for multiple teaching faculty positions in the department! Some additional information is below:
-Job Responsibilities
-Job responsibilities can include working with a team to teach and manage our large introductory and upper-level courses, advising undergraduate research, contributing to curriculum development, leading outreach programs for under-represented groups, developing EdTech tools, and creating online content.
-The position features many compelling elements:
-Advancing in career-oriented, teaching-stream faculty ranks: Lecturer, Senior Lecturer, University Lecturer.</description></item><item><title>Funding</title><link>https://mbraverm.github.io/about/funding/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://mbraverm.github.io/about/funding/</guid><description>I gratefully acknowledge the following funding sources: Present: NSF, through the Alan T. Waterman award CCF-1933331 The Simons Foundation, through the Simons Collaboration on Algorithms and Geometry The David and Lucile Packard Foundation, through a Packard Fellowship Past: NSF, through award CCF-1525342: &amp;ldquo;Noise across computational settings&amp;rdquo; Princeton University, through an Alfred Rheinstein Faculty Award NSF, through CAREER award CCF-1149888: &amp;ldquo;Coding and information theory for interactive computing&amp;rdquo; NSF, through award CCF-1215990: &amp;ldquo;Collaborative Research: Data-driven mechanisms in healthcare&amp;rdquo; (joint with Mohsen Bayati from Stanford) The John Templeton Foundation, through a Turing Fellowship, which was part of &amp;ldquo;The Turing Centenary Research Project - Mind, Mechanism and Mathematics&amp;rdquo; NSF, through the Center for Computational Intractability The Alfred P.</description></item><item><title>Postdoc opportunities</title><link>https://mbraverm.github.io/team/postdoc-opportunities/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://mbraverm.github.io/team/postdoc-opportunities/</guid><description>We have several exciting postdoctoral opportunities in Princeton and the area.
-Princeton CS Theory group: Please see Princeton academic jobs portal here, and navigate to opportunities in Computer Science. The Theory Group typically advertises a postdoctoral research associate position and an associate research scholar position, which is slightly more senior. Both positions are reviewed in the late Fall, with the goal of making decisions by January/February.
-IAS Membership: More information here.</description></item><item><title>Writings</title><link>https://mbraverm.github.io/research/writings/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://mbraverm.github.io/research/writings/</guid><description>An essay on the need for personal digital advocates (Last updated: December 2020)
-Abstract: There is a growing power imbalance between companies who have access to powerful algorithms and processing capacity and users who don’t. To restore the balance, we need to put equally powerful algorithms in the hands of individuals. There are two concrete steps we recommend:
-(1) there should be a new regulatory framework which creates an unbreakable commitment for an advocate (a digital service) to work exclusively in the interest of its client;</description></item><item><title>All Papers</title><link>https://mbraverm.github.io/research/all-papers/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://mbraverm.github.io/research/all-papers/</guid><description>Selected recent publications and preprints Optimization-friendly generic mechanisms without money
-Mark Braverman
-[arXiv] [talk]
-Statistically near-optimal hypothesis selection
-Olivier Bousquet, Mark Braverman, Klim Efremenko, Gillat Kol, Shay Moran
-FOCS'21; [arXiv]
-Tight space complexity of the coin problem
-Mark Braverman, Sumegha Garg, Or Zamir
-FOCS'21; [ECCC]
-Data-driven incentive alignment in capitation schemes
-Mark Braverman, Sylvain Chassang
-[NBER preprint] [Journal of Public Economics 207, 2022]
-BeauCoup: Answering many network traffic queries, one memory update at a time</description></item><item><title>Undergraduate projects</title><link>https://mbraverm.github.io/team/undergraduate-projects/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://mbraverm.github.io/team/undergraduate-projects/</guid><description>2015-16: Esther Rolf &amp;lsquo;16, Thesis, &amp;ldquo;Capturing multiparty communication: extending notions of information theory to topology-dependent multiparty problems&amp;rdquo; Michael Yitayew &amp;lsquo;16, Thesis, &amp;ldquo;Short-circuit error resilience in Boolean formulas&amp;rdquo; Zhongxia (Ricky) Zhao &amp;lsquo;16, Thesis, &amp;ldquo;Non-clearing and combinatorial Walrasian equilibria&amp;rdquo; Clement Lee &amp;lsquo;17, F15, &amp;ldquo;Fast polynomial factorization&amp;rdquo; Blair Wang &amp;lsquo;17, F15, &amp;ldquo;Discovery of spurious statistical relationships&amp;rdquo; 2014-15: David Durst &amp;lsquo;15, Thesis, &amp;ldquo;Beyond3D: Visualizing high-dimensional data sets&amp;rdquo; James Pinkerton &amp;lsquo;15, Thesis, &amp;ldquo;Energy function arguments in finding Tower of Majority lower bounds&amp;rdquo; 2013-14: Andra Constantinescu &amp;lsquo;14, Thesis, &amp;ldquo;Behavioral mechanism design - accounting for the mental cost of choosing&amp;rdquo; Mihai Roman &amp;lsquo;14, Thesis, &amp;ldquo;Computational complexity of pricing derivatives&amp;rdquo; Leonardo Stedile &amp;lsquo;14, Thesis, &amp;ldquo;Primal-dual based weights and other kidney exchange mechanisms&amp;rdquo; Valentina Barboy &amp;lsquo;15, F13, &amp;ldquo;An exploration of the accuracy and efficiency of peer grading&amp;rdquo; Stefani Karp &amp;lsquo;15, S14, &amp;ldquo;Information-theoretic approaches to the Unexpected Hanging Paradox&amp;rdquo; Christoph Schlom &amp;lsquo;15, S14, &amp;ldquo;Calibration testing&amp;rdquo; 2012-13: Kevin Mantel &amp;lsquo;13, Thesis, &amp;ldquo;Election manipulation through misrepresentation of pre-election polls&amp;rdquo; Gal Oshri &amp;lsquo;13, Thesis, &amp;ldquo;Contracting experts with unknown cost structures&amp;rdquo; Kanika Pasricha, Thesis, &amp;ldquo;The computational hardness of pricing compound securities&amp;rdquo; Ashish Gupta &amp;lsquo;13, F12, &amp;ldquo;An investigation of the usefulness of data preprocessing techniques versus algorithmic sophistication on diabetes prediction&amp;rdquo; Leonardo Stedile &amp;lsquo;14, F12, &amp;ldquo;Analysis of risk in chess&amp;rdquo; Xiao Tian (Elaine) Liew &amp;lsquo;14, F12, &amp;ldquo;Effect of network structure on PageRank of spam&amp;rdquo; Xin Yang Yak &amp;lsquo;14, S13, &amp;ldquo;Do YouTube users upvote Better Comments?</description></item><item><title>Math has been enabled</title><link>https://mbraverm.github.io/posts/math-enabled/</link><pubDate>Tue, 02 Mar 2021 00:00:00 +0000</pubDate><guid>https://mbraverm.github.io/posts/math-enabled/</guid><description>Math is now enabled:
-Inline math: $\varphi = \dfrac{1+\sqrt5}{2}= 1.6180339887…$; or
-Block math:
-$$ \varphi = 1+\frac{1} {1+\frac{1} {1+\frac{1} {1+\cdots} } } $$</description></item><item><title>New Website</title><link>https://mbraverm.github.io/posts/new-website/</link><pubDate>Thu, 11 Feb 2021 00:00:00 +0000</pubDate><guid>https://mbraverm.github.io/posts/new-website/</guid><description>I created my new website using Hugo and GeekDocs!</description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Mark Braverman on Mark Braverman's Home Page</title><link>https://mbraverm.github.io/</link><description>Recent content in Mark Braverman on Mark Braverman's Home Page</description><generator>Hugo</generator><language>en</language><lastBuildDate>Tue, 02 Mar 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://mbraverm.github.io/index.xml" rel="self" type="application/rss+xml"/><item><title>Brief Bio</title><link>https://mbraverm.github.io/about/brief-bio/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://mbraverm.github.io/about/brief-bio/</guid><description>&lt;p&gt;I received my BA in mathematics and computer science in 2001 from the &lt;a
+ class="gdoc-markdown__link"
+ href="https://www.technion.ac.il/"
+&gt;Technion&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;I received my PhD in 2008 from the &lt;a
+ class="gdoc-markdown__link"
+ href="https://www.cs.utoronto.ca/"
+&gt;Department of Computer Science&lt;/a&gt; at the &lt;a
+ class="gdoc-markdown__link"
+ href="https://www.utoronto.ca/"
+&gt;University of Toronto&lt;/a&gt; under the supervision of &lt;a
+ class="gdoc-markdown__link"
+ href="https://en.wikipedia.org/wiki/Stephen_Cook"
+&gt;Stephen Cook&lt;/a&gt;. My thesis was on the &lt;a
+ class="gdoc-markdown__link"
+ href="https://mbraverm.github.io/research/dynamics-and-computation/"
+&gt;computability and complexity of Julia sets&lt;/a&gt;, a topic on which I worked with &lt;a
+ class="gdoc-markdown__link"
+ href="https://www.math.toronto.edu/yampol/"
+&gt;Michael Yampolsky&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Between 2008 and 2010 I spent two years as a postdoctoral researcher at the &lt;a
+ class="gdoc-markdown__link"
+ href="https://research.microsoft.com/aboutmsr/labs/newengland/default.aspx"
+&gt;Microsoft Research New England&lt;/a&gt; lab, then run by &lt;a
+ class="gdoc-markdown__link"
+ href="https://en.wikipedia.org/wiki/Jennifer_Tour_Chayes"
+&gt;Jennifer Chayes&lt;/a&gt;.&lt;/p&gt;</description></item><item><title>Members</title><link>https://mbraverm.github.io/team/members/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://mbraverm.github.io/team/members/</guid><description>&lt;div class="flex align-center gdoc-page__anchorwrap"&gt;
+ &lt;h2 id="current-group-members"
+ &gt;
+ Current Group Members
+ &lt;/h2&gt;
+ &lt;a data-clipboard-text="https://mbraverm.github.io/team/members/#current-group-members" class="gdoc-page__anchor clip flex align-center" title="Anchor to: Current Group Members" aria-label="Anchor to: Current Group Members" href="#current-group-members"&gt;
+ &lt;svg class="gdoc-icon gdoc_link"&gt;&lt;use xlink:href="#gdoc_link"&gt;&lt;/use&gt;&lt;/svg&gt;
+ &lt;/a&gt;
+&lt;/div&gt;
+&lt;div class="flex align-center gdoc-page__anchorwrap"&gt;
+ &lt;h3 id="graduate-students"
+ &gt;
+ Graduate students:
+ &lt;/h3&gt;
+ &lt;a data-clipboard-text="https://mbraverm.github.io/team/members/#graduate-students" class="gdoc-page__anchor clip flex align-center" title="Anchor to: Graduate students:" aria-label="Anchor to: Graduate students:" href="#graduate-students"&gt;
+ &lt;svg class="gdoc-icon gdoc_link"&gt;&lt;use xlink:href="#gdoc_link"&gt;&lt;/use&gt;&lt;/svg&gt;
+ &lt;/a&gt;
+&lt;/div&gt;
+&lt;div class="flex align-center gdoc-page__anchorwrap"&gt;
+ &lt;h3 id="postdocs"
+ &gt;
+ Postdocs:
+ &lt;/h3&gt;
+ &lt;a data-clipboard-text="https://mbraverm.github.io/team/members/#postdocs" class="gdoc-page__anchor clip flex align-center" title="Anchor to: Postdocs:" aria-label="Anchor to: Postdocs:" href="#postdocs"&gt;
+ &lt;svg class="gdoc-icon gdoc_link"&gt;&lt;use xlink:href="#gdoc_link"&gt;&lt;/use&gt;&lt;/svg&gt;
+ &lt;/a&gt;
+&lt;/div&gt;
+&lt;div class="flex align-center gdoc-page__anchorwrap"&gt;
+ &lt;h2 id="alumni"
+ &gt;
+ Alumni:
+ &lt;/h2&gt;
+ &lt;a data-clipboard-text="https://mbraverm.github.io/team/members/#alumni" class="gdoc-page__anchor clip flex align-center" title="Anchor to: Alumni:" aria-label="Anchor to: Alumni:" href="#alumni"&gt;
+ &lt;svg class="gdoc-icon gdoc_link"&gt;&lt;use xlink:href="#gdoc_link"&gt;&lt;/use&gt;&lt;/svg&gt;
+ &lt;/a&gt;
+&lt;/div&gt;
+&lt;p&gt;With first place of employment/study:&lt;/p&gt;</description></item><item><title>Affiliations and service</title><link>https://mbraverm.github.io/about/affiliations/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://mbraverm.github.io/about/affiliations/</guid><description>&lt;ul&gt;
+&lt;li&gt;&lt;a
+ class="gdoc-markdown__link"
+ href="https://www.cs.princeton.edu/theory/"
+&gt;Princeton Computer Science Theory Group&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a
+ class="gdoc-markdown__link"
+ href="https://www.pacm.princeton.edu/"
+&gt;PACM&lt;/a&gt; (Program in Applied and Computational Mathematics)&lt;/li&gt;
+&lt;li&gt;Simons Institute for the Theory of Computing &lt;a
+ class="gdoc-markdown__link"
+ href="https://simons.berkeley.edu/people/advisory"
+&gt;Scientific Advisory Board&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Foundations of Computational Mathematics &lt;a
+ class="gdoc-markdown__link"
+ href="http://focm-society.org/governance.php"
+&gt;Board of Directors&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description></item><item><title>Dynamics and computation</title><link>https://mbraverm.github.io/research/dynamics-and-computation/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://mbraverm.github.io/research/dynamics-and-computation/</guid><description>&lt;p&gt;A &lt;em&gt;&lt;a
+ class="gdoc-markdown__link"
+ href="https://en.wikipedia.org/wiki/Dynamical_system"
+&gt;dynamical system&lt;/a&gt;&lt;/em&gt; is a stateful system (often with a continuous state space) evolving over time. Thus, dynamical systems can be (and are being) used to capture the behavior of both natural and articifical systems over time.
+The state space of dynamical systems is typically continuous, which means that one has to look at continuous models of computation. &lt;a
+ class="gdoc-markdown__link"
+ href="https://cacm.acm.org/magazines/2013/9/167157-computing-with-real-numbers-from-archimedes-to-turing-and-beyond/fulltext"
+&gt;Here&lt;/a&gt; is a short 2013 Communications of the ACM article I wrote explaining computation over the reals. &lt;a
+ class="gdoc-markdown__link"
+ href="https://www.ams.org/notices/200603/fea-cook.pdf"
+&gt;There&lt;/a&gt; is also an older 2006 article with Stephen Cook in the Notices of the AMS.&lt;/p&gt;</description></item><item><title>Information complexity</title><link>https://mbraverm.github.io/research/information-complexity/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://mbraverm.github.io/research/information-complexity/</guid><description>&lt;p&gt;&lt;a
+ class="gdoc-markdown__link"
+ href="https://en.wikipedia.org/wiki/Information_theory"
+&gt;Information theory&lt;/a&gt; is a vastly successful theory underpinning much of our communication technology. In many important communication scenarios it allows one to calculate the precise amount of resources needed to perform a cetrain task. For example, the number of bits Alice needs to communicate to send a string $x_1 x_2 \ldots x_n$ of $n$ random trits (elements from $\lbrace 1,2,3\rbrace$) to Bob is given by $(\log_2 3) \cdot n \pm o(n)$. The number of bits Alice needs to communicate to send $n$ random trits to Bob if Bob already knows half of the $x$&amp;rsquo;s (regarless of whether Alice knows which locations are known to Bob) is $\frac{\log_2 3}{2}\cdot n \pm o(n)$ etc. These quantities can be written as expressions in terms of things like Shannon&amp;rsquo;s entorpy, mutual information, and conditional mutual information.&lt;/p&gt;</description></item><item><title>Joining the group</title><link>https://mbraverm.github.io/team/joining-the-group/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://mbraverm.github.io/team/joining-the-group/</guid><description>&lt;p&gt;&lt;strong&gt;Thank you for you interest in joining the group!&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Unfortunately, due to large volumes of email, I am not able to respond to individual inquiries about joining Princeton or our group. Some general details can be found below.&lt;/strong&gt;&lt;/p&gt;
+&lt;div class="flex align-center gdoc-page__anchorwrap"&gt;
+ &lt;h3 id="high-school-and-undergraduate-students"
+ &gt;
+ High school and undergraduate students
+ &lt;/h3&gt;
+ &lt;a data-clipboard-text="https://mbraverm.github.io/team/joining-the-group/#high-school-and-undergraduate-students" class="gdoc-page__anchor clip flex align-center" title="Anchor to: High school and undergraduate students" aria-label="Anchor to: High school and undergraduate students" href="#high-school-and-undergraduate-students"&gt;
+ &lt;svg class="gdoc-icon gdoc_link"&gt;&lt;use xlink:href="#gdoc_link"&gt;&lt;/use&gt;&lt;/svg&gt;
+ &lt;/a&gt;
+&lt;/div&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;If you are a Princeton undergrad, and are interested in the possibility of doing Junior/Senior independent work, please email me to make an appointment and discuss your interests. You can browse this page and look at the &lt;a
+ class="gdoc-markdown__link"
+ href="https://mbraverm.github.io/research/all-papers/"
+&gt;papers&lt;/a&gt; to get an idea of the topics we&amp;rsquo;re working on. Please also look at potential IW topics &lt;a
+ class="gdoc-markdown__link"
+ href="https://www.cs.princeton.edu/ugrad/independent-work/undergraduate-research-topics"
+&gt;here&lt;/a&gt;.&lt;/p&gt;</description></item><item><title>Mechanism design</title><link>https://mbraverm.github.io/research/mech-design/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://mbraverm.github.io/research/mech-design/</guid><description>&lt;ol&gt;
+&lt;li&gt;&lt;a
+ class="gdoc-markdown__link"
+ href="#BlackBox"
+&gt;Black-box reductions from algorithms to mechanisms without money&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a
+ class="gdoc-markdown__link"
+ href="#StrategicCapitation"
+&gt;Strategic capitation: mechanism design in the &amp;ldquo;big data&amp;rdquo; regime&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a
+ class="gdoc-markdown__link"
+ href="#LearningAgents"
+&gt;Mechanism design for learning agents&lt;/a&gt;&lt;/li&gt;
+&lt;/ol&gt;
+&lt;div class="flex align-center gdoc-page__anchorwrap"&gt;
+ &lt;h2 id="overview"
+ &gt;
+ Overview
+ &lt;/h2&gt;
+ &lt;a data-clipboard-text="https://mbraverm.github.io/research/mech-design/#overview" class="gdoc-page__anchor clip flex align-center" title="Anchor to: Overview" aria-label="Anchor to: Overview" href="#overview"&gt;
+ &lt;svg class="gdoc-icon gdoc_link"&gt;&lt;use xlink:href="#gdoc_link"&gt;&lt;/use&gt;&lt;/svg&gt;
+ &lt;/a&gt;
+&lt;/div&gt;
+&lt;p&gt;&lt;strong&gt;Algorithm design vs. mechanism design.&lt;/strong&gt; The starting point of &lt;em&gt;Algorithm design&lt;/em&gt; is a specified input-output behavior: $L$ is a list of numbers, and $SORT(L)$ is the same list sorted in ascending order; $f$ is boolean formula, and $SAT(f)$ is a satisfying assignment &amp;ndash; if one exists; $D$ is a list of labeled examples, and $Model(D)$ is a trained model for labeling previously unseed examples. Some of these tasks are incredibly complex. Much of computer science (and applied mathematics) is about finding new ways of performing these tasks. No matter how complex the algorithmic task at hand, it is normally assumed that the input $x$ does not depend on algorithm $A$.&lt;/p&gt;</description></item><item><title>Misc projects</title><link>https://mbraverm.github.io/research/past-projects/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://mbraverm.github.io/research/past-projects/</guid><description>&lt;div class="flex align-center gdoc-page__anchorwrap"&gt;
+ &lt;h4 id="contents"
+ &gt;
+ Contents
+ &lt;/h4&gt;
+ &lt;a data-clipboard-text="https://mbraverm.github.io/research/past-projects/#contents" class="gdoc-page__anchor clip flex align-center" title="Anchor to: Contents" aria-label="Anchor to: Contents" href="#contents"&gt;
+ &lt;svg class="gdoc-icon gdoc_link"&gt;&lt;use xlink:href="#gdoc_link"&gt;&lt;/use&gt;&lt;/svg&gt;
+ &lt;/a&gt;
+&lt;/div&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;a
+ class="gdoc-markdown__link"
+ href="#Grothendieck"
+&gt;New bounds on the Grothendieck constant&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a
+ class="gdoc-markdown__link"
+ href="#Mon"
+&gt;Monotonicity and implementability&lt;/a&gt;&lt;/li&gt;
+&lt;/ol&gt;
+&lt;div class="flex align-center gdoc-page__anchorwrap"&gt;
+ &lt;h4 id="Grothendieck"
+ &gt;
+ New bounds on the Grothendieck constant
+ &lt;/h4&gt;
+ &lt;a data-clipboard-text="https://mbraverm.github.io/research/past-projects/#Grothendieck" class="gdoc-page__anchor clip flex align-center" title="Anchor to: New bounds on the Grothendieck constant" aria-label="Anchor to: New bounds on the Grothendieck constant" href="#Grothendieck"&gt;
+ &lt;svg class="gdoc-icon gdoc_link"&gt;&lt;use xlink:href="#gdoc_link"&gt;&lt;/use&gt;&lt;/svg&gt;
+ &lt;/a&gt;
+&lt;/div&gt;
+&lt;p&gt;Let $A$ be an $n\times n$ matrix. It gives rise to the quadratic form $$\sum_{i,j} A_{ij} x_i y_j.$$ The &lt;a
+ class="gdoc-markdown__link"
+ href="https://en.wikipedia.org/wiki/Grothendieck_inequality"
+&gt;Grothendieck constant&lt;/a&gt; $k$ bounds the ratio between the maximum of this form when $x_i,y_j$ are unit vectors in a Hilbert space and the maximum of this form when $x_i,y_j\in {-1,1}$ are just real numbers. In other words, $k$ is the smallest number such that for all $A$,&lt;/p&gt;</description></item><item><title>Teaching faculty positions</title><link>https://mbraverm.github.io/admin/teachingrecruiting/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://mbraverm.github.io/admin/teachingrecruiting/</guid><description>&lt;p&gt;We are hiring for multiple teaching faculty positions in the department! Some additional information is below:&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Job Responsibilities&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Job responsibilities can include working with a team to teach and manage our large introductory and upper-level courses, advising undergraduate research, contributing to curriculum development, leading outreach programs for under-represented groups, developing EdTech tools, and creating online content.&lt;/p&gt;
+&lt;p&gt;The position features many compelling elements:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Advancing in career-oriented, teaching-stream faculty ranks: Lecturer, Senior Lecturer, University Lecturer.&lt;/li&gt;
+&lt;li&gt;Maintaining a teaching load of only one prep per semester, leaving ample time and opportunity to innovate.&lt;/li&gt;
+&lt;li&gt;Engaging with outstanding undergraduate students, undergraduate graders, and graduate TAs.&lt;/li&gt;
+&lt;li&gt;Advising undergraduate independent work projects and potentially master’s theses, which can amplify your research agenda.&lt;/li&gt;
+&lt;li&gt;Participating in department/university governance.&lt;/li&gt;
+&lt;li&gt;Earning competitive compensation and benefits, including funding for professional development and opportunities to receive summer support.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Application&lt;/strong&gt;&lt;/p&gt;</description></item><item><title>Funding</title><link>https://mbraverm.github.io/about/funding/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://mbraverm.github.io/about/funding/</guid><description>&lt;div class="flex align-center gdoc-page__anchorwrap"&gt;
+ &lt;h3 id="i-gratefully-acknowledge-the-following-funding-sources"
+ &gt;
+ I gratefully acknowledge the following funding sources:
+ &lt;/h3&gt;
+ &lt;a data-clipboard-text="https://mbraverm.github.io/about/funding/#i-gratefully-acknowledge-the-following-funding-sources" class="gdoc-page__anchor clip flex align-center" title="Anchor to: I gratefully acknowledge the following funding sources:" aria-label="Anchor to: I gratefully acknowledge the following funding sources:" href="#i-gratefully-acknowledge-the-following-funding-sources"&gt;
+ &lt;svg class="gdoc-icon gdoc_link"&gt;&lt;use xlink:href="#gdoc_link"&gt;&lt;/use&gt;&lt;/svg&gt;
+ &lt;/a&gt;
+&lt;/div&gt;
+&lt;div class="flex align-center gdoc-page__anchorwrap"&gt;
+ &lt;h4 id="present"
+ &gt;
+ Present:
+ &lt;/h4&gt;
+ &lt;a data-clipboard-text="https://mbraverm.github.io/about/funding/#present" class="gdoc-page__anchor clip flex align-center" title="Anchor to: Present:" aria-label="Anchor to: Present:" href="#present"&gt;
+ &lt;svg class="gdoc-icon gdoc_link"&gt;&lt;use xlink:href="#gdoc_link"&gt;&lt;/use&gt;&lt;/svg&gt;
+ &lt;/a&gt;
+&lt;/div&gt;
+&lt;ul&gt;
+&lt;li&gt;NSF, through the Alan T. Waterman award CCF-1933331&lt;/li&gt;
+&lt;li&gt;The Simons Foundation, through the &lt;a
+ class="gdoc-markdown__link"
+ href="https://www.simonsfoundation.org/mathematics-and-physical-science/simons-foundation-launches-simons-collaboration-on-algorithms-and-geometry/"
+&gt;Simons Collaboration on Algorithms and Geometry&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;The David and Lucile Packard Foundation, through a &lt;a
+ class="gdoc-markdown__link"
+ href="https://www.packard.org/what-we-fund/conservation-and-science/packard-fellowships-for-science-and-engineering/"
+&gt;Packard Fellowship&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;div class="flex align-center gdoc-page__anchorwrap"&gt;
+ &lt;h4 id="past"
+ &gt;
+ Past:
+ &lt;/h4&gt;
+ &lt;a data-clipboard-text="https://mbraverm.github.io/about/funding/#past" class="gdoc-page__anchor clip flex align-center" title="Anchor to: Past:" aria-label="Anchor to: Past:" href="#past"&gt;
+ &lt;svg class="gdoc-icon gdoc_link"&gt;&lt;use xlink:href="#gdoc_link"&gt;&lt;/use&gt;&lt;/svg&gt;
+ &lt;/a&gt;
+&lt;/div&gt;
+&lt;ul&gt;
+&lt;li&gt;NSF, through award CCF-1525342: &amp;ldquo;Noise across computational settings&amp;rdquo;&lt;/li&gt;
+&lt;li&gt;Princeton University, through an Alfred Rheinstein Faculty Award&lt;/li&gt;
+&lt;li&gt;NSF, through CAREER award CCF-1149888: &amp;ldquo;Coding and information theory for interactive computing&amp;rdquo;&lt;/li&gt;
+&lt;li&gt;NSF, through award CCF-1215990: &amp;ldquo;Collaborative Research: Data-driven mechanisms in healthcare&amp;rdquo; (joint with &lt;a
+ class="gdoc-markdown__link"
+ href="https://www.stanford.edu/~bayati/"
+&gt;Mohsen Bayati&lt;/a&gt; from Stanford)&lt;/li&gt;
+&lt;li&gt;The John Templeton Foundation, through a Turing Fellowship, which was part of &lt;a
+ class="gdoc-markdown__link"
+ href="https://www.mathcomp.leeds.ac.uk/turing2012/give-page.php?704"
+&gt;&amp;ldquo;The Turing Centenary Research Project - Mind, Mechanism and Mathematics&amp;rdquo;&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;NSF, through the &lt;a
+ class="gdoc-markdown__link"
+ href="https://intractability.princeton.edu/"
+&gt;Center for Computational Intractability&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;The Alfred P. Sloan Foundation, through a &lt;a
+ class="gdoc-markdown__link"
+ href="https://www.sloan.org/sloan-research-fellowships/"
+&gt;Sloan Research Fellowship&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;NSERC, through a Discovery Grant &amp;ldquo;Complexity theory, algorithms and applications&amp;rdquo; (while at the University of Toronto).&lt;/li&gt;
+&lt;/ul&gt;</description></item><item><title>Postdoc opportunities</title><link>https://mbraverm.github.io/team/postdoc-opportunities/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://mbraverm.github.io/team/postdoc-opportunities/</guid><description>&lt;p&gt;&lt;strong&gt;We have several exciting postdoctoral opportunities in Princeton and the area.&lt;/strong&gt;&lt;/p&gt;
+&lt;div class="flex align-center gdoc-page__anchorwrap"&gt;
+ &lt;h3 id="princeton-cs-theory-group"
+ &gt;
+ Princeton CS Theory group:
+ &lt;/h3&gt;
+ &lt;a data-clipboard-text="https://mbraverm.github.io/team/postdoc-opportunities/#princeton-cs-theory-group" class="gdoc-page__anchor clip flex align-center" title="Anchor to: Princeton CS Theory group:" aria-label="Anchor to: Princeton CS Theory group:" href="#princeton-cs-theory-group"&gt;
+ &lt;svg class="gdoc-icon gdoc_link"&gt;&lt;use xlink:href="#gdoc_link"&gt;&lt;/use&gt;&lt;/svg&gt;
+ &lt;/a&gt;
+&lt;/div&gt;
+&lt;p&gt;Please see Princeton academic jobs portal &lt;a
+ class="gdoc-markdown__link"
+ href="https://dof.princeton.edu/academicjobs"
+&gt;here&lt;/a&gt;, and navigate to opportunities in Computer Science.
+The Theory Group typically advertises a postdoctoral research associate position and an associate research scholar position, which is slightly more senior. Both positions
+are reviewed in the late Fall, with the goal of making decisions by January/February.&lt;/p&gt;</description></item><item><title>Writings</title><link>https://mbraverm.github.io/research/writings/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://mbraverm.github.io/research/writings/</guid><description>&lt;div class="flex align-center gdoc-page__anchorwrap"&gt;
+ &lt;h2 id="an-essay-on-the-need-for-personal-digital-advocates"
+ &gt;
+ An essay on the need for personal digital advocates
+ &lt;/h2&gt;
+ &lt;a data-clipboard-text="https://mbraverm.github.io/research/writings/#an-essay-on-the-need-for-personal-digital-advocates" class="gdoc-page__anchor clip flex align-center" title="Anchor to: An essay on the need for personal digital advocates" aria-label="Anchor to: An essay on the need for personal digital advocates" href="#an-essay-on-the-need-for-personal-digital-advocates"&gt;
+ &lt;svg class="gdoc-icon gdoc_link"&gt;&lt;use xlink:href="#gdoc_link"&gt;&lt;/use&gt;&lt;/svg&gt;
+ &lt;/a&gt;
+&lt;/div&gt;
+&lt;p&gt;(Last updated: December 2020)&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Abstract:&lt;/em&gt; There is a growing power imbalance between companies who have access to powerful algorithms and processing capacity and users who don’t. To restore the balance, we need to put equally powerful algorithms in the hands of individuals. There are two concrete steps we recommend:&lt;/p&gt;</description></item><item><title>All Papers</title><link>https://mbraverm.github.io/research/all-papers/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://mbraverm.github.io/research/all-papers/</guid><description>&lt;div class="flex align-center gdoc-page__anchorwrap"&gt;
+ &lt;h3 id="selected-recent-publications-and-preprints"
+ &gt;
+ Selected recent publications and preprints
+ &lt;/h3&gt;
+ &lt;a data-clipboard-text="https://mbraverm.github.io/research/all-papers/#selected-recent-publications-and-preprints" class="gdoc-page__anchor clip flex align-center" title="Anchor to: Selected recent publications and preprints" aria-label="Anchor to: Selected recent publications and preprints" href="#selected-recent-publications-and-preprints"&gt;
+ &lt;svg class="gdoc-icon gdoc_link"&gt;&lt;use xlink:href="#gdoc_link"&gt;&lt;/use&gt;&lt;/svg&gt;
+ &lt;/a&gt;
+&lt;/div&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Optimization-friendly generic mechanisms without money&lt;br&gt;
+Mark Braverman&lt;br&gt;
+&lt;a
+ class="gdoc-markdown__link"
+ href="https://arxiv.org/abs/2106.07752"
+&gt;[arXiv]&lt;/a&gt; &lt;a
+ class="gdoc-markdown__link"
+ href="https://www.youtube.com/watch?v=OBGPOJc7VvI"
+&gt;[talk]&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Statistically near-optimal hypothesis selection&lt;br&gt;
+Olivier Bousquet, Mark Braverman, Klim Efremenko, Gillat Kol, Shay Moran&lt;br&gt;
+FOCS'21; &lt;a
+ class="gdoc-markdown__link"
+ href="https://arxiv.org/abs/2108.07880"
+&gt;[arXiv]&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Tight space complexity of the coin problem&lt;br&gt;
+Mark Braverman, Sumegha Garg, Or Zamir&lt;br&gt;
+FOCS'21; &lt;a
+ class="gdoc-markdown__link"
+ href="https://eccc.weizmann.ac.il/report/2021/083/"
+&gt;[ECCC]&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Data-driven incentive alignment in capitation schemes&lt;br&gt;
+Mark Braverman, Sylvain Chassang&lt;br&gt;
+&lt;a
+ class="gdoc-markdown__link"
+ href="https://www.nber.org/papers/w28429"
+&gt;[NBER preprint]&lt;/a&gt; &lt;a
+ class="gdoc-markdown__link"
+ href="https://authors.elsevier.com/c/1eayJAlw9lYxU"
+&gt;[Journal of Public Economics &lt;strong&gt;207&lt;/strong&gt;, 2022]&lt;/a&gt;&lt;/p&gt;</description></item><item><title>Undergraduate projects</title><link>https://mbraverm.github.io/team/undergraduate-projects/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://mbraverm.github.io/team/undergraduate-projects/</guid><description>&lt;div class="flex align-center gdoc-page__anchorwrap"&gt;
+ &lt;h2 id="2015-16"
+ &gt;
+ 2015-16:
+ &lt;/h2&gt;
+ &lt;a data-clipboard-text="https://mbraverm.github.io/team/undergraduate-projects/#2015-16" class="gdoc-page__anchor clip flex align-center" title="Anchor to: 2015-16:" aria-label="Anchor to: 2015-16:" href="#2015-16"&gt;
+ &lt;svg class="gdoc-icon gdoc_link"&gt;&lt;use xlink:href="#gdoc_link"&gt;&lt;/use&gt;&lt;/svg&gt;
+ &lt;/a&gt;
+&lt;/div&gt;
+&lt;ul&gt;
+&lt;li&gt;Esther Rolf &amp;lsquo;16, &lt;em&gt;Thesis&lt;/em&gt;, &amp;ldquo;Capturing multiparty communication: extending notions of information theory to topology-dependent multiparty problems&amp;rdquo;&lt;/li&gt;
+&lt;li&gt;Michael Yitayew &amp;lsquo;16, &lt;em&gt;Thesis&lt;/em&gt;, &amp;ldquo;Short-circuit error resilience in Boolean formulas&amp;rdquo;&lt;/li&gt;
+&lt;li&gt;Zhongxia (Ricky) Zhao &amp;lsquo;16, &lt;em&gt;Thesis&lt;/em&gt;, &amp;ldquo;Non-clearing and combinatorial Walrasian equilibria&amp;rdquo;&lt;/li&gt;
+&lt;li&gt;Clement Lee &amp;lsquo;17, &lt;em&gt;F15&lt;/em&gt;, &amp;ldquo;Fast polynomial factorization&amp;rdquo;&lt;/li&gt;
+&lt;li&gt;Blair Wang &amp;lsquo;17, &lt;em&gt;F15&lt;/em&gt;, &amp;ldquo;Discovery of spurious statistical relationships&amp;rdquo;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;div class="flex align-center gdoc-page__anchorwrap"&gt;
+ &lt;h2 id="2014-15"
+ &gt;
+ 2014-15:
+ &lt;/h2&gt;
+ &lt;a data-clipboard-text="https://mbraverm.github.io/team/undergraduate-projects/#2014-15" class="gdoc-page__anchor clip flex align-center" title="Anchor to: 2014-15:" aria-label="Anchor to: 2014-15:" href="#2014-15"&gt;
+ &lt;svg class="gdoc-icon gdoc_link"&gt;&lt;use xlink:href="#gdoc_link"&gt;&lt;/use&gt;&lt;/svg&gt;
+ &lt;/a&gt;
+&lt;/div&gt;
+&lt;ul&gt;
+&lt;li&gt;David Durst &amp;lsquo;15, &lt;em&gt;Thesis&lt;/em&gt;, &amp;ldquo;Beyond3D: Visualizing high-dimensional data sets&amp;rdquo;&lt;/li&gt;
+&lt;li&gt;James Pinkerton &amp;lsquo;15, &lt;em&gt;Thesis&lt;/em&gt;, &amp;ldquo;Energy function arguments in finding Tower of Majority lower bounds&amp;rdquo;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;div class="flex align-center gdoc-page__anchorwrap"&gt;
+ &lt;h2 id="2013-14"
+ &gt;
+ 2013-14:
+ &lt;/h2&gt;
+ &lt;a data-clipboard-text="https://mbraverm.github.io/team/undergraduate-projects/#2013-14" class="gdoc-page__anchor clip flex align-center" title="Anchor to: 2013-14:" aria-label="Anchor to: 2013-14:" href="#2013-14"&gt;
+ &lt;svg class="gdoc-icon gdoc_link"&gt;&lt;use xlink:href="#gdoc_link"&gt;&lt;/use&gt;&lt;/svg&gt;
+ &lt;/a&gt;
+&lt;/div&gt;
+&lt;ul&gt;
+&lt;li&gt;Andra Constantinescu &amp;lsquo;14, &lt;em&gt;Thesis&lt;/em&gt;, &amp;ldquo;Behavioral mechanism design - accounting for the mental cost of choosing&amp;rdquo;&lt;/li&gt;
+&lt;li&gt;Mihai Roman &amp;lsquo;14, &lt;em&gt;Thesis&lt;/em&gt;, &amp;ldquo;Computational complexity of pricing derivatives&amp;rdquo;&lt;/li&gt;
+&lt;li&gt;Leonardo Stedile &amp;lsquo;14, &lt;em&gt;Thesis&lt;/em&gt;, &amp;ldquo;Primal-dual based weights and other kidney exchange mechanisms&amp;rdquo;&lt;/li&gt;
+&lt;li&gt;Valentina Barboy &amp;lsquo;15, &lt;em&gt;F13&lt;/em&gt;, &amp;ldquo;An exploration of the accuracy and efficiency of peer grading&amp;rdquo;&lt;/li&gt;
+&lt;li&gt;Stefani Karp &amp;lsquo;15, &lt;em&gt;S14&lt;/em&gt;, &amp;ldquo;Information-theoretic approaches to the Unexpected Hanging Paradox&amp;rdquo;&lt;/li&gt;
+&lt;li&gt;Christoph Schlom &amp;lsquo;15, &lt;em&gt;S14&lt;/em&gt;, &amp;ldquo;Calibration testing&amp;rdquo;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;div class="flex align-center gdoc-page__anchorwrap"&gt;
+ &lt;h2 id="2012-13"
+ &gt;
+ 2012-13:
+ &lt;/h2&gt;
+ &lt;a data-clipboard-text="https://mbraverm.github.io/team/undergraduate-projects/#2012-13" class="gdoc-page__anchor clip flex align-center" title="Anchor to: 2012-13:" aria-label="Anchor to: 2012-13:" href="#2012-13"&gt;
+ &lt;svg class="gdoc-icon gdoc_link"&gt;&lt;use xlink:href="#gdoc_link"&gt;&lt;/use&gt;&lt;/svg&gt;
+ &lt;/a&gt;
+&lt;/div&gt;
+&lt;ul&gt;
+&lt;li&gt;Kevin Mantel &amp;lsquo;13, &lt;em&gt;Thesis&lt;/em&gt;, &amp;ldquo;Election manipulation through misrepresentation of pre-election polls&amp;rdquo;&lt;/li&gt;
+&lt;li&gt;Gal Oshri &amp;lsquo;13, &lt;em&gt;Thesis&lt;/em&gt;, &amp;ldquo;Contracting experts with unknown cost structures&amp;rdquo;&lt;/li&gt;
+&lt;li&gt;Kanika Pasricha, &lt;em&gt;Thesis&lt;/em&gt;, &amp;ldquo;The computational hardness of pricing compound securities&amp;rdquo;&lt;/li&gt;
+&lt;li&gt;Ashish Gupta &amp;lsquo;13, &lt;em&gt;F12&lt;/em&gt;, &amp;ldquo;An investigation of the usefulness of data preprocessing techniques versus algorithmic sophistication on diabetes prediction&amp;rdquo;&lt;/li&gt;
+&lt;li&gt;Leonardo Stedile &amp;lsquo;14, &lt;em&gt;F12&lt;/em&gt;, &amp;ldquo;Analysis of risk in chess&amp;rdquo;&lt;/li&gt;
+&lt;li&gt;Xiao Tian (Elaine) Liew &amp;lsquo;14, &lt;em&gt;F12&lt;/em&gt;, &amp;ldquo;Effect of network structure on PageRank of spam&amp;rdquo;&lt;/li&gt;
+&lt;li&gt;Xin Yang Yak &amp;lsquo;14, &lt;em&gt;S13&lt;/em&gt;, &amp;ldquo;Do YouTube users upvote Better Comments? An analysis of the influence of spelling on comment ratings&amp;rdquo;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;div class="flex align-center gdoc-page__anchorwrap"&gt;
+ &lt;h2 id="2011-12"
+ &gt;
+ 2011-12:
+ &lt;/h2&gt;
+ &lt;a data-clipboard-text="https://mbraverm.github.io/team/undergraduate-projects/#2011-12" class="gdoc-page__anchor clip flex align-center" title="Anchor to: 2011-12:" aria-label="Anchor to: 2011-12:" href="#2011-12"&gt;
+ &lt;svg class="gdoc-icon gdoc_link"&gt;&lt;use xlink:href="#gdoc_link"&gt;&lt;/use&gt;&lt;/svg&gt;
+ &lt;/a&gt;
+&lt;/div&gt;
+&lt;ul&gt;
+&lt;li&gt;Michael Zhu &amp;lsquo;13, &lt;em&gt;S12&lt;/em&gt;, &amp;ldquo;Finding overlapping communities in graphs&amp;rdquo;&lt;/li&gt;
+&lt;li&gt;Gal Oshri &amp;lsquo;13, &lt;em&gt;S12&lt;/em&gt;, &amp;ldquo;Search on multiple indistinguishable items&amp;rdquo;&lt;/li&gt;
+&lt;li&gt;Rafael Grinberg &amp;lsquo;12, &lt;em&gt;S12&lt;/em&gt;, &amp;ldquo;The effects of noise on cellular automata&amp;rdquo;&lt;/li&gt;
+&lt;/ul&gt;</description></item><item><title>Math has been enabled</title><link>https://mbraverm.github.io/posts/math-enabled/</link><pubDate>Tue, 02 Mar 2021 00:00:00 +0000</pubDate><guid>https://mbraverm.github.io/posts/math-enabled/</guid><description>&lt;p&gt;Math is now enabled:&lt;/p&gt;
+&lt;p&gt;Inline math: $\varphi = \dfrac{1+\sqrt5}{2}= 1.6180339887…$; or&lt;/p&gt;
+&lt;p&gt;Block math:&lt;/p&gt;
+&lt;p&gt;$$
+\varphi = 1+\frac{1} {1+\frac{1} {1+\frac{1} {1+\cdots} } }
+$$&lt;/p&gt;</description></item><item><title>New Website</title><link>https://mbraverm.github.io/posts/new-website/</link><pubDate>Thu, 11 Feb 2021 00:00:00 +0000</pubDate><guid>https://mbraverm.github.io/posts/new-website/</guid><description>&lt;p&gt;I created my new website using Hugo and GeekDocs!&lt;/p&gt;</description></item></channel></rss>
