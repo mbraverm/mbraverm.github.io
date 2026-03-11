@@ -48,6 +48,12 @@
  &lt;svg class="gdoc-icon gdoc_link"&gt;&lt;use xlink:href="#gdoc_link"&gt;&lt;/use&gt;&lt;/svg&gt;
  &lt;/a&gt;
 &lt;/div&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a
+ class="gdoc-markdown__link"
+ href="https://cseweb.ucsd.edu/~nmhopkin/"
+&gt;Max Hopkins&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
 &lt;div class="flex align-center gdoc-page__anchorwrap"&gt;
  &lt;h2 id="alumni"
  &gt;
