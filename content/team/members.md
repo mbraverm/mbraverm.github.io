@@ -7,6 +7,12 @@ weight: 10
 
 ### Graduate students:
 
+* [Elijah Journey Fullerton](https://elijah-fullerton.github.io/)
+* Amrit Daswaney
+* [Jingyi Liu](https://jingyirose.github.io/)
+* [Eric Xue](https://ericrxue.com/)
+* [Stephen Newman](https://stephenharmonnewman.com/)
+* [Zhongtian He](https://sites.google.com/view/zhongtianhe)
 
 ### Postdocs:
 
