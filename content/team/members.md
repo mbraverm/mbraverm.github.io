@@ -16,7 +16,7 @@ weight: 10
 
 ### Postdocs:
 
-
+* [Max Hopkins](https://cseweb.ucsd.edu/~nmhopkin/)
 
 
 ## Alumni:
@@ -38,6 +38,7 @@ With first place of employment/study:
 
 ### Postdocs I supervised or worked with closely
 
+* [Yang P. Liu](https://yangpliu.github.io/)
 * [Mahsa Derakhshan](http://www.cs.umd.edu/~mahsa/); Faculty at Northeastern University.
 * [Vijay Bhattiprolu](http://vspvijay.com/); Facutly at University of Waterloo. 
 * John Peebles
