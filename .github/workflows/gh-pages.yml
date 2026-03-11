@@ -1,0 +1,46 @@
+name: GitHub Pages Build
+
+on:
+  push:
+    branches:
+      - main # Set a branch to deploy
+
+jobs:
+  deploy:
+    runs-on: ubuntu-22.04
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          submodules: true # Fetch Hugo themes (true OR recursive)
+          fetch-depth: 0 # Fetch all history for .GitInfo and .Lastmod
+
+      - name: Setup Node.js to build theme
+        uses: actions/setup-node@v4
+        with:
+          node-version: 20
+
+      - name: Build Geekdoc theme (1/2)
+        working-directory: ./themes/hugo-geekdoc
+        run: npm install
+
+      - name: Build Geekdoc theme (2/2)
+        working-directory: ./themes/hugo-geekdoc
+        run: npm run build
+
+      - name: Setup Hugo
+        uses: peaceiris/actions-hugo@v2
+        with:
+          hugo-version: "latest"
+          extended: true
+
+      - name: Build website
+        run: hugo --minify
+
+      - name: Deploy to gh-pages branch
+        uses: peaceiris/actions-gh-pages@v3
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_branch: gh-pages
+          user_name: "github-actions[bot]"
+          user_email: "github-actions[bot]@users.noreply.github.com"
+          cname: mbraverm.princeton.edu
