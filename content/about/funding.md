@@ -5,14 +5,9 @@ weight: 30
 
 ### I gratefully acknowledge the following funding sources:
 
-#### Present:
-
 * NSF, through the Alan T. Waterman award CCF-1933331
 * The Simons Foundation, through the [Simons Collaboration on Algorithms and Geometry](https://www.simonsfoundation.org/mathematics-and-physical-science/simons-foundation-launches-simons-collaboration-on-algorithms-and-geometry/)
 * The David and Lucile Packard Foundation, through a [Packard Fellowship](https://www.packard.org/what-we-fund/conservation-and-science/packard-fellowships-for-science-and-engineering/)
-
-#### Past:
-
 * NSF, through award CCF-1525342: "Noise across computational settings"
 * Princeton University, through an Alfred Rheinstein Faculty Award
 * NSF, through CAREER award CCF-1149888: "Coding and information theory for interactive computing"
