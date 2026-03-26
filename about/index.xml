@@ -50,15 +50,6 @@
  &lt;svg class="gdoc-icon gdoc_link"&gt;&lt;use xlink:href="#gdoc_link"&gt;&lt;/use&gt;&lt;/svg&gt;
  &lt;/a&gt;
 &lt;/div&gt;
-&lt;div class="flex align-center gdoc-page__anchorwrap"&gt;
- &lt;h4 id="present"
- &gt;
- Present:
- &lt;/h4&gt;
- &lt;a data-clipboard-text="https://mbraverm.github.io/about/funding/#present" class="gdoc-page__anchor clip flex align-center" title="Anchor to: Present:" aria-label="Anchor to: Present:" href="#present"&gt;
- &lt;svg class="gdoc-icon gdoc_link"&gt;&lt;use xlink:href="#gdoc_link"&gt;&lt;/use&gt;&lt;/svg&gt;
- &lt;/a&gt;
-&lt;/div&gt;
 &lt;ul&gt;
 &lt;li&gt;NSF, through the Alan T. Waterman award CCF-1933331&lt;/li&gt;
 &lt;li&gt;The Simons Foundation, through the &lt;a
@@ -69,17 +60,6 @@
  class="gdoc-markdown__link"
  href="https://www.packard.org/what-we-fund/conservation-and-science/packard-fellowships-for-science-and-engineering/"
 &gt;Packard Fellowship&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;div class="flex align-center gdoc-page__anchorwrap"&gt;
- &lt;h4 id="past"
- &gt;
- Past:
- &lt;/h4&gt;
- &lt;a data-clipboard-text="https://mbraverm.github.io/about/funding/#past" class="gdoc-page__anchor clip flex align-center" title="Anchor to: Past:" aria-label="Anchor to: Past:" href="#past"&gt;
- &lt;svg class="gdoc-icon gdoc_link"&gt;&lt;use xlink:href="#gdoc_link"&gt;&lt;/use&gt;&lt;/svg&gt;
- &lt;/a&gt;
-&lt;/div&gt;
-&lt;ul&gt;
 &lt;li&gt;NSF, through award CCF-1525342: &amp;ldquo;Noise across computational settings&amp;rdquo;&lt;/li&gt;
 &lt;li&gt;Princeton University, through an Alfred Rheinstein Faculty Award&lt;/li&gt;
 &lt;li&gt;NSF, through CAREER award CCF-1149888: &amp;ldquo;Coding and information theory for interactive computing&amp;rdquo;&lt;/li&gt;
